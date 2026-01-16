@@ -1,0 +1,82 @@
+Article X-E — Expressive Works Embedded in Software
+
+Section 1. Non-Derogation and Relationship to Articles X, X-A, and X-B
+
+This Article supplements Articles X, X-A, and X-B.
+
+Nothing in this Article shall be construed to narrow, rebalance, or reinterpret any right, protection, or safeguard established therein.
+
+Where doubt exists, the construction that preserves technological continuity, public access, and preservation shall control.
+
+⸻
+
+Section 2. Expressive Works Incorporated into Software
+
+Any expressive work intentionally incorporated into software for purposes of:
+	1.	operation;
+	2.	interaction;
+	3.	presentation;
+	4.	audiovisual output;
+	5.	narrative, world-building, or user experience;
+
+shall be deemed part of the software artifact.
+
+Such works include, but are not limited to:
+	•	code-embedded text or dialogue;
+	•	visual assets;
+	•	music and sound;
+	•	narrative structures;
+	•	interface design elements essential to function or experience.
+
+⸻
+
+Section 3. Unified Preservation and Continuity Doctrine
+
+Expressive works incorporated into software shall be governed by the same continuity, preservation, and access rules as the software itself.
+
+No expressive component may be withheld, stripped, or separately enclosed where doing so would impair:
+	1.	operation;
+	2.	faithful emulation;
+	3.	historical preservation;
+	4.	scholarly or educational use.
+
+⸻
+
+Section 4. Public-Domain Timetable Alignment
+
+Where software enters the public domain, commons, or preservation regime pursuant to Articles X or X-A, all expressive works embedded therein shall enter on the same timetable.
+
+No separate copyright, licensing, or contractual claim may be used to delay or defeat lawful preservation, emulation, or access.
+
+⸻
+
+Section 5. Anti-Severance and Anti-Hostage Rule
+
+Expressive works shall not be artificially severed from software for the purpose of:
+	1.	extending enclosure;
+	2.	extracting rents after software sunset;
+	3.	preventing emulation or restoration;
+	4.	suppressing historical record.
+
+Such severance constitutes spoliation of the digital commons.
+
+⸻
+
+Section 6. Preservation, Emulation, and Restoration Rights
+
+Upon abandonment, sunset, or commons reversion of software, the People retain the right to preserve, emulate, restore, and study the software in its complete expressive form, including all embedded expressive works.
+
+Preservation in degraded or incomplete form shall not be deemed sufficient where full preservation is practicable.
+
+Disputes under this Article shall be heard exclusively by the Constitutional Review Court, with expedited appeal to the Supreme Court.
+
+⸻
+
+Section 7. Interpretation
+
+This Article shall be interpreted to prevent the fragmentation of software artifacts into artificial legal silos.
+
+Where doubt exists, expressive works embedded in software shall be treated as inseparable components of the technological whole.
+
+⸻
+

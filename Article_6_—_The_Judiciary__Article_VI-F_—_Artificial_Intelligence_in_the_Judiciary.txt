@@ -1,0 +1,129 @@
+Article VI-F — Artificial Intelligence in the Judiciary
+
+Section 1. Subordination of Artificial Intelligence to Judicial Authority
+
+Artificial intelligence, algorithms, automation, and advanced computational systems used within the Judiciary shall be treated solely as tools.
+
+No artificial system shall exercise judicial power, discretion, or authority.
+
+All judicial responsibility shall remain vested in identifiable human judges, accountable under this Constitution.
+
+⸻
+
+Section 2. Permitted Advisory Uses
+
+Artificial systems may be used only for advisory, clerical, or assistive functions, including:
+	1.	research assistance;
+	2.	document management and citation checking;
+	3.	docket administration and scheduling;
+	4.	pattern identification in non-dispositive data.
+
+Advisory use shall not bind, substitute for, or preempt independent judicial judgment.
+
+⸻
+
+Section 3. Prohibited Uses
+
+Artificial systems shall not be used to:
+	1.	determine guilt or innocence;
+	2.	assess credibility, demeanor, intent, or truthfulness;
+	3.	impose or recommend criminal sentences;
+	4.	calculate damages or liability in a binding manner;
+	5.	weigh evidence or apply legal standards autonomously;
+	6.	override or constrain jury authority;
+	7.	generate binding judicial opinions or orders.
+
+Any judgment or order materially influenced by prohibited use is void.
+
+⸻
+
+Section 4. Disclosure and Litigant Rights
+
+Any use of artificial systems in a judicial proceeding shall be disclosed to the parties.
+
+Litigants shall have the right to:
+	1.	know whether artificial systems were used;
+	2.	receive a general description of their function;
+	3.	challenge improper or undisclosed use.
+
+No party shall be compelled to accept algorithmic assessment as a substitute for human adjudication.
+
+⸻
+
+Section 5. Opt-Out and Human Review
+
+Where artificial systems are used in advisory capacities affecting case processing, any party may request human-only review.
+
+Judges shall independently evaluate all outputs and shall not defer to algorithmic recommendations.
+
+⸻
+
+Section 6. Auditability and Transparency
+
+All artificial systems deployed within the Judiciary shall be:
+	1.	auditable;
+	2.	documented;
+	3.	subject to inspection for constitutional compliance.
+
+No proprietary, opaque, or undisclosed system essential to adjudication may be used.
+
+Judicial reliance on uninspectable “black box” systems is prohibited.
+
+⸻
+
+Section 7. Judicial Artificial Intelligence Oversight Office
+
+A Judicial Artificial Intelligence Review Office (CAIRO–Judicial) shall operate within the oversight framework established under Article XII.
+
+The Office shall:
+	1.	audit judicial AI systems for compliance;
+	2.	investigate violations;
+	3.	publish regular public reports;
+	4.	refer misconduct for discipline under Article VI-D.
+
+The Office shall possess no adjudicatory authority.
+
+⸻
+
+Section 8. Records and Preservation
+
+All records relating to the procurement, deployment, training, configuration, and use of artificial systems in the Judiciary shall constitute public records.
+
+Such records shall be preserved and made accessible pursuant to Article VI-E and Article XXXIX.
+
+⸻
+
+Section 9. Emergency Prohibition
+
+No emergency, efficiency rationale, or workload justification shall authorize artificial systems to exercise prohibited judicial functions.
+
+Emergency authorities under Article XV shall not override the protections of this Subarticle.
+
+⸻
+
+Section 10. Remedies and Accountability
+
+Any person harmed by judicial use of artificial systems in violation of this Subarticle shall have standing to seek relief.
+
+Judicial officers, administrators, or contractors who knowingly authorize prohibited use shall be subject to discipline, removal, and personal liability as provided by law.
+
+No immunity shall shield intentional violations.
+
+⸻
+
+Section 11. Relationship to Article XII
+
+This Subarticle is subordinate to and shall be construed in harmony with Article XII.
+
+Where a conflict is alleged, the construction imposing greater human accountability, transparency, and restraint shall control.
+
+The Judiciary shall not claim exemption from Article XII except where this Constitution expressly provides otherwise.
+
+⸻
+
+Section 12. Interpretation
+
+This Subarticle shall be interpreted to ensure that justice remains a human moral act, that machines do not replace judgment in matters of liberty and rights, and that technology serves the courts without governing them.
+
+⸻
+

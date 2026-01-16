@@ -1,0 +1,128 @@
+Article XVII — Corporate Legitimacy and Accountability
+
+Charge
+
+This Article establishes constitutional requirements governing the formation, recognition, regulation, and accountability of corporations and similar artificial entities within the Republic. Corporate status shall confer no sovereign authority and shall remain subordinate to law, public oversight, and the rights of natural persons. Nothing in this Article shall be interpreted to grant corporate privileges, immunities, or legal standing beyond those expressly authorized by law and consistent with constitutional limits.
+
+
+Legal Text
+
+Section 1. Nature of Corporate Existence
+
+(a) No Natural Right
+Corporations possess no natural, inherent, or inalienable rights. They exist solely by charter, license, or recognition granted by the Republic for defined productive purposes. Corporate existence is a privilege, not a right.
+
+(b) Instrumental Character
+A corporation is a legal instrument through which natural persons act. It shall not be treated as a moral person, citizen, or sovereign entity. Rights extended to corporations exist only insofar as they are necessary to enable lawful productive activity and accountability.
+
+(c) Subordination to the Republic
+All corporations are subordinate to the Constitution, the sovereignty of the Republic, the welfare of the People, and the rule of law. No corporate interest may supersede these obligations.
+
+Section 2. Legitimate Purposes
+
+(a) Productive Purpose Requirement
+Corporations may be formed only for legitimate productive purposes, including creation of goods or services, employment of labor, innovation and research, infrastructure development, lawful trade and commerce, and charitable or educational activity conducted in good faith. Formation for predatory, manipulative, extractive, or purely rent-seeking purposes is prohibited.
+
+(b) Prohibited Corporate Purposes
+It is unlawful to form or operate a corporation primarily for hostile takeovers intended to destroy productive capacity, concealment of assets, ownership, or intent, evasion of legal or moral accountability, laundering of foreign or illicit influence, manipulation of markets, elections, or public institutions, destabilization of communities, food systems, or governance, or coordinated harm to the Republic or its People. Such purposes render a corporation illegitimate ab initio. A finding of illegitimacy ab initio shall require determination by the Constitutional Review Court based on evidence of primary purpose, intent, and material conduct.
+
+Section 3. Transparency and Accountability
+
+(a) Beneficial Ownership
+All corporations shall disclose their true beneficial owners and controlling interests. Layered entities, nominees, shell structures, trusts, and artificial partitions shall not obscure accountability. For constitutional purposes, ownership, control, coordination, and common management shall be aggregated regardless of legal form. The Constitutional Judicial Commission shall have standing to audit, investigate, and certify whether beneficial ownership, shell structures, or artificial partitions are being used to evade accountability under this Article.
+
+(b) Substance Over Form
+Courts shall evaluate corporate conduct by material outcomes and intent, not by nominal compliance or formal structure. Legal form shall not shield substantive wrongdoing.
+
+(c) Piercing of the Corporate Veil
+Where a corporation is used to commit wrongdoing, evade law, sabotage public systems, or cause grave harm, courts shall pierce the corporate veil without limitation. Veil piercing shall occur through process before the Constitutional Review Court, with personal liability attaching only to natural persons found culpable by evidence of control, intent, or knowing participation.
+
+Section 4. Grave Corporate Offenses
+
+(a) Definition
+A corporation commits a grave offense when it knowingly or recklessly engages in conduct that undermines the sovereignty of the Republic, corrupts public institutions, poisons land, food, water, or people, enables trafficking, slavery, or systemic exploitation, engineers dependency or artificial scarcity, manipulates law, science, information, or technology with knowing falsehood or reckless disregard for truth to cause public harm, or obstructs or sabotages the public commons after lawful sunset or convergence. For purposes of this Section, ‘knowingly or recklessly’ requires actual knowledge, willful blindness, or conscious disregard of a substantial and unjustifiable risk of public harm.
+
+(b) Third-Tier Classification
+Grave corporate offenses may be classified as third-tier crimes where scale, intent, or impact warrants. ‘Third-tier crimes’ shall have the meaning, evidentiary standards, and penalties set forth in Article VII. Corporate form shall not mitigate severity.
+(c) Constitutional Judicial Commission
+The Constitutional Judicial Commission shall have standing to investigate and certify whether conduct under this Section constitutes institutional capture, foreign influence, or coordinated economic warfare, and may petition the Constitutional Review Court for Tier-Three classification.
+
+
+Section 5. Remedies and Sanctions
+
+(a) Dissolution
+Upon Constitutional Review Court finding of grave offense, a corporation may be dissolved, stripped of charter, or barred permanently from reconstitution under any form.
+
+(b) Forfeiture
+Assets used to commit or conceal wrongdoing may be seized and repurposed for restitution or public benefit, with priority given to non-culpable parties such as employees (wages and pensions) and small shareholders before public use.
+
+(c) Criminal Prosecution
+Natural persons responsible shall be prosecuted to the full extent of the law. No fine shall substitute for accountability.
+
+(d) Enemy of the Republic
+Where a corporate entity acts maliciously, systematically, and evidentially against the Republic, it may be designated an Enemy of the Republic following rigorous evidentiary review, scientific and factual assessment of harm and intent, and judicial determination by seven-ninths vote of the Supreme Court with public findings, following an evidentiary record developed by the Constitutional Review Court. Designation as an Enemy of the Republic shall require clear and convincing evidence of malicious intent, systematic conduct, and grave harm, with findings addressing necessity, proportionality, and exhaustion of lesser remedies. Such designation shall apply only to the offending entity and responsible natural persons, and shall not impose collective punishment on non-culpable employees, customers, or shareholders.
+
+Section 6. Digital Commons Compliance
+
+(a) Constitutional Obligation
+Any corporation that develops, maintains, controls, or licenses software, hardware, data systems, or technical infrastructure subject to Article X shall comply with abandonment, sunset, and convergence requirements; preserve and disclose all code and design iterations upon trigger; and cooperate with lawful archival and public access. Terms including ‘abandonment,’ ‘sunset,’ and ‘convergence’ shall have the meanings set forth in Article X.
+
+(b) License Warfare Prohibited
+The use of licensing schemes, shell entities, legal fragmentation, or ideological barriers to prevent lawful reuse of mature knowledge after lawful convergence trigger constitutes hostile conduct against the Republic. Findings of hostile conduct under this Section shall require determination by the Constitutional Review Court based on technical evidence and material obstruction of lawful convergence.
+
+Section 7. Periodic Charter Review and Mission Lock
+
+(a) Periodic Charter Review
+Corporations exceeding thresholds defined by law shall undergo periodic charter review every twenty-five (25) years to demonstrate ongoing productive purpose and public benefit. Charter review shall be evidence-based, non-ideological, and limited to evaluation of stated productive purpose, public harm, and material compliance, and shall not be used to punish lawful dissent or unpopular speech.
+
+(b) Founder Mission Lock
+Founders may embed an irrevocable productive mission statement in the corporate charter. Courts shall consider this mission in veil-piercing, dissolution, or grave offense proceedings.
+
+(c) Anti-Crony Certification
+Corporations receiving federal contracts, subsidies, bailouts, or emergency aid must certify no political donations or lobbying in the prior five (5) years. 
+The Constitutional Judicial Commission shall audit and certify compliance with this subsection and may refer violations to the Constitutional Review Court for remedies under Section 5.
+
+(d) Open-Source After Subsidy
+Technology developed with public funds or tax privileges must open-source non-core intellectual property after fifteen (15) years or patent expiration, whichever comes first.
+
+(e) Innovation Monopoly Carve-Out
+Temporary protection from certain anti-monopoly rules may be granted to corporations that create entirely new markets through genuine innovation. ‘Genuine innovation’ requires demonstrable creation of new productive capacity, not merely financial engineering, regulatory arbitrage, or control of existing markets.
+
+Section 8. Prohibition on Reconstruction and Conquest Profiteering
+
+(a) No Profit from War or Collapse
+No corporation, consortium, financial instrument, or private actor may profit from military conquest, post-war reconstruction, regime collapse, sanctions-induced scarcity, or humanitarian crises caused or exacerbated by state action.
+
+(b) Ban on Preferential Contracting
+No corporation may receive preferential contracts or exclusive rights in territories subject to military intervention or post-conflict rebuilding arising from prior lobbying or political coordination.
+
+(c) Public-Interest Reconstruction Only
+All reconstruction efforts shall prioritize civilian welfare, essential infrastructure, and transparent contracting.
+
+(d) Criminal Liability
+Any corporation or natural person who advocates for war for private gain, engineers instability for profit, or exploits conquest to extract wealth commits a grave offense against the Republic. Liability requires material advocacy, coordination, or action that foreseeably contributed to conflict or exploitation, not mere expression of opinion absent causal nexus.
+The Constitutional Judicial Commission shall have standing to investigate coordination, lobbying, or financial engineering intended to provoke or exploit conflict and to refer such findings to the Constitutional Review Court.
+
+Section 9. Limits and Protections
+
+(a) Protection of Legitimate Enterprise
+This Article shall not be interpreted to punish lawful success, discourage productive enterprise, prohibit scale achieved through value creation, interfere with honest competition, or suppress lawful dissent or innovation.
+
+(b) Due Process
+All actions under this Article require notice, evidence, judicial review, and proportional remedies. No corporation shall be condemned by accusation alone.
+
+Section 10. Interpretation
+This Article shall be interpreted to ensure that economic power remains the servant of human dignity, national sovereignty, and truth. When private power becomes unaccountable, liberty dies. Therefore, the Republic reserves the right to revoke the privileges it grants.
+
+Article XVII — Definitions and Construction
+	•	Corporation includes any for-profit or nonprofit legal entity recognized by law.
+	•	Beneficial ownership means direct or indirect control, equity, or decision-making power.
+	•	Grave offense means conduct defined in Section 4 meeting the mens rea requirements herein.
+	•	Enemy of the Republic means designation under Section 5(d).
+	•	Crime tiers, evidentiary standards, and penalties are governed by Article VII.
+	•	Digital commons terms are governed by Article X.
+	•	Rules of constitutional interpretation are governed by Article XIX.
+	•	Courts shall evaluate substance over form and require notice, evidence, judicial findings, and proportionality before sanctions.
+
+As it is written: “You cannot serve both God and Mammon.”
+

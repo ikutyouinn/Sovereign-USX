@@ -1,0 +1,182 @@
+Article XXVII — Legislative Integrity, Transparency, and Due Process of Lawmaking
+
+Charge
+
+Law derives legitimacy not from secrecy, speed, or expertise alone, but from clarity, accountability, and consent. Where law is obscured, manipulated, or buried in process, self-government collapses into managerial rule.
+
+This Article binds the Legislature to honest procedure, recorded responsibility, and public intelligibility, ensuring that law is made in daylight and that no power may govern through confusion, concealment, or procedural sabotage.
+
+Legal Text
+
+Section 1. Plain Language Requirement
+
+All legislation shall be written, debated, and enacted in clear and intelligible language capable of being understood by an ordinary, educated citizen acting in good faith.
+
+Each bill shall include, as enforceable components:
+
+a. a plain-language summary of its purpose and effects;
+b. a disclosure of all laws, sections, or authorities amended, repealed, or superseded;
+c. a statement of anticipated material impacts.
+
+Any provision not disclosed in the plain-language summary shall be void and unenforceable.
+
+Section 2. Single-Issue and Scope Integrity
+
+No bill shall address more than one primary subject.
+No provision may be introduced, amended, or retained that is not germane to the stated subject of the bill.
+
+Violation of this Section renders the offending provision void and severable.
+
+No rider, poison pill, or unrelated amendment may be attached to any bill.
+
+Section 3. Recorded Votes and Public Accountability
+
+All votes of the Legislature, including committee votes, procedural votes, reconciliation votes, and amendments, shall be recorded, attributed, and made publicly accessible in real time.
+
+No vote shall occur by voice, acclamation, proxy, or unrecorded consent.
+
+Every legislator shall bear public responsibility for every vote cast or abstained from.
+
+Section 4. Committee Authority and Limits
+
+Committees exist to examine, refine, and advise—not to veto, bury, or extinguish legislation.
+
+No bill may be permanently blocked, nullified, or killed in committee.
+
+Committees may:
+	•	hold hearings;
+	•	solicit testimony;
+	•	propose amendments;
+	•	issue findings for or against passage.
+
+Committees may not:
+	•	prevent a bill from reaching the full chamber;
+	•	impose binding outcomes absent a recorded chamber vote;
+	•	introduce undisclosed or materially deceptive amendments.
+
+Section 5. Reconciliation and Amendment Integrity
+
+No bill shall be materially altered during reconciliation or final passage without renewed public disclosure and recorded debate.
+
+No amendment may be introduced after final reading except by supermajority vote and public justification entered into the record.
+
+Section 6. Expert Advisory Participation
+
+Expertise shall inform legislation but shall not govern it.
+
+Experts may:
+	•	testify publicly;
+	•	submit written analysis;
+	•	debate impacts and risks.
+
+Any citizen may submit expert testimony for the public record, with right to cross-examination if requested.
+
+Experts shall not:
+	•	vote on legislation;
+	•	exercise veto authority;
+	•	operate anonymously;
+	•	participate without full conflict-of-interest disclosure.
+
+All expert testimony and analysis shall be entered into the public record.
+The Constitutional Judicial Commission shall audit expert participation, funding, conflicts of interest, and undisclosed influence and may certify violations of this Section to the Constitutional Review Court.
+
+Section 7. Sector Representation and the Lobbying Court
+
+Affected sectors may elect or designate representatives to present arguments, data, and objections before the Legislature through the Lobbying Court or equivalent public forum.
+
+The Lobbying Court shall be composed of:
+	•	elected or designated sector representatives; and
+	•	Civic Citizens selected by civic lottery,
+
+with staggered terms and confirmation by the Senate.
+
+Representation shall be transparent, adversarial, recorded, and non-binding.
+
+Civic Citizens serving in such forums shall be selected, governed, and limited in accordance with Article III, Section 13 (Civic Lottery Service and Deliberative Duty).
+
+No private, undisclosed, coercive, or informal influence shall substitute for public deliberation.  The Constitutional Judicial Commission shall audit the Lobbying Court, sector representation, and civic lottery processes for coercion, undisclosed coordination, financial influence, or institutional capture and may petition the Constitutional Review Court for remedies.
+
+Section 8. Judicial Review and Citizen Standing
+
+Any legal resident or citizen shall have standing to challenge legislation enacted in violation of this Article.
+
+The Constitutional Review Court shall review procedural compliance without deference and shall void provisions enacted through deception, concealment, or procedural abuse.
+Upon petition by any citizen, the CJC, or any legislator, the Constitutional Review Court shall declare void and enjoin enforcement of any provision enacted in violation of this Article.
+
+Section 9. Enforcement and Sanctions
+
+Legislators who knowingly violate this Article may be:
+	•	censured;
+	•	removed from committee leadership;
+	•	barred temporarily or permanently from committee service;
+	•	subject to further penalties as provided by law.
+
+No immunity shall attach to procedural deception. 
+The Constitutional Judicial Commission shall have standing to investigate and certify violations of this Article and to petition the Constitutional Review Court for enforcement of sanctions.
+
+Section 10. State-by-State Rollout for Non-Supermajority Legislation
+
+Legislation that fails to achieve a supermajority (two-thirds) of both legislative houses shall, if passed by simple majority, be implemented on a state-by-state basis where feasible and consistent with the subject matter.
+
+This requirement shall not apply only where immediate uniformity is constitutionally indispensable, the burden of proof resting on the Legislature.
+
+Implementation shall proceed sequentially:
+
+a. Phase One — Sponsoring States
+Implementation shall begin exclusively in states whose representatives voted in favor of the legislation.
+This phase shall last no fewer than two (2) years unless otherwise specified.
+
+b. Phase Two — Neutral States
+Upon documented evaluation of outcomes, implementation may expand to states selected by public lottery from among those whose delegations abstained or were internally divided.
+States may decline participation without penalty.
+
+c. Phase Three — Opposing States
+States whose delegations voted against the legislation shall not be subject to implementation unless:
+	•	prior phases demonstrate material success against stated metrics; and
+	•	the Legislature affirms continuation by renewed recorded vote.
+
+This rollout shall mitigate harm, permit empirical testing, and restrain the growth of unpopular or unproven laws.
+No federal funding, emergency relief, or baseline services may be withheld as retaliation against lawful non-participation.
+All rollout data, evaluations, and dissenting analyses shall be published in real time.
+The Constitutional Judicial Commission shall audit all rollout data, metrics, and evaluations for manipulation or suppression and may refer violations to the Constitutional Review Court.
+
+Section 11. Sunset and Reauthorization
+
+All legislation, except constitutional amendments, shall expire after ten (10) years unless explicitly reauthorized by a new act of the Legislature.
+
+Reauthorization requires the same procedural integrity as initial enactment, including:
+	•	plain-language summary;
+	•	single-subject compliance;
+	•	recorded votes.
+
+Laws not reauthorized shall sunset automatically, with orderly transition provisions where necessary.
+
+Section 12. Measurable Outcomes and Repeal Review
+
+Every bill shall state explicit, measurable outcomes and success criteria.
+
+Upon expiration or five (5) years after enactment, whichever occurs first, the Legislature shall review whether the law achieved its stated objectives.
+
+Failure to meet criteria shall trigger mandatory repeal consideration.
+Any such law may be challenged by any citizen or lawful resident before the Constitutional Review Court, which shall have original and mandatory jurisdiction to determine validity under this Section.
+The Constitutional Judicial Commission shall certify whether outcome metrics have been satisfied and may petition the Constitutional Review Court to compel repeal consideration where criteria are not met.
+
+Section 13. General Laws and Prohibition of Favoritism
+
+(a) Laws shall be general in application wherever reasonably possible.
+
+(b) Special, local, targeted, or carve-out legislation conferring advantage, immunity, exemption, subsidy, or burden upon specific persons, entities, industries, or classes is prohibited absent compelling necessity demonstrated by clear and convincing evidence.
+
+(c) Favoritism, selective exemptions, donor-based privileges, political carve-outs, or regulatory advantages designed to benefit or burden particular interests are inconsistent with republican legitimacy and void where general law suffices.
+
+(d) No law shall favor or burden persons or entities on the basis of political affiliation, donor status, corporate form, or lobbying influence.
+
+(e) Market-distorting subsidies, tax preferences, or regulatory exemptions that create rent-seeking or undermine equal competition are prohibited unless strictly necessary and narrowly tailored.
+
+Section 14. Interpretation
+
+This Article shall be interpreted to favor transparency, intelligibility, accountability, and public trust over efficiency, expediency, or institutional convenience.
+
+Law shall not govern by ambush.
+
+

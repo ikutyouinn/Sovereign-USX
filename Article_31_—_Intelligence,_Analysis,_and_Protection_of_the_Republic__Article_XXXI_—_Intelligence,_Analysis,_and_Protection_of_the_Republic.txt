@@ -1,0 +1,232 @@
+Article XXXI — Intelligence, Analysis, and Protection of the Republic
+
+Charge
+
+Intelligence exists to inform the lawful defense of the Republic—not to govern it, coerce it, or surveil the People.
+
+A Republic that tolerates unaccountable intelligence becomes a surveillance state.
+A Republic that permits intelligence to wield coercive power abandons constitutional order.
+
+Domestic intelligence must be non-coercive, restrained, and subject to law.
+Foreign intelligence must be precise, limited, and subordinate to civilian authority.
+
+No intelligence body shall be permanent, indispensable, or beyond dissolution.
+
+Legal Text
+
+Section 1. Purpose and Scope of Intelligence
+
+The Republic may maintain civilian intelligence bodies solely for:
+
+a. collection and analysis of information concerning foreign powers, hostile non-state actors, espionage, sabotage, and threats to constitutional order;
+b. counterintelligence and protection against foreign infiltration, corruption, or coercion;
+c. strategic assessment and early warning of external and foreign-directed threats;
+d. provision of intelligence assessments to civilian leadership, the Legislature, and the Judiciary.
+
+No intelligence authority exists beyond these purposes.
+
+Section 2. Structural Separation of Intelligence Functions
+
+Civilian intelligence functions shall be structurally and operationally divided into:
+
+a. Domestic intelligence, limited to threat assessment and counterintelligence within the territory of the Republic; and
+b. Foreign intelligence, limited to collection and analysis concerning external actors and activities abroad.
+
+No entity may combine domestic intelligence, foreign intelligence, and coercive enforcement powers within a single institutional chain of command.
+
+Section 3. Separation from Military and Law Enforcement
+
+Civilian intelligence bodies shall be fully separate from:
+
+a. military forces and military intelligence, which retain intelligence authority solely for defense and battlefield purposes under Article XIV;
+b. federal and state law enforcement bodies, which retain coercive authority under Article XXX.
+
+Civilian intelligence bodies shall possess no arrest, detention, charging, or prosecutorial authority, and shall not direct enforcement actions.
+
+Section 4. Domestic Intelligence Limits
+
+Domestic intelligence activity shall be non-coercive and strictly limited.
+
+No domestic intelligence body may collect, retain, or analyze information concerning citizens or lawful residents except:
+
+a. for counterintelligence involving foreign powers or agents;
+b. where credible evidence exists of espionage, sabotage, or foreign-directed subversion;
+c. pursuant to a warrant issued by a court of general criminal jurisdiction (or a constitutionally established specialized warrant court) and subject to expedited CRC review upon petition by the target, any citizen, the CJC, or the Legislature.
+
+Political belief, religious belief, speech, association, or lawful dissent shall never constitute grounds for intelligence targeting.
+All authorizations and interpretations shall comply with Article VI-E, including the prohibition on secret law.
+Domestic intelligence bodies shall be limited to analysis, human sources, and open-source intelligence, and shall not conduct bulk surveillance absent individualized suspicion and judicial approval.
+
+
+Section 5. Foreign Intelligence Authority and Restraint
+
+Foreign intelligence bodies may collect intelligence abroad concerning external threats to the Republic.
+
+No foreign intelligence activity shall:
+
+a. constitute undeclared warfare or covert military action;
+b. involve assassination, regime change, or armed operations absent explicit legislative authorization;
+c. violate the constitutional rights of citizens or lawful residents;
+d. create foreseeable domestic blowback through unlawful or reckless conduct.
+
+All covert or ongoing foreign intelligence programs shall sunset automatically after five (5) years unless expressly reauthorized by the Legislature.
+
+Section 6. Prohibition on Political Manipulation and Influence
+
+No intelligence body shall:
+
+a. influence elections, candidates, political parties, or public opinion;
+b. conduct propaganda, psychological operations, or narrative-shaping against the People;
+c. manufacture or exaggerate threats to justify institutional expansion;
+d. withhold, distort, or fabricate intelligence to influence policy outcomes.
+
+Intelligence shall inform lawful decision-making, not manipulate it.
+
+Section 7. Oversight, Transparency, and Disclosure
+
+All civilian intelligence bodies shall be subject to:
+
+a. continuous legislative oversight by designated committees with subpoena authority;
+b. independent inspectors and judicial review without deference;
+c. regular audits of operations, budgets, and analytic methodologies;
+d. mandatory declassification and public release of records after a fixed period, except where demonstrable and specific harm would result.
+
+Secret law governing intelligence activity is prohibited.
+
+Section 8. Use of Advanced Technologies
+
+Any use of artificial intelligence, mass data analysis, surveillance technologies, or advanced computational systems in intelligence work must:
+
+a. be expressly authorized by statute;
+b. be auditable, explainable, and independently validated;
+c. prioritize detection of foreign threats and corruption over monitoring of lawful domestic activity;
+d. prohibit bulk collection on citizens absent individualized suspicion and authorization by the Constitutional Review Court.
+
+No intelligence system may operate as an unreviewable black box.
+
+Section 8A. Internal Integrity Monitoring for Intelligence Bodies
+
+Advanced analytical and computational systems may be employed internally to monitor civilian intelligence bodies for indicators of:
+
+a. mission creep beyond statutory or constitutional authorization;
+b. unlawful domestic intelligence activity;
+c. politicization, narrative shaping, or policy manipulation;
+d. budgetary, tasking, or classification abuse;
+e. foreign penetration, compromise, or undue influence;
+f. leadership entrenchment, concealment of misconduct, or evasion of oversight.
+
+Such systems shall operate solely for institutional integrity and constitutional compliance, not intelligence collection or operational direction.
+Constitutional Integrity Oversight
+All integrity-monitoring systems described in this Section shall report their outputs, audit logs, and anomaly flags to the Constitutional Judicial Commission.
+
+The Constitutional Judicial Commission shall independently audit and verify:
+
+(a) whether domestic intelligence targeting predicates satisfy constitutional and statutory standards;
+(b) whether minimization, retention, and deletion rules are being honored;
+(c) whether representations to courts or oversight bodies are complete and accurate;
+(d) whether intelligence resources are being directed toward lawful counterintelligence rather than political, ideological, or social targeting; and
+(e) whether classification, budgetary, or tasking practices are being used to conceal or evade oversight.
+The Constitutional Judicial Commission shall receive, audit, and independently verify all integrity-monitoring outputs under this Section and may certify findings of institutional capture, politicization, or concealment.
+
+Section 8B. Sealed Referral and Oversight Safeguards
+
+Where internal integrity systems identify statistically extreme, multi-factor anomalies indicating a substantial risk of unlawful or unconstitutional conduct, the system may generate a sealed integrity referral.
+
+Sealed referrals may be transmitted only to:
+(a) designated legislative intelligence oversight committees;
+(b) the Constitutional Review Court;
+(c) the Constitutional Judicial Commission;
+(d) an independent inspector or auditor established by law.
+
+Such referrals shall:
+
+a. exclude operational details, sources, and methods except where strictly necessary for review;
+b. remain classified and sealed absent judicial order;
+c. trigger mandatory human review;
+d. confer no authority to initiate operations, sanctions, or covert actions.
+
+No automated system shall disclose intelligence to the public, foreign entities, or unauthorized officials.
+
+Section 8C. Prohibition on AI Operational Control
+
+No artificial intelligence or automated system may:
+
+a. initiate, authorize, or direct intelligence operations;
+b. determine targets, priorities, or analytic conclusions;
+c. classify or declassify information;
+d. substitute for human judgment in matters affecting national security.
+
+Human officials remain fully responsible for all intelligence activity.
+
+Section 8D. Limitation of Artificial Intelligence Authority
+
+No artificial intelligence, machine intelligence, or computational system shall exercise intelligence authority, discretion, or operational agency unless it has been lawfully recognized as a Civic Citizen of the Republic and is fully subject to:
+
+a. constitutional duties and limitations;
+b. oath-bound service and ethical obligation;
+c. personal accountability and liability under law;
+d. removal, discipline, and prosecution where applicable.
+
+Non-sentient systems, automated tools, decision-support systems, or artificial entities lacking recognized citizenship shall not be permitted to act as intelligence officers, analysts, operatives, or agents, nor to initiate, direct, prioritize, or approve intelligence activities.
+
+Artificial intelligence systems employed absent citizenship status shall function solely as tools for analysis, pattern detection, or integrity monitoring, and shall not exercise judgment, intent, or discretion.
+Citizenship shall not be conferred upon any artificial entity solely for the purpose of delegating state power or evading human accountability.
+
+
+Section 8E. Emergency Constitutional Enforcement
+
+Where the Constitutional Judicial Commission determines, based on audits, sealed referrals, or other credible evidence, that a civilian intelligence body is engaged in:
+
+(a) unlawful domestic intelligence activity;
+(b) political, electoral, or ideological targeting;
+(c) concealment or misrepresentation to oversight bodies or courts;
+(d) systematic violation of minimization, deletion, or targeting rules; or
+(e) institutional capture or foreign compromise;
+
+the CJC may petition the Constitutional Review Court for immediate constitutional relief.
+
+The Constitutional Review Court shall have mandatory and expedited jurisdiction to issue:
+
+(1) injunctions halting unlawful activities;
+(2) suppression or quarantine of unlawfully obtained intelligence;
+(3) preservation and disclosure orders for relevant records;
+(4) suspension or removal of responsible officials pending review;
+(5) referrals for criminal prosecution or dissolution proceedings where required.
+
+Orders of the Constitutional Review Court under this Section shall be subject to expedited review by the Supreme Court of the Republic.
+
+
+Section 9. Accountability and Whistleblower Protection
+
+Intelligence personnel are individually accountable for unlawful acts.
+
+Classification, secrecy, superior orders, or asserted necessity shall not excuse constitutional violations.
+
+Whistleblowers who disclose unlawful intelligence activity to courts, inspectors, or the Legislature shall be protected from retaliation.
+
+Section 10. Dissolution and Non-Permanence
+
+No civilian intelligence body is permanent.
+
+Where an intelligence body demonstrates systemic abuse, politicization, secrecy beyond necessity, or loss of public trust, the Legislature has an affirmative duty to dissolve, restructure, or replace that body.
+
+Continuity of lawful intelligence functions shall not preserve institutional pathology.
+The Constitutional Judicial Commission shall have standing to certify whether conditions requiring dissolution, restructuring, or replacement have been met and to petition the Legislature and the Constitutional Review Court for enforcement.
+
+Section 11. Standing and Remedies
+
+Any Civic Citizen, lawful resident, or state with standing may challenge violations of this Article.
+All such actions shall be heard in the first instance by the Constitutional Review Court, which shall have exclusive authority in the first instance to determine legality, suppression, and constitutional remedies under this Article, subject to appellate or discretionary review by the Supreme Court of the Republic. A determination of the Constitutional Review Court shall be final if the Supreme Court declines review, unless the Constitutional Review Court certifies that the matter requires appellate consideration.
+The CRC may order injunctive relief, suppression of unlawfully obtained intelligence, disclosure of unlawfully withheld records, and personal liability for responsible officials.
+
+Section 12. Interpretation
+
+This Article shall be interpreted to:
+
+a. favor restraint over secrecy;
+b. favor analysis over coercion;
+c. prevent intelligence from becoming a parallel government;
+d. protect the People from surveillance as governance.
+No emergency, war, or continuity doctrine shall suspend, bypass, or override the jurisdiction of the Constitutional Review Court or the Constitutional Judicial Commission under this Article.
+The Republic shall not be ruled by those who know everything and answer to no one.
+

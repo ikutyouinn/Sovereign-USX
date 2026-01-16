@@ -1,0 +1,308 @@
+Article XIII — Treasury, Monetary Authority, and Public Finance
+
+Charge
+
+This Article establishes constitutional rules governing taxation, public spending, borrowing, currency issuance, and monetary authority within the Republic. All fiscal and monetary powers shall be exercised transparently, lawfully, and subject to democratic accountability, with due regard for long-term stability and intergenerational impact. Nothing in this Article shall be interpreted to authorize debasement of currency, unaccountable public debt, or fiscal action beyond express constitutional or statutory authority.
+
+
+Legal Text
+
+Section 1. Treasury as Fiduciary Steward
+
+The Treasury of the Republic exists solely to:
+
+a. collect revenues lawfully enacted by the Legislature;
+b. disburse funds strictly pursuant to appropriations made by law;
+c. manage public reserves and assets held in trust for the People;
+d. ensure the integrity, transparency, and lawful execution of public finance.
+
+The Treasury is a fiduciary steward, not an engine of independent policy.
+No fiscal or monetary authority shall be exercised except as expressly authorized by this Constitution and statute.
+
+Section 2. Monetary Authority Subordinate to Treasury
+
+Any monetary authority, central banking function, or currency-issuing body shall operate under the authority of the Treasury, subject to continuous legislative oversight.
+
+No monetary authority shall:
+
+a. possess independent sovereignty or permanence;
+b. operate beyond statutory mandate;
+c. claim insulation from dissolution, restructuring, or replacement;
+d. bind the Republic through perpetual or undisclosed commitments.
+
+The Legislature may authorize, restructure, dissolve, or replace any monetary authority at any time, provided lawful fiscal functions are preserved or reassigned.
+The Constitutional Judicial Commission shall have standing to investigate and certify whether any monetary authority has become structurally captured, insulated, or self-preserving in violation of this Section.
+No institution shall constitute a fourth branch of government.
+
+Section 3. Sound Money Mandate
+
+The currency and monetary instruments of the Republic shall preserve purchasing power over time and shall not be deliberately debased as a tool of policy.
+
+Accordingly:
+
+a. deliberate inflation as a fiscal or monetary strategy is prohibited;
+b. money creation ex nihilo without asset backing or fixed rule is prohibited absent explicit constitutional authorization;
+c. the Republic recognizes that mild deflation arising from productivity gains is beneficial to savers, families, and long-term investment.
+
+Congress may authorize monetary systems based on:
+
+a. precious metals;
+b. commodity baskets;
+c. fixed-supply digital assets;
+d. hybrid or diversified reserve systems;
+e. competing lawful private currencies.
+
+No monopoly on currency shall exist by default.
+
+Section 4. Central Banking Functions (Permitted Scope)
+
+A monetary authority may be authorized to perform limited functions, including:
+
+a. settlement and clearing of large-value transactions;
+b. reserve custody and interbank coordination;
+c. liquidity facilitation within statutory bounds;
+d. emergency stabilization pursuant to Section 13 of this Article.
+
+Such authority shall not:
+
+a. set independent monetary policy;
+b. operate secret facilities, accounts, or instruments;
+c. override competing lawful currencies;
+d. impose conditions on lawful commerce beyond statute.
+
+Section 5. Digital Currency and CBDC Restraints
+
+The Republic may issue digital currency instruments, including central bank digital currency, subject to the following constraints:
+
+a. participation shall be voluntary and non-coercive;
+b. no person shall be compelled to use a digital currency as a condition of employment, access to services, or exercise of rights;
+c. digital currency shall be asset-backed by finite, auditable reserves;
+d. issuance limits, backing, and redemption mechanisms shall be publicly disclosed and verifiable;
+e. digital currency shall not be programmed to expire, condition behavior, or enforce policy absent statute.
+Digital currency may be used for large-value settlement, intergovernmental commerce, reserve management, and lawful public finance, but shall not displace lawful private currencies.
+The Constitutional Judicial Commission shall monitor for coercion, programmability abuse, or behavioral control embedded in any digital currency system.
+The Constitutional Judicial Commission shall have standing to investigate and certify procurement or budgetary capture under this Section, and to refer such findings to the Constitutional Review Court for nullification.
+
+Section 6. Absolute Transparency and Public Ledger
+
+All revenues, expenditures, liabilities, reserves, and financial instruments of the Republic shall be:
+
+a. published in real time;
+b. traceable to authorizing statute;
+c. auditable by the People.
+
+All government financial records shall be maintained on a public, verifiable ledger, using blockchain or successor technologies that ensure immutability, traceability, and resistance to retroactive alteration.
+Any concealment, off-ledger facility, or shadow account shall be immediately certifiable as institutional capture by the Constitutional Judicial Commission.
+No secret accounts, off-book funds, undisclosed guarantees, or shadow facilities shall exist.
+
+Section 7. Debt as Exception, Not Norm
+
+Public debt shall be incurred only for:
+
+a. national defense;
+b. critical infrastructure;
+c. declared emergencies;
+d. other purposes expressly authorized by law.
+
+All public debt shall:
+
+a. specify purpose, amount, and maturity;
+b. include a lawful repayment plan;
+c. expire unless renewed by supermajority vote.
+
+Perpetual, rolling, or indefinite debt is prohibited.
+Debt authority shall sunset automatically absent renewal.
+The Constitutional Judicial Commission shall audit and certify whether debt instruments are being rolled, extended, or disguised to evade the sunset and renewal requirements of this Section.
+
+Section 8. Anti-Usury and Anti-Rent-Seeking Safeguards
+
+The Republic shall prohibit exploitative financial practices, including:
+
+a. excessive interest rates that create debt bondage;
+b. compound lending structures designed to trap borrowers;
+c. purely speculative financial instruments or transactions that extract value without productive contribution, which may be subject to prohibitive taxation or regulation.
+
+Finance shall serve labor, enterprise, family stability, and productive investment—not extraction or permanent dependency.
+
+Section 9. Reserves and National Resilience
+
+The Treasury shall maintain strategic reserves, which may include:
+
+a. precious metals;
+b. strategic commodities and critical materials;
+c. food and energy reserves;
+d. approved digital assets;
+e. Bitcoin and other fixed-supply digital assets, held in secure, decentralized custody as strategic reserves for inflation protection and national resilience.
+
+Reserves exist to preserve national stability, emergency readiness, and intergenerational security—not to manipulate markets or conceal losses.
+
+Excess returns from national reserves may, by law, be distributed as citizen dividends, prioritizing families and productive households, provided such distributions do not substitute for labor or create dependency.
+
+Section 10. Family, Labor, and Generational Stewardship
+
+Public finance shall favor:
+
+a. married families with children;
+b. adoption and lawful child-rearing;
+c. family-owned enterprises;
+d. generational land and productive asset stewardship.
+
+Fiscal policy that systematically undermines family formation, savings, or productive independence violates this Article.
+The Constitutional Judicial Commission shall have standing to investigate and certify procurement or budgetary capture under this Section, and to refer such findings to the Constitutional Review Court for nullification.
+
+Section 11. Artificial Intelligence in Fiscal Oversight
+
+Artificial intelligence and advanced computational systems may be used to:
+
+a. audit public finance;
+b. detect fraud, waste, and corruption;
+c. flag irregularities to the Legislature, judiciary, and independent oversight bodies.
+
+Such systems shall:
+
+a. operate transparently;
+b. remain subordinate to accountable human oversight;
+c. never exercise autonomous fiscal or monetary authority.
+
+AI shall monitor institutions, not replace responsibility.
+
+Section 12. Jubilee and Periodic Financial Reset
+
+The Republic recognizes that unchecked accumulation of debt undermines liberty and intergenerational justice.
+
+Congress shall establish by law a periodic debt jubilee, occurring at fixed intervals not exceeding fifty (50) years, subject to the following principles:
+
+a. prioritization of households, small enterprises, and productive labor;
+b. exclusion of debts arising from fraud or violent crime;
+c. review and potential nullification of public debts incurred without constitutional or statutory compliance;
+d. transparent eligibility criteria and uniform application.
+
+The existence of periodic jubilee shall serve as a structural constraint on reckless lending and perpetual indebtedness.
+
+Section 13. Emergency Fiscal Authority
+
+In declared national emergencies, limited fiscal flexibility may be authorized only:
+
+a. by supermajority legislative vote;
+b. for a defined duration;
+c. with full transparency;
+d. subject to automatic sunset and mandatory review.
+
+Emergency authority shall not become permanent.
+All emergency fiscal authorizations, extensions, or actions taken under this Section shall be subject to mandatory and expedited review by the Constitutional Review Court for constitutional compliance, proportionality, and sunset enforcement.
+
+Section 14. Foreign Exchange Discipline and Protection Against Arbitrage
+
+The Republic shall not be obligated to exchange sound, asset-backed currency for foreign currencies or instruments lacking equivalent backing, transparency, or discipline at parity.
+
+Accordingly:
+
+a. Congress may establish differentiated exchange conditions distinguishing productive trade from speculative financial activity;
+b. settlement of international balances may prioritize goods, services, commodities, or asset-based instruments over fiat currency;
+c. convertibility of the Republic’s currency may be tiered by purpose, duration, and counterparty;
+d. strategic reserves shall not be subject to automatic redemption by foreign exchange;
+e. these measures shall preserve lawful commerce while preventing extraction of real value through monetary asymmetry.
+
+Such safeguards shall not be construed as trade barriers, but as protections of national monetary integrity.
+
+Section 15. Independent Fiscal Oversight Council
+
+An independent, non-partisan Fiscal Oversight Council shall be established by law to review public spending, debt issuance, and monetary actions for compliance with this Article.
+
+The Council shall:
+
+a. possess authority to audit, certify, and publicly flag violations;
+b. refer non-compliant actions to Congress and the judiciary;
+c. operate transparently and without policymaking or spending authority.
+
+The Council shall not constitute a separate branch of government and shall remain dissolvable and subject to statutory limits.
+All referrals by the Fiscal Oversight Council shall be transmitted to the Constitutional Review Court for legal determination and to the Constitutional Judicial Commission for integrity and anti-capture review.
+
+Section 16. Transition to Sound Money and Legacy Currency
+
+During any transition to a new or reformed monetary system authorized by this Article, existing lawful currency shall remain valid for a defined period not less than ten (10) years, unless extended by law.
+
+Accordingly:
+
+a. citizens may voluntarily redeem legacy currency for new asset-backed instruments at fair rates based on disclosed reserves;
+b. the Republic shall not compel immediate exchange or invalidate legacy currency without due process and ample notice;
+c. legacy currency may continue in circulation and shall diminish naturally as sound money gains adoption through market preference.
+
+Forced demonetization is prohibited.
+
+Section 17. Accountability and Dissolution
+
+Any fiscal or monetary body that engages in:
+
+a. concealment;
+b. deliberate debasement;
+c. unlawful debt creation;
+d. institutional self-preservation at public expense;
+
+shall be subject to dissolution, restructuring, and personal liability under Article VII.
+
+No immunity attaches to fiscal misconduct.
+
+Section 18 — Non-Nullification of Fundamental Subsistence Rights
+
+Non-Nullification of Fundamental Subsistence Rights.
+
+No tax, fee, levy, assessment, surcharge, environmental charge, regulatory cost, or other fiscal instrument—whether imposed by government or by any entity exercising delegated authority or acting under color of law—shall materially burden, suppress, or functionally nullify the exercise of constitutionally protected subsistence rights.
+
+Such rights include, without limitation:
+
+a. the growing, raising, harvesting, processing, storage, or direct exchange of food, water, or natural resources for personal, household, or local non-commercial use;
+
+b. the use of land, soil, rainwater, sunlight, air, or other naturally occurring elements essential to subsistence, without metering, licensing, or commodification as a precondition to lawful use;
+
+c. homesteading, cultivation, or stewardship of property for self-sufficiency, free from fiscal measures that disproportionately burden small-scale or non-industrial subsistence activity relative to industrial, centralized, or commercial equivalents.
+
+Fiscal measures that:
+
+a. disproportionately impact subsistence activity relative to industrial, centralized, or commercial equivalents;
+
+b. favor corporate or large-scale entities through exemptions, subsidies, credits, or incentives that disadvantage individual, family-based, or community-scale production;
+
+c. operate as de facto prohibitions by escalating costs, compliance burdens, or barriers to entry;
+
+shall be presumed unconstitutional and void.
+
+The burden rests entirely on the imposing authority to demonstrate, by clear and convincing evidence, that any such measure is:
+
+a. narrowly tailored to a compelling public interest unrelated to revenue generation, market control, or behavioral coercion;
+
+b. non-punitive, non-discriminatory, and the least restrictive means available;
+
+c. not a pretext for controlling the food supply, extracting rent from natural resources, or compelling participation in the monetary economy.
+
+Affected persons shall have standing to seek immediate injunctive relief and appropriate remedies, including recovery of costs and reasonable attorney fees.
+
+This Section shall be construed broadly in favor of subsistence autonomy and narrowly against fiscal encroachment, and shall supersede any conflicting statute, regulation, or agreement.
+Claims under this Section shall receive expedited and mandatory review by the Constitutional Review Court.
+
+
+Section 19. Anti-Evasion of Fiscal Mandate Prohibitions
+
+Off-ledger entities, proxy funding mechanisms, pass-through arrangements, conditional appropriations, or other fiscal devices designed to evade constitutional funding prohibitions or reintroduce barred mandates are prohibited.
+
+Section 20. Indexing and Preservation of Real Value
+
+(a) Any monetary threshold, fine, cap, limit, exemption, benefit level, or fiscal figure established by law shall be automatically indexed annually to inflation to preserve its real value.
+
+(b) Failure to maintain real-value equivalence shall not be used to expand governmental power, diminish rights, or erode constitutional protections.
+
+(c) Where indexing has not occurred, affected figures shall be construed as retaining their original real value.
+
+Section 21. Interpretation
+
+This Article shall be interpreted to:
+
+a. favor sound money over expediency;
+b. favor transparency over discretion;
+c. favor families and labor over rent-seeking;
+d. prevent the emergence of permanent financial oligarchy;
+e. preserve liberty and solvency across generations.
+
+The Republic shall not mortgage its future in silence.
+
+

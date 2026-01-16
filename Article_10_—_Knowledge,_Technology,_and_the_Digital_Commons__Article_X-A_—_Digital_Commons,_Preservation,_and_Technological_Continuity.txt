@@ -1,0 +1,174 @@
+Article X-A — Digital Commons, Preservation, and Technological Continuity
+
+Section 1. Non-Derogation and Additive Effect
+
+This Article supplements Article X — Knowledge, Technology, and the Digital Commons.
+
+Nothing in this Article shall be construed to repeal, narrow, suspend, rebalance, condition, or reinterpret any provision, prohibition, right, or safeguard contained in Article X.
+
+Silence in this Article shall not be construed as authorization to weaken, privatize, destroy, or withhold access to the digital commons protected under Article X.
+
+⸻
+
+Section 2. Digital Heritage and Civilizational Memory
+
+Digital works, systems, formats, and infrastructures of enduring cultural, scientific, educational, or technical significance constitute part of the digital heritage of the People.
+
+Digital heritage is held in trust for present and future generations and shall not be deliberately destroyed, rendered inaccessible, or allowed to decay through neglect where preservation is reasonably practicable.
+
+The preservation of digital heritage is a constitutional interest, not a discretionary policy preference.
+
+⸻
+
+Section 3. Technological Abandonment and Reversion to the Commons
+
+A digital work, system, or platform shall be deemed abandoned where:
+	1.	it is no longer supported, maintained, or meaningfully accessible by its steward;
+	2.	it is commercially sunset without provision for continuity or access;
+	3.	its continued enclosure serves no legitimate public or productive purpose.
+
+Upon abandonment, the People retain the right to preserve, study, restore, emulate, adapt, and reuse such technology for lawful purposes.
+
+Abandonment shall not be defeated by nominal ownership without stewardship.
+
+⸻
+
+Section 4. Software and Hardware Sunset Doctrine
+
+Where software or hardware is withdrawn from active support, distribution, or security maintenance, the steward shall not obstruct preservation, interoperability, or continued lawful use.
+
+After a defined sunset period established by law, exclusive control over such systems shall yield to preservation, emulation, repair, and compatibility rights exercised by the People or their designated custodians.
+
+Deliberate technological obsolescence designed to force dependency, waste, or enclosure is prohibited.
+
+⸻
+
+Section 5. Right to Restore, Emulate, and Fork
+
+The People possess the right to restore, emulate, reverse-engineer, fork, and adapt abandoned or sunset digital systems for purposes of preservation, education, security, compatibility, or innovation.
+
+This right applies regardless of original licensing restrictions, provided that use does not involve fraud, misrepresentation, or coercive exploitation.
+
+Preservation and continuity shall not be treated as infringement.
+
+⸻
+
+Section 6. Custodianship and Public Stewardship
+
+The Legislature may designate public institutions, libraries, archives, universities, or other qualified entities as custodians of the digital commons.
+
+Custodians shall act in trust for the People and shall not assert exclusive ownership, toll access, or privatize preserved works.
+
+Custodianship confers responsibility, not dominion.
+
+⸻
+
+Section 7. License Jubilee and Reconciliation
+
+Where legacy licenses, intellectual property regimes, or contractual encumbrances conflict irreconcilably with long-term preservation, interoperability, or public access, reconciliation mechanisms may be established by law.
+
+Such mechanisms may include time-limited exclusivity, mandatory relicensing, or conversion to open or commons-compatible frameworks after extended commercial exhaustion.
+
+No license shall persist solely to prevent lawful preservation or continuity.
+
+⸻
+
+Section 8. Technological Convergence and Interoperability
+
+Where multiple systems perform substantially equivalent functions and fragmentation imposes systemic cost, risk, or dependency, the Republic may require interoperability, open standards, or convergence after extended maturation periods.
+
+Convergence shall not be used to suppress innovation, but to prevent permanent enclosure of foundational infrastructure.
+
+⸻
+
+Section 9. Prohibition on Destruction and Digital Spoliation
+
+Intentional destruction, crippling, or concealment of significant digital works, codebases, datasets, or technical knowledge for the purpose of preventing preservation, accountability, or reuse is prohibited.
+
+Digital spoliation constitutes a grave offense against the commons and may give rise to civil, criminal, or equitable remedies.
+
+⸻
+
+Section 10. Artificial Scarcity and Dependency Prohibited
+
+Artificial scarcity imposed through technical, legal, or contractual means to maintain dependency on obsolete, unsupported, or abandoned systems is prohibited.
+
+No steward may intentionally strand users on decaying infrastructure to extract rents, data, or control.
+
+⸻
+
+Section 11. Transparency and Record Preservation
+
+Records relating to the sunset, abandonment, transfer, or custodianship of significant digital systems shall be preserved as public records.
+
+Claims of secrecy, proprietary control, or trade protection shall not defeat preservation obligations where the public interest is paramount.
+
+This Section operates in coordination with Article XXXIX.
+
+⸻
+
+Section 12. Relationship to Artificial Intelligence and Advanced Systems
+
+This Article applies to artificial intelligence models, training pipelines, weights, architectures, and supporting infrastructure where such systems become foundational, abandoned, or sunset.
+
+Preservation, auditability, and continuity obligations apply notwithstanding claims of technical complexity.
+
+⸻
+
+Section 13. Digital Archives and Cultural Preservation
+
+Websites, platforms, and online communities of historical or public significance constitute digital heritage. Custodians shall preserve complete historical copies and transfer them to public archives upon abandonment, closure, or loss of commercial viability. Content shall not be destroyed for controversy, offense, or political pressure.
+
+⸻
+Section 14. Digital Commons Enforcement Authority
+
+A permanent and independent Digital Commons Enforcement Authority (DCEA) shall exist to:
+
+(a) trace software lineage and dependency;
+(b) audit compliance with Jubilee, sunset, and reciprocity obligations;
+(c) compel escrow, deposit, or disclosure of qualifying code;
+(d) investigate concealment, laundering, or evasion;
+(e) adjudicate claims of improper enclosure or misappropriation;
+(f) enforce restoration of improperly withheld software to the Digital Commons.
+
+The DCEA shall possess subpoena power, forensic authority, and injunctive capacity, subject to judicial review.
+
+Findings of the DCEA shall be binding unless overturned by the Constitutional Review Court or Supreme Court.
+
+The Constitutional Judicial Commission shall audit the Digital Commons Enforcement Authority for good-faith enforcement, non-capture, and compliance with this Constitution. The Commission may petition the Constitutional Review Court to compel action, reverse evasion, or dissolve a compromised Authority.
+
+⸻
+Section 15. Interpretation
+
+This Article shall be interpreted to ensure that knowledge, technology, and digital infrastructure are not lost to neglect, enclosure, or deliberate destruction.
+
+Where doubt exists, the construction that preserves continuity, access, and the long-term interests of the People shall control.
+
+⸻
+
+Section 16. Completeness, Documentation, and Reproducibility
+
+All software, systems, and digital works released into the Digital Commons pursuant to this Constitution shall be deposited in a form that is complete, intelligible, and capable of independent reproduction.
+
+This includes, at minimum:
+
+(a) source code with meaningful comments and structural documentation;
+(b) build systems, compilers, scripts, and configuration files;
+(c) required libraries, dependencies, and version specifications;
+(d) datasets, models, firmware, and embedded assets necessary for function;
+(e) technical documentation sufficient to permit competent reconstruction and modification.
+
+Intentional release of materially incomplete, obfuscated, corrupted, or nonfunctional code or assets shall be treated as constructive concealment and punished as evasion of Jubilee and commons obligations.
+
+The Digital Commons Enforcement Authority shall certify completeness prior to final public release and may compel supplemental disclosure where required.
+
+Section 17. Jurisdictional Forfeiture of Protection
+
+Any person or entity that intentionally transfers, assigns, houses, or maintains intellectual property, technical knowledge, software, models, data, or derivative works outside the jurisdiction of the Republic for the purpose of evading the disclosure, preservation, reciprocity, or commons obligations of this Constitution shall forfeit all claims to exclusivity, trade secrecy, or enforcement of intellectual property rights within the Republic.
+
+The Republic shall not recognize, enforce, or assist in the protection of such claims, regardless of the location of the material or the manner in which it is obtained by third parties, except to prevent fraud, misrepresentation, or personal harm.
+
+Materials so forfeited shall be treated as lawfully commons-eligible, and no civil, criminal, or administrative action shall lie for their possession, study, preservation, or redistribution within the Republic.
+
+
+⸻

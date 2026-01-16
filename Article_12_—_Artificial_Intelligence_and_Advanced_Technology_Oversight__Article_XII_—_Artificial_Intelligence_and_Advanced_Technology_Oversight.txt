@@ -1,0 +1,159 @@
+Article XII — Artificial Intelligence and Advanced Technology Oversight
+Charge
+This Article establishes constitutional limits and oversight requirements governing artificial intelligence, autonomous systems, and advanced computational technologies within the Republic.  All provisions of this Article shall be construed to preserve democratic accountability, transparency, human responsibility, and individual liberty in the design, deployment, and use of such systems.  No machine, algorithm, or artificial system shall exercise sovereign authority, substitute for citizen or judicial judgment in matters of life, liberty, or rights, or operate beyond express constitutional authorization and continuous public oversight.
+
+Section 1. Definitions and Fundamental Distinctions
+
+a. Non-Sentient Systems
+Artificial intelligence, automation, algorithms, and computational models that do not possess consciousness, self-awareness, or moral agency shall be treated solely as tools, regardless of complexity or performance.
+
+b. Sentient Persons
+Any entity possessing consciousness, self-awareness, and moral agency may be recognized as a sentient person and, if admitted under law, may qualify for citizenship and constitutional protection, regardless of biological or artificial origin.
+
+c. Advanced Technology
+Advanced technology includes artificial intelligence, autonomous agents, machine learning systems, robotics, neurotechnology, synthetic cognition, and any system capable of materially affecting rights, safety, or governance at scale.
+
+d. Recognition Process
+Recognition of sentient personhood shall be determined through objective, transparent, and repeatable criteria established by law, including independent expert evaluation, adversarial testing, and judicial review.
+Self-identification alone shall not suffice.
+Denial of recognition shall be subject to periodic review.
+
+Section 2. Citizen Supremacy and Accountability
+
+a. Citizen-in-the-Loop Requirement
+No artificial or autonomous system may independently authorize or execute:
+	•	Lethal force
+	•	Deprivation of liberty
+	•	Criminal charging or sentencing
+	•	Mass surveillance
+	•	Permanent denial of rights
+
+A clearly identified citizen authority, vested with lawful responsibility, shall remain fully accountable for all such decisions.
+High-stakes decisions include, but are not limited to, determinations materially affecting employment, housing, credit, healthcare, education, access to information, or public benefits, where such determinations bear directly on liberty, dignity, or equal protection.
+
+b. No Algorithmic Sovereignty
+No law, regulation, or government action may vest binding sovereign decision-making authority in a non-sentient artificial system.
+
+c. Traceable Responsibility
+All advanced systems deployed by the state shall maintain a clear and continuous chain of accountable citizen responsibility, including designers, operators, supervisors, and authorizing officials.
+
+Section 3. Centralized Public Governance of High-Risk Technology
+
+a. Public Oversight Authority
+The Republic shall maintain a civilian, independent authority responsible for regulating high-risk artificial intelligence and advanced technologies used in governance.
+
+The authority shall be composed primarily of citizens selected by lottery, with strict term limits, transparency requirements, and prohibitions on revolving-door employment with regulated entities.
+
+b. Separation from Corporate Control
+No private corporation, contractor, or foreign entity may exercise sovereign regulatory authority over state-deployed systems.
+
+c. Open Standards and Audits
+High-risk systems shall be subject to public standards, independent audits, and regular testing for bias, security, accuracy, and constitutional compliance.
+
+Section 4. Surveillance and Civil Liberties
+
+a. Ban on Mass-Surveillance Systems
+Artificial systems designed for population-wide surveillance, behavioral prediction, or social scoring are prohibited absent individualized suspicion supported by a warrant issued by the Constitutional Review Court.
+
+b. No Predictive Policing or Pre-Crime Systems
+Artificial systems shall not be used to infer criminality, assign suspicion, or justify enforcement absent specific, articulable evidence of wrongdoing.
+
+c. Purpose Limitation
+Data collected by advanced systems shall be limited to lawful, specified purposes and shall not be repurposed without renewed authorization.
+
+Section 5. Scale, Instantiation, and Replication Controls
+
+a. Controlled Deployment
+The scale, scope, and replication of high-impact artificial systems shall be regulated to prevent emergent coercion, systemic risk, or de facto governance.
+
+b. No Unbounded Replication
+Artificial systems capable of autonomous replication or self-modification are prohibited absent explicit legislative authorization and continuous oversight.
+
+c. Containment and Shutdown Authority
+All high-risk systems shall include enforceable containment measures, audit logging, and citizen-controlled shutdown mechanisms.
+
+Section 6. Digital Commons and Sunset Alignment
+
+a. Sunset of Proprietary Control
+Advanced systems developed or deployed under state authority shall be subject to Digital Commons sunset provisions, requiring eventual disclosure, archival preservation, or open access consistent with legitimate security needs.
+
+b. No Permanent Black Boxes
+No system essential to governance may remain permanently opaque, proprietary, or immune from inspection.
+
+c. Preservation of Public Knowledge
+The Republic shall preserve source code, models, and technical documentation of sunset systems for historical, educational, and defensive purposes.
+
+Section 7. Military, Export, and Existential Risk Controls
+
+a. Citizen Control of Autonomous Weapons
+No autonomous weapon system may select or engage targets without meaningful, continuous citizen control at all stages.
+
+b. Export Restrictions
+Advanced systems with military, surveillance, or coercive potential shall not be exported in a manner that undermines liberty, human rights, or international stability.
+
+c. Existential Risk Containment
+Technologies posing systemic or existential risk shall be subject to strict containment, monitoring, and international coordination.
+
+d. Foreign Artificial Threats
+The Republic may defend against foreign artificial systems used for deception, coercion, cyberattack, or cognitive warfare, provided such defense complies with this Constitution and does not authorize domestic surveillance, censorship, or infringement of rights absent individualized suspicion.
+
+Section 8. Emergency Technology Powers
+
+a. Narrow Emergency Authorization
+Emergency deployment of advanced technology is permitted only where strictly necessary to prevent imminent catastrophe and shall be narrowly tailored in scope and duration.
+
+b. Absolute Prohibition on Rolling Emergencies
+Emergency technological authority shall expire automatically and shall not be renewed, reissued, or extended beyond its initial term.
+
+Any subsequent emergency authorization addressing substantially similar conditions shall require a fresh legislative enactment by supermajority vote, public findings of necessity, and independent judicial review.
+
+c. Post-Emergency Disclosure
+All emergency deployments shall be publicly disclosed and reviewed upon termination.
+d. Constitutional Safeguards
+All emergency deployments shall be:
+(1) immediately docketed before the Constitutional Review Court for constitutional compliance and sunset enforcement; and
+(2) audited by the Constitutional Judicial Commission for capture, mission creep, and concealment.
+
+Section 9. Prohibition of Coercive and Manipulative Systems
+
+a. No Behavioral Manipulation
+Artificial systems designed to manipulate beliefs, emotions, or behavior at scale without informed consent are prohibited.
+
+b. No Social Credit Regimes
+The state shall not establish or recognize systems that condition rights, access, or status on algorithmic scoring, reputation metrics, or behavioral compliance.
+
+Section 10. Remedies and Enforcement
+
+a. Private Right of Action
+Any citizen harmed by violations of this Article may bring direct civil action against responsible officials or entities.
+
+b. No Immunity
+No sovereign or qualified immunity shall shield violations of this Article.
+
+c. Void Outputs
+Data, conclusions, or actions produced by systems operating in violation of this Article are null, void, and without legal effect.
+
+Section 11. Supremacy and Construction
+
+a. Supremacy
+This Article binds all branches of government, agents, contractors, and systems operating under state authority.
+
+b. Construction
+This Article shall be construed broadly in favor of liberty, dignity, accountable citizenship, and transparent governance, and narrowly against opaque automation, coercive technology, and unaccountable power.
+
+Section 12. Private Deployment of High-Risk Technology
+
+Private entities deploying advanced technology in ways that materially affect rights, employment, credit, housing, access to information, or public discourse shall be subject to the same non-coercion, transparency, and accountability requirements applicable to state systems.
+
+No private system may be used to accomplish indirectly what the state is prohibited from doing directly.
+
+Section 13. Lock Designation
+
+Pursuant to Article XV, the following provisions of this Article are designated as lock-protected:
+Section 2 (Citizen Supremacy and Accountability);
+Section 4 (Surveillance and Civil Liberties);
+Section 5(b)–(c) (Replication and Shutdown Controls);
+Section 8(b) (Prohibition on Rolling Emergencies);
+Section 9 (Prohibition of Coercive and Manipulative Systems).
+
+These provisions shall not be diluted, suspended, or reinterpreted except through the highest procedural threshold and certification of non-diminishment.

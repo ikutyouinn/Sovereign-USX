@@ -1,0 +1,281 @@
+Article XV — Amendments, Lock Clauses, and Anti-Emergency Drift
+ 
+Charge
+
+This Article establishes the exclusive procedures and requirements by which this Constitution may be amended, corrected, or clarified. All amendment powers shall be exercised openly, deliberately, and in strict conformity with the processes set forth herein, and shall not be expanded or bypassed by emergency, necessity, or convenience. Nothing in this Article shall be interpreted to permit suspension, alteration, or informal modification of constitutional provisions outside the amendment process expressly authorized by this Constitution.
+
+
+Legal Text
+ 
+Section 1. Supremacy of This Article
+ 
+This Article governs all constitutional amendment, suspension, modification, interpretation, emergency authority, and claims of necessity.
+ 
+No statute, treaty, executive action, judicial doctrine, regulation, administrative interpretation, or emergency declaration may alter, bypass, suspend, reinterpret, or override this Article.
+Any attempt to do so is null and void.
+For purposes of this Article, “interpretation” includes judicial doctrine, tests, standards of review, balancing frameworks, and deference regimes.
+
+Section 2. Classes of Constitutional Provisions
+ 
+The Constitution is composed of three classes of provisions:
+ 
+a. Unamendable Core Principles
+b. Structurally Locked Provisions
+c. Generally Amendable Provisions
+ 
+No provision may be reclassified except through amendment procedures applicable to the higher class.
+
+Section 2A. Recognition of Article-Level Locks
+Lock declarations contained within individual Articles of this Constitution are fully valid, self-executing, and of equal force to locks designated by appendix, index, or global classification.
+ 
+Where an Article declares itself locked or subject to heightened amendment or interpretive constraints, that declaration shall govern the amendment, interpretation, and enforcement of that Article according to its own terms and in harmony with this Article.
+ 
+No court, authority, or officer may deny effect to an Article-level lock on grounds of placement, form, or location.
+ 
+
+Section 3. Unamendable Core Principles (Eternity Clauses)
+ 
+The following principles are permanent and unamendable and shall not be repealed, suspended, modified, reinterpreted, or overridden by any authority, at any time, for any reason:
+ 
+a. the supremacy of this Constitution over all other law;
+b. the sovereignty of the People as the sole source of political authority;
+c. the separation of powers among Legislative, Executive, and Judicial branches;
+d. the prohibition of hereditary, purchased, corporate, algorithmic, or non-human political authority;
+e. the requirement of civic citizenship, earned through service and duty, as a prerequisite for voting and holding public office;
+f. the prohibition on suspension of constitutional rights by emergency, decree, necessity, or reinterpretation;
+g. the guarantee of due process and equal protection under law;
+h. the prohibition of perpetual or rolling emergency powers;
+i. the right of lawful resistance to constitutional violations as defined elsewhere in this Constitution;
+j. the prohibition on federal coercion of state sovereignty through fiscal dependency, conditional funding, or economic pressure;
+k. the prohibition on federal preemption of state law by regulation absent express legislative authorization and constitutional necessity;
+l. the right of states to decline participation in non-mandatory federal programs without retaliation or deprivation of unrelated funds;
+m. the right of citizens to challenge federal encroachment upon state sovereignty through judicial process;
+n. the prohibition on sovereign immunity where the federal government unlawfully intrudes upon powers reserved to the states.
+Any act purporting to amend, suspend, or circumvent these principles is void ab initio and constitutes oathbreaking.  o. no private contract, covenant, oath, or obligation may bind any natural person beyond the lifetime of the consenting party, except where expressly authorized by this Constitution. All such obligations expire at death. No contract purporting to bind an individual beyond their natural lifetime shall be enforceable, except where expressly permitted by this Constitution.
+ 
+
+Section 4. Structurally Locked Provisions
+ 
+Structurally locked provisions include, but are not limited to:
+ 
+a. amendment procedures and thresholds;
+b. electoral integrity mechanisms;
+c. legislative transparency and integrity requirements;
+d. federalism and reserved powers;
+e. judicial independence and limits;
+f. anti-capture, anti-corruption, and public stewardship requirements;
+g. sunset, reauthorization, and outcome-based governance mandates;
+h. limitations on federal funding conditions and fiscal coercion of states;
+i. limitations on regulatory preemption of state law;
+j. program sunset, outcome review, automatic devolution, and state opt-out rights.
+ 
+These provisions may be amended only through the procedures in Section 6 and may not be altered, suspended, or bypassed during declared emergencies.
+
+Section 5. Generally Amendable Provisions
+ 
+All constitutional provisions not listed in Sections 3 or 4 are generally amendable, subject to the procedures and safeguards of this Article.
+ 
+No amendment may contradict, undermine, or indirectly erode unamendable or structurally locked provisions.
+
+Section 6. Amendment Procedures
+ 
+An amendment to this Constitution may be proposed only by:
+ 
+a. a sixty percent (60%) majority vote of both legislative houses; or
+b. a national civic petition meeting thresholds defined by law and consistent with Article XXVII.
+ 
+All proposed amendments shall:
+	1.	be single-subject;
+	2.	include a plain-language explanation of purpose and effect;
+	3.	disclose all affected provisions;
+	4.	state anticipated risks, tradeoffs, and consequences.
+ 
+Amendment Thresholds:
+Unless this Constitution expressly provides otherwise, any amendment, repeal, suspension, or material reinterpretation of a provision shall require:
+(a) approval by a sixty percent (60%) supermajority of both chambers of the Legislature;
+(b) ratification by three-fourths (3/4) of the States;
+(c) certification by the Supreme Court that the change does not diminish substantive rights or enforcement mechanisms protected under lock clauses;
+(d) independent review by the Constitutional Judicial Commission affirming absence of institutional capture, coercion, or pretextual motivation.
+
+Section 7. Temporal Safeguards
+ 
+No amendment may be:
+ 
+a. introduced, voted upon, or ratified during a declared national emergency;
+b. fast-tracked, bundled, or exempted from public review;
+c. applied retroactively to immunize wrongdoing or shield prior violations.
+ 
+A minimum public deliberation period of ninety (90) days shall apply to all amendments.  No temporary, provisional, pilot, sunset-based, or experimental measure may bypass or suspend constitutional requirements.
+
+Section 8. Prohibition on Emergency Constitutional Alteration
+ 
+No emergency, war, disaster, economic crisis, public health threat, or security concern shall justify:
+ 
+a. suspension of constitutional rights;
+b. alteration of amendment procedures;
+c. concentration of power beyond constitutional limits;
+d. reinterpretation of this Constitution to expand authority.
+ 
+Emergency powers may coordinate action, not rewrite law.
+
+Section 8A. Emergency Coordination Without Constitutional Displacement
+ 
+In cases of declared national emergency, including invasion, insurrection, or catastrophic disaster, the federal government may exercise temporary coordinating authority solely for the purpose of resource alignment and intergovernmental cooperation.
+ 
+Such authority is permitted only where:
+ 
+a. approval by a sixty percent (60%) approval by both legislative houses;
+b. limited to coordination, not command or displacement of state law;
+c. does not suspend constitutional rights or alter constitutional structure;
+d. expires automatically after ninety (90) days unless renewed by identical vote;
+e. is subject to immediate and non-deferential judicial review.
+ 
+Emergency authority shall not create precedent, implied power, or interpretive expansion.
+
+Section 9. Automatic Rollback of Emergency Authority
+ 
+All emergency powers shall:
+ 
+a. be expressly enumerated by statute;
+b. be narrowly tailored;
+c. expire automatically without renewal.
+ 
+Upon expiration, all actions taken under emergency authority shall revert to constitutional baseline.
+ 
+No emergency power may create precedent.
+
+Section 10. Judicial Review and Burden of Proof
+ 
+All claims of emergency necessity, constitutional reinterpretation, implied authority, or federal preemption shall be subject to immediate judicial review without deference.
+ 
+The burden of proof rests entirely on the authority asserting necessity or supremacy.
+ 
+Citizens may challenge federal actions that unlawfully undermine legitimate state law or state sovereignty, independent of state participation or consent.
+ 
+Silence, ambiguity, historical practice, or administrative convenience shall not suffice. Constitutional silence shall not be construed as permission to alter, amend, or reallocate power.
+
+Section 11. Personal Accountability for Abuse
+ 
+Any official who knowingly:
+ 
+a. exceeds emergency authority;
+b. enforces unconstitutional orders;
+c. attempts constitutional alteration outside this Article;
+d. conceals, misrepresents, or fabricates emergency justification;
+ 
+shall be personally liable under law, in addition to removal from office.
+ 
+No immunity attaches to constitutional violation.
+
+Section 12. Treaty and International Constraint Clause
+ 
+No treaty, international agreement, compact, or foreign obligation may:
+ 
+a. amend this Constitution;
+b. supersede constitutional rights;
+c. bind the Republic beyond the powers granted herein;
+d. require coercion of state participation in federal programs;
+e. impose regulatory preemption absent constitutional authorization.
+ 
+Treaties inconsistent with this Constitution are void.
+
+Section 13. Federal–State Program Sunset and Devolution
+ 
+All federal programs materially affecting state governance, regulatory authority, or fiscal structure shall expire after ten (10) years unless affirmatively reauthorized through the full legislative process.
+ 
+Each such program shall state explicit, measurable objectives.
+ 
+Failure to meet stated objectives shall trigger automatic review and presumptive devolution of authority to the states.
+ 
+No emergency declaration may suspend this requirement.
+
+Section 14. State Exit Rights and Fiscal Rebalancing
+ 
+States may opt out of participation in federal programs not constitutionally mandatory.
+ 
+Upon opt-out, the state shall receive a proportional tax rebate or fiscal credit reflecting its contribution, adjusted for shared national obligations.
+ 
+No opt-out shall result in punitive withholding of unrelated funds, services, or protections.
+ 
+This right shall not be suspended by statute, regulation, emergency, or treaty.
+
+Section 15. Interpretation
+ 
+This Article shall be interpreted to:
+ 
+a. preserve constitutional continuity;
+b. prevent erosion by exception;
+c. deny legitimacy to fear-based governance;
+d. favor liberty, accountability, and restraint over expedience.
+ 
+The Constitution shall not die quietly.
+
+Section 16. Prohibition on Emergency Circumvention
+
+No declaration of emergency, national security crisis, public health order, economic emergency, invasion, rebellion, martial law, or any other exigency may suspend, waive, limit, or circumvent any provision of this Constitution, including lock-protected rights, due process guarantees, or definitions in Article 0.
+Temporary protective measures (e.g., extreme risk protection orders, judicially supervised civil holds) are permissible only when strictly necessary, time-limited, individualized, supported by clear and convincing evidence of an Imminent and Specific Risk (as defined in Article 0), and subject to immediate adversarial review and restoration. Such measures are civil in nature and do not constitute suspension or derogation of constitutional rights.
+Any attempt to use emergency authority for permanent structural change, rights erosion, or pretextual coercion (as defined in Article 0) is void ab initio and constitutes a grave offense.
+
+Section 17. Lock-Protected Provisions
+
+Provisions designated as lock-protected (including but not limited to Article II in its entirety, Article III earned civic citizenship, Article XXVI Charter of Inviolable Rights, and all cross-references to definitions in Article 0 that support these Articles) may not be repealed, suspended, weakened, narrowed, reinterpreted, or rendered ineffectual except by the highest procedural threshold above and only for the purpose of clarifying consistency or expanding protections.
+New lock designations may be added by constitutional amendment meeting the above requirements, or by legislative act ratified by a seventy-five percent (75%) supermajority of both chambers and signed by the Executive, provided the addition strengthens liberty, accountability, or sovereignty rather than restricting it.
+
+Section 18. Conditional Unlock Upon Verified Civic Education Maturity
+
+Notwithstanding any Lock or Anti-Erosion designation elsewhere in this Constitution, the People reserve the sovereign authority to amend any provision, including those designated as lock-protected, only upon verified attainment of universal civic education maturity, as defined herein.
+
+This provision shall be construed narrowly and permissively only upon strict satisfaction of all conditions.
+
+⸻
+
+(a) Definition of Civic Education Maturity
+
+Civic education maturity exists only where all of the following are demonstrably true:
+	1.	Universal Access
+Every child lawfully present within the Republic has been guaranteed access to free, non-discriminatory, compulsory primary and secondary education meeting constitutional standards for no fewer than two full generations.
+	2.	Civic Competence Outcomes
+Not less than eighty-five percent (85%) of the adult population demonstrates functional civic competence, as measured by:
+	•	comprehension of the Constitution,
+	•	understanding of governmental structure and limits,
+	•	basic legal reasoning,
+	•	capacity for evidence-based evaluation.
+	3.	Independent Verification
+Civic maturity must be certified by:
+	•	the Constitutional Judicial Commission,
+	•	an independent Civic Education Review Board, and
+	•	the Supreme Court of the Republic,
+each issuing written findings supported by public evidence.
+
+⸻
+
+(b) Unlock Threshold
+
+Upon certification of civic education maturity:
+	•	Lock-protected Articles may be amended only through:
+	•	supermajority legislative approval,
+	•	a national referendum requiring not less than seventy percent (60%) approval,
+	•	and a second confirmatory referendum held no sooner than five (5) years later, requiring only a majority affirmation (50%+1).
+
+Failure at any stage restores full lock protection for a minimum of twenty (10) years.
+
+⸻
+
+(c) Non-Delegation and Anti-Capture Rule
+
+No legislature, court, agency, or executive authority may declare civic education maturity unilaterally.
+
+No emergency, crisis, or necessity may substitute for the educational requirements of this Section.
+
+⸻
+
+(d) Preservation of Human Dignity
+
+Nothing in this Section shall be construed to permit amendment that abolishes inalienable rights, equal protection of law, or the legal personhood of any individual.
+
+⸻
+
+
+This Article (including all lock designation procedures, anti-emergency rules, and supermajority thresholds) is itself lock-protected and may not be amended except by the highest procedural threshold and certification of non-diminishment.
+
+

@@ -1,0 +1,58 @@
+Article XX-D — Board of Innocence and Corrective Justice
+Charge
+The Republic exists to secure justice, not merely finality. Wrongful convictions, fabrication or suppression of evidence, coerced confessions, corrupt inducements, and grossly disproportionate sentences undermine the legitimacy of law and the sovereignty of the People. The Board of Innocence and Corrective Justice is established as a permanent, independent constitutional body to investigate credible claims of substantial injustice in criminal adjudications, expose systemic causes of error or abuse, and compel lawful correction—serving truth and public legitimacy above institutional convenience or deference to erroneous outcomes.
+Section 1. Establishment and Independence
+There is hereby established the Board of Innocence and Corrective Justice as a permanent, coequal constitutional body.
+The Board shall be independent of the executive, legislative, and judicial branches, and shall not be subject to direction, supervision, or retaliation by any public official or entity.
+Funding shall be appropriated directly by law at a level sufficient to fulfill its duties, insulated from discretionary reduction, and subject only to public audit under Article XXXIX.
+Section 2. Jurisdiction
+The Board shall have authority to investigate and report on:
+(a) credible claims of factual innocence supported by new, material evidence (including but not limited to DNA, forensic re-analysis, recantations, or newly discovered witnesses);
+(b) violations of due process or constitutional rights materially affecting conviction or sentence, including suppression of exculpatory evidence, fabrication or coaching of evidence/testimony, coercion, improper inducements to witnesses or informants, and use of unreliable forensic or identification procedures;
+(c) sentences that are grossly disproportionate, arbitrary, or inconsistent with law, equity, or constitutional norms;
+(d) patterns or practices of prosecutorial, judicial, law-enforcement, or administrative misconduct that systematically undermine the integrity of criminal adjudications;
+(e) credible allegations of corruption, malice, or hostility to constitutional order by public servants in the performance of criminal justice functions.
+Section 3. Powers
+To fulfill its jurisdiction, the Board shall have authority to:
+(a) issue subpoenas for records, testimony, and physical evidence, enforceable by the Constitutional Review Court (CRC);
+(b) obtain access to sealed, restricted, classified, or otherwise protected case materials, subject only to narrowly tailored protective orders necessary to prevent imminent harm;
+(c) commission independent forensic testing, expert review, or re-examination at public expense;
+(d) receive petitions from any person, organization, court, or public official, and initiate investigations sua sponte upon credible evidence of substantial injustice;
+(e) conduct hearings, interviews, and fact-finding proceedings, with full due process protections for all participants;
+(f) commence investigation within sixty (60) days of a credible petition and conclude within twelve (12) months unless extended by written, public justification for extraordinary complexity or volume of evidence;
+(g) protect petitioners, witnesses, and whistleblowers from retaliation pursuant to Article XI and Article I §10.
+Section 4. Findings, Reports, and Mandatory Referral
+Upon completion of an investigation, the Board shall issue a public report containing:
+(a) findings of fact and conclusions regarding innocence, constitutional violations, disproportionate sentencing, or systemic misconduct;
+(b) recommendations for corrective action, including referral for judicial relief, executive clemency, disciplinary proceedings, or legislative reform;
+(c) identification of recurring causes of injustice (e.g., eyewitness misidentification, forensic error, informant abuse, prosecutorial overreach) and proposed reforms to prevent recurrence.
+All reports shall be published in full, subject only to narrowly tailored redactions necessary to protect ongoing proceedings, victim privacy, or national security.
+Where the Board finds substantial injustice or credible misconduct, it shall make mandatory referral to:
+(a) the Constitutional Review Court for expedited review, potential vacatur, or other constitutional remedy;
+(b) the Constitutional Judicial Commission for investigation of institutional or individual misconduct;
+(c) the appropriate prosecuting authority for reconsideration or dismissal;
+(d) the executive for clemency or pardon consideration;
+(e) legislative bodies for statutory or procedural reform.
+Receiving authorities shall acknowledge receipt within thirty (30) days and act in good faith; failure to do so constitutes a grave offense subject to CJC enforcement.
+Section 5. Limitations
+The Board shall not:
+(a) adjudicate guilt or innocence;
+(b) vacate convictions, alter sentences, order retrials, or grant release;
+(c) exercise prosecutorial, judicial, or disciplinary authority;
+(d) substitute its findings for judicial process.
+The Board may not interfere with active judicial proceedings except in coordination with the court of jurisdiction.
+The existence of Board action shall not delay or preclude any other remedy available under this Constitution.
+Section 6. Composition and Safeguards
+The Board shall consist of eleven (11) members serving staggered, non-renewable ten-year terms.
+Composition shall ensure independence and competence:
+(a) no more than three (3) members may have prior prosecutorial or law-enforcement careers;
+(b) at least three (3) members shall be drawn from exonerees, defense attorneys, civil rights advocates, or forensic scientists with demonstrated expertise in wrongful-conviction matters;
+(c) the remainder shall include retired judges, scholars of criminal justice, and other qualified individuals with no recent partisan or institutional affiliation.
+Appointment shall be made by a balanced process involving the Supreme Court, CRC, CJC, and citizen lottery to prevent capture.
+Members may be removed only for cause, by supermajority vote of the CRC upon CJC recommendation.
+Section 7. Annual Reporting and Audit
+The Board shall publish an annual public report detailing cases reviewed, findings, referrals, systemic patterns, reform recommendations, and performance metrics.
+The Board and its operations shall be subject to independent performance and integrity audits every five (5) years by the CJC, with results made public.
+Section 8. Construction and Lock Protection
+This Article shall be construed broadly to favor correction of injustice, exposure of misconduct, and preservation of public legitimacy in the administration of justice, and narrowly against institutional secrecy, deference to finality, or protection of public servants at the expense of truth.
+The existence, independence, core jurisdiction, mandatory referral duty, anti-retaliation protections, and composition safeguards of the Board are lock-protected under Article XV and may not be repealed, suspended, diluted, reinterpreted, defunded, or structurally altered except through the supermajority procedures specified therein.

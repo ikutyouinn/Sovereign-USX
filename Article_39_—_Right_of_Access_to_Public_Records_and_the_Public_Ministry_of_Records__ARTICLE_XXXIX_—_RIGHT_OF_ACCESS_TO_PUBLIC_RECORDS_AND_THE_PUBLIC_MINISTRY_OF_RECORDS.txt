@@ -1,0 +1,102 @@
+ARTICLE XXXIX — RIGHT OF ACCESS TO PUBLIC RECORDS AND THE PUBLIC MINISTRY OF RECORDS
+
+Charge
+
+A Republic cannot govern itself in darkness.
+
+Public records are the memory of the State and are held in trust for the People. Where access is delayed, fragmented, selectively disclosed, obscured, or erased, corruption flourishes, accountability collapses, and self-government becomes impossible. History teaches that secrecy is the first refuge of tyrants and the last weapon of parasites.
+
+This Article establishes a constitutional presumption of openness, enforceable rights of access, and durable institutional safeguards to ensure that the memory of the Republic cannot be quietly hidden, distorted, or destroyed.
+
+Section 1. Right of Access and Presumption of Openness
+
+Every person shall have the right to timely and meaningful access to public records.
+
+All records, data, documents, communications, metadata, and other materials created, received, held, or controlled by the Republic, its agencies, officers, or agents acting under color of authority shall be presumed public.
+
+The State bears the burden of demonstrating, by clear and convincing evidence in a court of law, that withholding or redaction is necessary to prevent substantial, specific, and foreseeable harm to a constitutionally protected interest.
+
+Section 2. Narrow and Time-Limited Exemptions
+
+Access may be limited only where disclosure would demonstrably cause substantial harm to one of the following interests:
+	•	Personal privacy of living private individuals, excluding public officials acting in their official capacity;
+	•	National defense or critical infrastructure, where disclosure would cause identifiable and imminent damage;
+	•	Active criminal investigations, where disclosure would endanger life or materially compromise lawful apprehension.
+
+All exemptions shall be narrowly tailored, time-limited, and subject to periodic review. No exemption may persist indefinitely absent renewed justification meeting the standards of this Article.
+
+Section 3. Proactive Disclosure and Default Publication
+
+The Republic shall adopt a system of default openness.
+
+To the maximum extent practicable, non-exempt public records shall be proactively published in accessible, searchable, and machine-readable form, pursuant to law.
+
+Secrecy shall require affirmative justification; silence, delay, or administrative convenience shall not suffice.
+
+Section 4. Public Ministry of Records
+
+A Public Ministry of Records is hereby established as a ministerial steward of public records.
+
+The Ministry shall:
+	•	Facilitate access to public records without discretionary gatekeeping;
+	•	Maintain and coordinate secure, redundant archival systems to prevent loss, erasure, or single-point capture;
+	•	Process access requests pursuant to law and constitutional standards;
+	•	House and administer the Civic Metrics Board referenced in Article III-A, including preservation and publication of all civic-metrics data, methodologies, and certification records;
+	•	Publish periodic transparency reports detailing aggregate access activity, denials, and redactions.
+
+The Ministry shall operate pursuant to law and be subject to multi-branch oversight, regular audit, and judicial review. It shall possess no authority to classify, suppress, or deny records except as expressly authorized by law and consistent with this Article.
+
+Section 4-A. National Civic Data and Metrics Stewardship
+
+The Public Ministry of Records shall serve as the constitutional steward of national civic, economic, environmental, and quality-of-life data required for the operation of this Constitution.
+
+In furtherance of this duty, the Ministry shall:
+
+(a) collect, standardize, and preserve baseline data necessary to evaluate constitutional thresholds, proportionality tests, and trigger conditions established herein;
+(b) publish all datasets, methodologies, models, assumptions, and known limitations in accessible and machine-readable form;
+(c) ensure continuity and comparability of metrics across time, administrations, and methodologies;
+(d) certify factual determinations as to whether defined constitutional metrics have been met, without recommending policy outcomes.
+
+The Ministry shall possess no authority to direct policy, allocate resources, enforce compliance, or withhold data except as permitted under this Article.
+
+All data and methodologies shall remain subject to public audit, independent replication, and judicial review.
+
+Section 5. Timeliness, Costs, and Non-Obstruction
+
+Access to public records shall be provided promptly and without undue delay, as defined by law consistent with this Article.
+
+Fees shall not be imposed except to recover reasonable and actual costs of duplication. Fees shall not be used to deter, delay, or restrict access.
+
+The Republic shall encourage redundancy, independent preservation, and distributed access as safeguards against capture, destruction, or institutional failure.
+
+Section 6. Remedies, Standing, and Accountability
+
+Any person denied access in violation of this Article shall have standing to seek expedited judicial relief.
+
+Courts shall not defer to agency assertions of secrecy but shall independently assess the evidentiary showing required by this Article.
+
+Intentional obstruction, bad-faith delay, destruction, or misclassification of public records shall subject responsible officials to personal liability, removal as provided by law, and other appropriate remedies. No immunity shall shield intentional violations of this right.
+
+Section 7. Preservation and Non-Erasure
+
+No public record shall be destroyed, altered, or retroactively classified for the purpose of evading accountability.
+
+Historical records shall be preserved in accordance with law. Destruction of records may occur only pursuant to lawful retention schedules or judicial order.
+
+The Republic shall not use complexity, procedural delay, or classification creep to defeat the presumption of openness.
+
+Section 8. Construction
+
+This Article shall be interpreted liberally to favor disclosure, transparency, independent verification, and public accountability.
+
+It shall be read in harmony with Article XXVI (Charter of Inviolable Rights) and enforced as a structural safeguard against secrecy as a mode of governance.
+
+Section 9. Lock Designation
+
+Pursuant to Article XV, the following principles of this Article are designated for lock protection:
+	•	the presumption of openness;
+	•	the burden on the State to justify secrecy by clear and convincing evidence;
+	•	the prohibition on retroactive classification or destruction to evade accountability;
+	•	the right of standing to enforce access and challenge obstruction.
+
+

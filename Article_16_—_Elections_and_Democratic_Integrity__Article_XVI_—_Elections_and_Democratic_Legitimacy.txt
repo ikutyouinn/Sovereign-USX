@@ -1,0 +1,350 @@
+Article XVI — Elections and Democratic Legitimacy
+
+Charge
+
+This Article establishes constitutional requirements governing elections and the democratic legitimacy of public authority within the Republic. All electoral processes shall be conducted transparently, securely, and verifiably, and shall be designed to ensure accurate expression of voter intent, equal participation, and public confidence in electoral outcomes. Nothing in this Article shall be interpreted to authorize electoral manipulation, unreviewable procedures, or the exercise of governmental authority absent lawful and credible elections.
+Legal Text
+
+Section 1. Authority Over Elections
+
+a. Source of Authority
+
+The authority to conduct elections arises from the People and is exercised through the States, subject to this Constitution. Elections are a public trust, not a partisan instrument.
+
+b. Hybrid Administration Model
+
+Elections shall be administered by the States within a uniform constitutional framework established by the Republic to ensure fairness, security, and equal protection.
+States retain operational control; the Republic retains oversight authority to guarantee constitutional compliance.
+
+c. Federal Standards
+
+Congress shall establish national minimum standards governing:
+	•	voter eligibility verification;
+	•	ballot integrity and chain of custody;
+	•	auditability and recount procedures;
+	•	election security against fraud, coercion, and foreign interference;
+	•	transparency and public observability.
+
+No State may fall below these standards.
+
+d. Prohibition on Federal Control of Outcomes
+
+Neither Congress nor the Executive may dictate election outcomes, manipulate vote counting, interfere with lawful State administration, or delay elections except as constitutionally authorized.
+
+e. Election Oversight Tribunal
+
+A permanent, independent Election Oversight Tribunal shall:
+	•	audit compliance with this Article;
+	•	hear procedural challenges;
+	•	certify national election integrity;
+	•	refer violations for prosecution.
+
+The Tribunal shall consist of nine members, appointed through the Constitutional Judicial Commission (CJC) process defined in Article VI, serving staggered nine-year terms, and shall be subject to institutional-integrity supervision by the CJC and constitutional-compliance review by the Constitutional Review Court (CRC).
+f. Transparency Requirement
+
+All election procedures, software specifications, chain-of-custody rules, audit methods, and certification standards shall be public by default.
+
+g. Interpretation
+
+This Section preserves State administration, national legitimacy, voter confidence, and the sovereignty of the People.
+
+Section 2. The Right to Vote
+
+a. Citizenship Requirement
+
+The right to vote is reserved exclusively to Civic Citizens. No legal resident or non-civic person may vote in any election.
+
+b. Condition of Capacity
+
+Voting requires reasoned judgment. No person may vote while intoxicated, impaired, or cognitively incapacitated.
+No proxy or caretaker voting is permitted.
+
+c. Primary Voting Method
+
+Voting shall occur in person at supervised polling locations using physical paper ballots as the controlling legal record, with identity and biometric verification via transparent, publicly auditable systems.
+
+Biometric data shall be:
+	•	minimized;
+	•	stored locally;
+	•	deleted immediately after verification.
+
+d. Secure Digital Voting in Special Circumstances
+
+Secure digital machine voting (via phone or computer) is permitted only for:
+	•	active-duty military personnel deployed overseas;
+	•	diplomatic personnel stationed abroad;
+	•	verified medically incapacitated Civic Citizens unable to travel.
+
+Such voting must use end-to-end verifiable, publicly auditable systems with biometric pre-registration and supervised transmission.
+
+e. Prohibited Practices
+
+Mail-in ballots, ballot harvesting, drop boxes, unsupervised remote voting, and internet voting outside the above exceptions are prohibited.
+
+f. National Election Day
+
+A national Election Day shall be a federal holiday.
+Employers are strongly encouraged to grant paid leave.
+Employees denied time off for voting due to ideological or partisan motive may sue for damages.
+
+g. Uniformity
+
+These standards apply to all elections at every level.
+
+h. Interpretation
+
+The ballot is a responsibility exercised with sobriety and presence.
+
+Section 3. Voter Eligibility and Voter Rolls
+
+a. National Civic Voter Roll
+
+A single National Civic Voter Roll shall contain only eligible Civic Citizens.
+
+b. Eligibility Criteria
+
+Enrollment requires:
+	•	verified Civic Citizenship;
+	•	completed service obligations;
+	•	lawful age;
+	•	capacity;
+	•	biometric uniqueness.
+
+No excessive documentation may disproportionately burden eligible citizens.
+
+c. Automatic Enrollment and Maintenance
+
+Enrollment is automatic upon certification of Civic Citizenship.
+Rolls shall be continuously maintained to remove deceased, ineligible, or duplicate entries.
+
+d. Prohibition on Arbitrary Purges
+
+No mass or algorithmic purges are permitted without individualized cause and due process.
+Removal requires notice, evidence, and opportunity to contest.
+
+e. Annual Public Audit
+
+The voter roll shall undergo an annual public audit.
+
+f. Criminal Penalties
+
+Manipulation of voter rolls constitutes a Tier III offense.
+
+g. Interpretation
+
+The integrity of the roll is the integrity of the Republic.
+
+Section 4. Ballots and Voting Methods
+
+a. Authorized Ballots
+
+Only uniform, publicly issued paper ballots (or secure digital equivalents in approved special circumstances) may be used.
+
+b. Polling Places and Observers
+
+Voting occurs only at supervised polling locations with non-partisan citizen observers.
+
+c. Order and Sobriety
+
+Intoxicated or disruptive individuals shall be denied voting, subject to provisional review.
+
+d. Chain of Custody
+
+Every ballot shall be tracked, sealed, logged, and transported under dual custody.
+
+e. Counting
+
+Counting shall occur publicly, transparently, and promptly, with livestreaming where practicable.
+Paper ballots (or verified digital records) govern.
+
+f. Prohibited Practices
+
+Ballot harvesting, unsupervised vote curing, drop boxes, and post-hoc reinterpretation are forbidden.
+
+g. Interpretation
+
+Convenience shall never outweigh legitimacy.
+
+Section 5. Election Administration and Oversight
+
+a. State Administration
+
+States administer elections as fiduciaries of the People.
+
+b. Federal Oversight
+
+The Republic audits compliance but does not control outcomes.
+
+c. Mandatory Audits
+
+All elections undergo post-election audits prior to certification.
+
+d. Certification
+
+No officeholder may assume office prior to lawful certification.
+
+e. Prohibition on Interference
+
+Political interference with administration or audits is a Tier III offense.
+
+Section 6. Political Parties and Coalitions
+
+a. Permitted Scope
+
+Political parties may organize at the county, parish, or State level.
+
+b. Temporary National Coalitions
+
+Temporary, election-specific national coalitions are permitted and must dissolve immediately upon certification.
+
+c. Prohibition on Permanent National Parties
+
+Permanent national or multi-jurisdictional super-parties are forbidden.
+
+d. Funding and Transparency
+
+Political funding shall:
+	•	be limited to individual Civic Citizen contributions;
+	•	remain local or State-based;
+	•	be disclosed in real time.
+
+Corporate, foreign, union, and anonymous donations are prohibited.
+
+e. Interpretation
+
+Factions may compete and coordinate temporarily. They may not entrench permanent dominance.
+
+Section 7. Election Security and Integrity
+
+a. Foreign Interference
+
+Foreign involvement in elections constitutes an attack on sovereignty.
+
+b. Cybersecurity
+
+Election infrastructure must be domestically owned, auditable, and hardened.
+
+c. Intelligence Neutrality
+
+Intelligence agencies may not influence domestic political outcomes.
+
+d. Interpretation
+
+The Republic protects debate; it does not tolerate manipulation.
+
+Section 8. Counting, Certification, and Audit
+
+a. Public Counting
+
+Counting shall be observable, documented, and prompt.
+
+b. Audits and Recounts
+
+Mandatory audits precede certification.
+Full recounts occur when statutory thresholds are met.
+
+c. Finality
+
+Once certified and remedies exhausted, results are binding.
+
+Section 9. Disputed Elections and Remedies
+
+a. Right to Challenge
+
+Challenges require credible, material evidence.
+
+b. Exclusive Forums
+
+Disputes shall be adjudicated only by the Election Oversight Tribunal or the Constitutional Review Court, with the Constitutional Review Court possessing mandatory jurisdiction over claims alleging constitutional violation, systemic manipulation, or loss of democratic legitimacy.
+
+c. Remedies
+
+Remedies must be proportional and narrowly tailored.
+
+d. Nullification
+
+Nullification is permitted only where legitimacy is irreparably compromised, upon:
+(1) a two-thirds finding by the Election Oversight Tribunal and confirmation by the Constitutional Review Court; or
+(2) a Supreme Court finding of irreparable constitutional destruction.
+
+e. Scope and Targeting of Electoral Remedies
+
+Any nullification, invalidation, recall, forced re-election, or removal exercised pursuant to this Article shall be specific to the office, contest, or electoral body directly affected.
+No single petition, tribunal finding, judicial order, or popular act may dissolve, purge, or invalidate an entire branch of government in aggregate.
+Executive officers shall be removable individually by office.
+Legislative bodies may be subject to re-election by chamber, not jointly.
+Judicial officers may be removed individually, including a chief justice, but the judiciary as an institution shall not be dissolved by collective action.
+
+Remedies shall preserve constitutional continuity while restoring legitimacy.
+f. Interpretation
+
+Disputes must end, or the Republic cannot endure.
+
+Section 10. Election Crimes and Penalties
+
+a. Election Crimes
+
+Fraud, coercion, manipulation, obstruction, or certification of false results are Tier II or Tier III offenses.
+
+b. Aggravated Offenses
+
+Foreign collaboration and systemic fraud carry enhanced penalties.
+
+c. No Statute of Limitations
+
+There is no statute of limitations for crimes against democratic legitimacy.
+
+Section 11. Media, Technology, and Intelligence Separation
+
+a. Absolute Separation
+
+Intelligence agencies may not partner with or embed in media or technology platforms.
+
+b. Revolving Door Ban
+
+A minimum seven-year separation applies between intelligence service and platform authority.
+
+c. Algorithmic Neutrality
+
+Search engines, feeds, and AI systems may not manipulate political visibility or outcomes.
+
+d. AI Constraints
+
+AI may present facts and labeled opinion aggregates only; it may not persuade.
+
+e. Transparency
+
+All government–platform contacts must be disclosed.
+
+f. Interpretation
+
+Debate is protected. Manipulation is forbidden.
+
+Section 12. Civic Trust and Democratic Legitimacy
+
+a. Legitimate Authority
+
+All authority derives from informed, sober, voluntary consent expressed through lawful elections.
+
+b. Manufactured Consent Forbidden
+
+Legitimacy may not be claimed through deception, coercion, or manipulation.
+
+c. Finality and Transfer
+
+Certified elections require peaceful transfer of power.
+
+d. Right of Resistance
+
+When a government systematically subverts elections, suppresses lawful remedies, and rules without genuine consent—upon a two-thirds declaration by State legislatures convened in constitutional convention or a Supreme Court finding of irreparable constitutional destruction—the People retain the inherent right of resistance, including insurrection, as a last resort.
+
+This right arises only when constitutional order has been destroyed, not merely when outcomes are disputed.
+
+e. Enduring Covenant
+
+Where elections are honest, the Republic endures. Where elections are corrupted, liberty collapses.
+
+f. Interpretation
+
+This Article shall be interpreted to preserve trust between the People and their institutions, recognizing that without trust, law decays into force, and authority into tyranny.
+

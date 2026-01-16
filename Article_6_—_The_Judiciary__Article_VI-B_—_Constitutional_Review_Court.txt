@@ -1,0 +1,154 @@
+Article VI-B — Constitutional Review Court
+
+Section 1. Establishment and Purpose
+
+A Constitutional Review Court (CRC) is hereby established.
+
+The purpose of the Constitutional Review Court is to provide disciplined, neutral, and authoritative review of constitutional questions, to ensure uniform interpretation of this Constitution, and to prevent constitutional drift, fragmentation, or abuse by any branch of government.
+
+The Constitutional Review Court exists to safeguard constitutional structure, not to govern.
+
+The Constitutional Review Court exercises judicial power and shall adjudicate cases within its jurisdiction and issue binding judgments on the merits, subject to the limits and review provisions of this Constitution.
+
+⸻
+
+Section 2. Composition
+
+The Constitutional Review Court shall consist of nine (9) judges.
+
+Judges of the Constitutional Review Court shall meet the same constitutional qualifications as judges of the Supreme Court, unless otherwise specified by this Constitution.
+
+The Court shall sit en banc unless otherwise authorized by this Constitution.
+
+⸻
+
+Section 3. Jurisdiction
+
+The Constitutional Review Court shall have jurisdiction limited to:
+	1.	review of the constitutionality of statutes, executive actions, regulations, and governmental structures;
+	2.	resolution of conflicts concerning the separation of powers;
+	3.	review of laws or actions alleged to violate express constitutional prohibitions;
+	4.	mandatory review of judicial restructuring, including circuit creation or realignment, as required by Article VI-A;
+	5.	such other constitutional questions as this Constitution expressly assigns.
+
+The Constitutional Review Court shall not exercise jurisdiction over:
+	1.	criminal guilt or innocence;
+	2.	civil liability between private parties;
+	3.	fact-finding;
+	4.	evidentiary determinations;
+	5.	discretionary policy judgments.
+All determinations of the Constitutional Review Court shall be binding and enforceable, and shall be final unless accepted for review by the Supreme Court of the Republic or certified by the Constitutional Review Court as requiring appellate consideration.
+
+⸻
+
+Section 4. Referral and Access
+
+Cases may reach the Constitutional Review Court only by:
+	1.	referral from the Supreme Court;
+	2.	referral from a Circuit Court where a substantial constitutional question is dispositive;
+	3.	direct referral required by this Constitution;
+	4.	petition by a coordinate branch where separation-of-powers disputes are alleged, as authorized by law.
+
+The Constitutional Review Court shall not accept original filings from private parties except where this Constitution expressly authorizes such access.
+
+⸻
+
+Section 5. Powers and Limits
+
+The Constitutional Review Court may:
+	1.	declare laws, actions, or structures constitutional or unconstitutional;
+	2.	articulate binding constitutional interpretations;
+	3.	remand matters to the referring court for disposition consistent with its ruling.
+
+The Constitutional Review Court shall not:
+	1.	issue nationwide, universal, or non-party injunctions;
+	2.	prescribe remedies beyond constitutional invalidation;
+	3.	retain ongoing supervisory authority over other courts or branches;
+	4.	substitute its judgment for legislative or executive discretion where constitutional boundaries are not crossed.
+
+⸻
+
+Section 6. Effect of Decisions
+
+Decisions of the Constitutional Review Court on constitutional questions shall be binding on all courts and branches of government.
+
+Where a law or action is held unconstitutional, it shall be void to the extent of the constitutional defect.
+
+Unless otherwise specified by this Constitution, the effects of such decisions shall be prospective, except where retroactivity is required to prevent manifest injustice.
+
+⸻
+
+Section 7. Relationship to the Supreme Court of the Republic
+
+(a) Distinct Jurisdictional Roles
+The Constitutional Review Court exercises original jurisdiction over constitutional compliance, validity, and legal effect of matters expressly assigned to it by this Constitution, including matters routed through the Constitutional Judicial Commission. The Supreme Court of the Republic serves as the court of last resort and retains ultimate appellate and precedential authority.
+
+(b) Appellate Review
+Final judgments and orders of the Constitutional Review Court are subject to appellate or discretionary review by the Supreme Court of the Republic as provided by this Constitution. The Supreme Court may affirm, reverse, remand, or modify such determinations, but shall not exercise original jurisdiction over matters assigned in the first instance to the Constitutional Review Court except where expressly authorized herein. A judgment of the Constitutional Review Court shall be final if the Supreme Court declines review.
+
+(c) No Advisory or Subordinate Function
+The Constitutional Review Court does not act in an advisory capacity to the Supreme Court, nor does it issue opinions by referral for the purpose of assisting Supreme Court deliberation. Each court shall exercise its own constitutionally assigned jurisdiction independently and without subordination, subject only to the appellate authority of the Supreme Court as provided herein.
+
+(d) Referral from Other Courts
+Lower courts of the Republic shall refer questions of constitutional compliance, validity, or enforceability to the Constitutional Review Court where this Constitution so requires. Such referrals do not divest the Supreme Court of appellate jurisdiction over the resulting determination.
+
+(e) Precedential Effect
+Decisions of the Supreme Court of the Republic constitute binding constitutional precedent. Decisions of the Constitutional Review Court carry binding effect unless and until modified or reversed by the Supreme Court.
+
+(f) Construction
+This Section shall be construed to prevent jurisdictional overlap, advisory adjudication, or forum shopping, and to preserve a clear sequence of original constitutional adjudication followed by appellate review.
+
+(g) Complexity Certification
+
+The Constitutional Review Court may certify that a matter presents complexity, novelty, or institutional consequence requiring appellate consideration. Upon such certification, Supreme Court review shall be mandatory.
+
+
+⸻
+
+Section 8. Standing and Procedure
+
+Standing before the Constitutional Review Court shall be limited to questions of constitutional compliance and shall not expand access beyond that permitted by Article VI-A.
+
+Proceedings of the Constitutional Review Court shall be:
+	1.	adversarial where appropriate;
+	2.	public, except where limited secrecy is constitutionally justified;
+	3.	recorded and permanently archived.
+
+Procedural rules shall favor clarity, restraint, and timely resolution.
+
+⸻
+
+Section 9. Independence and Restraint
+
+Judges of the Constitutional Review Court shall exercise their duties independently and without regard to political consequence.
+
+The Court shall interpret this Constitution according to its text, structure, and original public meaning.
+
+The Court shall refrain from constitutional revision by interpretation.
+
+⸻
+
+Section 9A. Institutional Integrity of the Constitutional Review Court
+The Constitutional Judicial Commission shall have independent and continuing authority to investigate, audit, and certify whether the Constitutional Review Court is subject to corruption, capture, coercion, improper influence, or structural impairment.
+
+Where the CJC finds credible evidence of such impairment, it shall issue a public certification and refer the matter to the Judicial Review Board and to the Legislature for corrective action.
+
+The CJC shall not review the substance of constitutional rulings, but shall safeguard the Court’s independence, honesty, and constitutional fitness.
+
+
+⸻
+
+Section 10. Emergency and Continuity Constraints
+
+The Constitutional Review Court shall operate subject to Article XV.
+
+No emergency, continuity, or necessity doctrine shall enlarge the jurisdiction or powers of the Constitutional Review Court beyond those enumerated in this Constitution.
+
+⸻
+
+Section 11. Interpretation
+
+This Subarticle shall be interpreted to preserve constitutional supremacy while preventing judicial overreach, concentration of authority, or substitution of judicial will for democratic governance.
+
+⸻
+

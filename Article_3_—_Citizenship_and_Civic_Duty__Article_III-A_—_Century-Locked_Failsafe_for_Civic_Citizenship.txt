@@ -1,0 +1,44 @@
+Article III-A — Century-Locked Failsafe for Civic Citizenship
+ Section 1. Purpose and Strict Construction
+(a) This Article establishes a single, conditional, time-delayed failsafe mechanism to preserve republican legitimacy if—and only if—the service-based model of Civic Citizenship in Article III permanently ceases to function as a realistic pathway for a substantial portion of the adult population due to structural, technological, or demographic obsolescence beyond individual control.
+(b) This Article shall be construed narrowly, defensively, and in strict subordination to Article III. It does not create universal suffrage, entitlement-based political rights, mass regularization, or any dilution of the earned-sacrifice principle.
+(c) The service pathways of Article III remain the primary, preferred, and presumptively exclusive means of acquiring Civic Citizenship unless and until every triggering condition in Section 3 is simultaneously and unanimously certified under Section 4.
+ Section 2. Absolute Temporal Lock (Lock-Protected)
+No provision, interpretation, or invocation of this Article may activate, be implemented, or be given legal effect earlier than one hundred (100) full calendar years after the ratification of this Constitution.
+This temporal lock is absolute and non-derogable. It shall not be shortened, suspended, waived, or circumvented by statute, executive action, judicial doctrine, emergency declaration, demographic shift, technological change, political pressure, or claims of necessity.
+No amendment, referendum, or constitutional convention may alter this Section except under the highest procedural threshold of Article XV and with explicit repeal of this Section in full.
+ Section 3. Cumulative and Conjunctive Triggering Conditions
+The failsafe pathway may activate only if all four of the following conditions are concurrently and unanimously certified:
+(1) Sustained Access Failure. Fewer than forty percent (40%) of adults who have resided in the Republic continuously since age sixteen (16) are realistically able to pursue and complete any qualifying service pathway due to structural, economic, demographic, technological, or institutional barriers beyond individual control.
+(2) Measurable Elite Entrenchment. Civic Citizenship has become intergenerationally concentrated within a stable population constituting less than twenty percent (20%) of the total adult population for three consecutive generations, measured over not less than seventy-five (75) years.
+(3) Functional Obsolescence of Service Pathways. Clear and convincing, independently verified evidence demonstrates that traditional service pathways no longer correspond to the predominant forms of risk, sacrifice, hardship, or stewardship required to preserve the Republic, and that no good-faith effort to maintain equivalent hardship-based alternatives has succeeded.
+(4) Demonstrated Civic Competence of the Non-Civic Population. Objective, reproducible testing shows that a substantial and representative portion of the non-civic adult population possesses civic competence—constitutional literacy, logical reasoning, resistance to manipulation, and understanding of minority protections—equal to or exceeding the median competence of existing Civic Citizens.
+No failure condition may be certified where the insufficiency of service pathways results from deliberate legislative underfunding, regulatory obstruction, or bad-faith administrative design.
+ Section 4. Certification and Anti-Capture Mechanism
+Activation requires concurrent, written certification by all three of the following bodies:
+(a) the Constitutional Judicial Commission;
+(b) the Civic Metrics Board, housed within the Public Ministry of Records established by Article XXXIX, operating under its transparency, audit, and non-discretionary access requirements;
+(c) the Supreme Court of the Republic sitting en banc.
+Each certifying body shall publish a fully auditable, data-supported finding. Any dissenting opinion blocks activation for twenty-five (25) years.
+The certification process itself is subject to citizen challenge before the Constitutional Review Court. Broad standing is granted to any lawful resident.
+ Section 5. Secondary Civic Qualification Path (Supplemental Only)
+Upon lawful activation, a secondary path to Civic Citizenship shall exist as a supplement—not a replacement—for Article III service.
+(a) Civic Competence Examination. An applicant may earn Civic Citizenship by passing a rigorous, proctored examination demonstrating mastery of:
+(i) the full text, structure, and principles of this Constitution; (ii) logical reasoning, evidence evaluation, and fallacy detection; (iii) resistance to propaganda, factional manipulation, and demagoguery; (iv) understanding of civic duties, separation of powers, minority protections, and limits on authority.
+(b) Open-Source AI Administration. The examination shall be generated, administered, and scored exclusively by a rotating set of fully open-source, publicly auditable, forkable artificial intelligence systems subject to adversarial testing and cryptographic verification of integrity.
+No single entity, model, institution, or authority may control question generation, scoring, or pass thresholds.
+(c) Non-Substitution and Reversion. This path supplements but never replaces or diminishes Article III service requirements. If service pathways later regain functional accessibility and relevance, as certified by the same three bodies, this secondary path shall automatically suspend and revert to exclusive reliance on Article III.
+ Section 6. Anti-Capture and Anti-Dilution Safeguards
+(a) The AI examination system shall be fully open-source, with source code, weights, prompts, scoring logic, and cryptographic hashes publicly auditable and forkable.
+All examination prompts, model versions, hashes, scoring outputs, and aggregate statistics constitute public records subject to Article XXXIX, with no classification permitted except for narrow, time-limited security justifications.
+(b) The system shall be subject to continuous adversarial testing by independent researchers and rotated among multiple community-verified models to prevent capture.
+(c) Any attempt to bias, simplify, lower standards, manipulate scoring, or subvert the system constitutes a grave constitutional offense enforceable by the Constitutional Judicial Commission and punishable under law.
+(d) Unlimited retakes are permitted, but no credential, wealth, training program, or preparatory course may guarantee or presumptively satisfy passage.
+ Section 7. No Automatic Expansion or Preferential Treatment
+(a) No person acquires Civic Citizenship automatically under this Article.
+(b) No demographic, class, profession, residency status, or group receives preferential treatment, quotas, or relaxed standards.
+(c) Activation does not create universal suffrage or mass enfranchisement.
+ Section 8. Construction and Lock Protection
+This Article shall be construed narrowly to preserve the earned-sacrifice principle of Article III and to prevent dilution, capture, or pretextual expansion of political authority. Any ambiguity shall be resolved against activation and in favor of maintaining service-based Civic Citizenship.
+The artificial intelligence systems described herein exercise no political authority and serve solely as transparent measurement instruments. All political authority remains vested in human constitutional bodies.
+The temporal lock, cumulative triggering conditions, triple-certification requirement, supplemental-only nature of the examination path, open-source and anti-capture safeguards, and prohibition on automatic expansion are lock-protected under Article XV and may not be repealed, suspended, shortened, diluted, reinterpreted, or circumvented except through the highest procedural threshold defined therein. 

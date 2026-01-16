@@ -1,0 +1,113 @@
+Article XXIV-B — Arrest, Containment, and Evidentiary Boundaries
+
+Charge
+
+The power to arrest, detain, contain, or seize evidence is among the most dangerous authorities the state possesses. When abused, it destroys liberty, fabricates guilt, and erodes public trust in law itself.
+
+This Article imposes strict constitutional boundaries on arrest, containment, and evidentiary practices to ensure force is used only when necessary, lawfully, proportionately, transparently, and with full accountability. All actions must serve justice, not convenience, control, or narrative.
+
+Section 1. Arrest — Strict Necessity and Particularity
+ 
+(Lock-Protected)
+
+No person shall be arrested, detained, or taken into custody except upon:
+
+(a) probable cause supported by oath or affirmation, particularized to the individual and the offense;
+
+(b) a warrant issued by a neutral magistrate based on specific facts, not generalized suspicion or profiling;
+
+(c) lawful warrantless arrest only for crimes committed in the officer’s presence or where there is probable cause of a felony and immediate risk of flight, destruction of evidence, or harm to others; or
+
+(d) exigent circumstances, provided such circumstances were not created, prolonged, or manufactured by law enforcement conduct.
+
+Arrest shall never be used as a pretext for investigation, harassment, intelligence gathering, or punishment absent charge. Mass arrests, dragnet detentions, or arrests based on association, speech, or status are prohibited.
+
+Section 2. Containment and Pretrial Detention
+ 
+(Lock-Protected)
+
+Protective containment undertaken pursuant to Article XXIV-A (Capacity-Based Apprehension and Protective Containment) is not pretrial detention and shall be governed exclusively by that Article.
+
+Pretrial detention shall be the exception, not the rule.
+
+(a) No person shall be detained pretrial absent clear and convincing evidence that no release condition can reasonably assure appearance and public safety.
+
+(b) Detention must be reviewed by a neutral magistrate within forty-eight (48) hours, with a full adversarial hearing within seventy-two (72) hours thereafter.
+
+(c) Indefinite or prolonged pretrial detention is prohibited. Maximum pretrial confinement absent extraordinary justification, certified by the Constitutional Review Court, shall be one hundred eighty (180) days.
+
+(d) Release on personal recognizance or minimal conditions shall be presumed for non-violent offenses. Cash bail is prohibited where it results in wealth-based detention.
+
+Nothing in this Section shall be construed to extend or relax stricter time limits imposed elsewhere in this Constitution.
+
+Section 3. Evidentiary Boundaries and Exclusionary Rule
+
+Evidence obtained in violation of this Constitution or any inviolable right is inadmissible in any proceeding, civil or criminal.
+
+(a) No evidence derived from unlawful arrest, detention, search, seizure, surveillance, or interrogation shall be used (“fruit of the poisonous tree”).
+
+(b) Confessions or statements obtained through coercion, deception, prolonged isolation, or without counsel are presumptively involuntary and inadmissible.
+
+(c) All custodial interrogations shall be electronically recorded in full. Absence of recording creates a rebuttable presumption of inadmissibility.
+
+(d) Chain of custody for physical evidence must be documented and auditable. Breaks in chain render evidence inadmissible absent extraordinary justification.
+
+Section 4. Use of Force in Arrest and Containment
+
+Force during arrest or containment must be:
+
+(a) strictly necessary to effect lawful arrest or prevent imminent harm;
+
+(b) proportionate to the threat or resistance presented;
+
+(c) preceded by verbal commands and de-escalation attempts where feasible; and
+
+(d) recorded by body-worn and vehicle cameras where practicable.
+
+The preservation of civilian life shall be the paramount consideration in all use-of-force decisions.
+
+Deadly force is lawful only to prevent imminent death or grave bodily harm to officers or others. Chokeholds, neck restraints, or positional asphyxia techniques that restrict breathing are prohibited except as a last-resort response to an active lethal threat.
+
+Section 5. Transparency, Recording, and Access to Records
+
+All arrests, detentions, interrogations, and uses of force shall be:
+
+(a) contemporaneously documented with date, time, location, officers involved, legal basis, and outcome;
+
+(b) recorded by body-worn cameras and facility surveillance where available; and
+
+(c) made public records under Article XXXIX, redacted only for victim or witness safety or ongoing investigation.
+
+Destruction, alteration, or withholding of required recordings constitutes a grave offense and triggers automatic exclusion of related evidence.
+
+Such destruction or withholding creates a rebuttable presumption of intentional misconduct for purposes of civil and criminal liability.
+
+Section 6. Remedies, Standing, and No Immunity
+
+Any person subjected to unlawful arrest, detention, containment, or evidentiary abuse has a private right of action for civil and criminal redress against responsible officers, supervisors, and agencies.
+
+The United States waives sovereign immunity for claims under this Article. Qualified immunity is abolished for violations of constitutional rights.
+
+Broad standing is granted to any person or organization to challenge systemic patterns of abuse before the Constitutional Review Court.
+
+Remedies shall include suppression of evidence, damages, injunctive relief, disciplinary action, and criminal referral.
+
+Section 7. Oversight and Anti-Abuse
+
+The Constitutional Judicial Commission shall:
+
+(a) audit arrest, detention, and evidentiary practices annually;
+
+(b) investigate patterns of abuse or pretextual enforcement; and
+
+(c) certify compliance with this Article.
+
+Willful violation, abuse of authority, or systemic misconduct constitutes a grave offense subject to removal, liability, and disqualification from public office.
+
+Section 8. Construction and Lock Protection
+
+This Article shall be construed broadly in favor of liberty, due process, transparency, and accountability, and narrowly against pretext, abuse, secrecy, and unaccountable force.
+
+The principles of strict necessity for arrest, limits on pretrial detention, exclusionary rule for tainted evidence, recording and transparency requirements, abolition of qualified immunity, private right of action, and prohibition of pretextual or mass containment are lock-protected under Article XV and may not be repealed, suspended, diluted, or reinterpreted except through the highest procedural threshold defined therein.
+
+

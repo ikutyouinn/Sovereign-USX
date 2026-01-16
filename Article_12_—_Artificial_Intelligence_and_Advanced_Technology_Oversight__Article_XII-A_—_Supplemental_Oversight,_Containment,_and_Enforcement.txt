@@ -1,0 +1,129 @@
+Article XII-A — Supplemental Oversight, Containment, and Enforcement
+
+Section 1. Non-Derogation and Relationship to Article XII
+
+This Article supplements Article XII — Artificial Intelligence and Advanced Technology Oversight.
+
+Nothing in this Article shall be construed to repeal, narrow, condition, rebalance, delay, or reinterpret any prohibition, safeguard, or right established in Article XII.
+
+Compliance with this Article shall not constitute a defense to violation of Article XII.
+
+⸻
+
+Section 2. Scale, Replication, and Proliferation Controls
+
+Artificial intelligence systems and advanced technologies capable of large-scale replication, autonomous propagation, or cascading societal impact shall be subject to scale controls.
+
+Replication, deployment, or integration beyond defined thresholds may be restricted, paused, or prohibited where risk exceeds demonstrated public benefit.
+
+Unchecked proliferation constitutes evidence of negligence or recklessness.
+
+⸻
+
+Section 3. Containment and Fail-Safe Requirements
+
+Advanced systems shall incorporate meaningful containment, isolation, and fail-safe mechanisms sufficient to:
+	1.	halt operation;
+	2.	prevent uncontrolled self-replication;
+	3.	disable harmful emergent behavior;
+	4.	allow human override.
+
+Absence of credible containment constitutes grounds for suspension or shutdown.
+
+⸻
+
+Section 4. Shutdown Authority and Emergency Suspension
+
+Where an artificial system presents imminent risk to rights, liberty, public safety, or democratic integrity, the Constitutional Review Court or a civilian authority certified by the Constitutional Judicial Commission may order immediate suspension or shutdown.
+
+Such authority shall be exercised narrowly, documented on the record, and subject to prompt review.
+
+Emergency suspension shall not be used to bypass transparency or accountability.
+
+⸻
+
+Section 5. Anti-Black-Box and Explainability Enforcement
+
+No advanced system materially affecting the public may operate as an unreviewable black box.
+
+Where explainability is technically limited, compensating safeguards, audits, and exposure requirements are mandatory.
+
+Opacity is not a defense.
+
+⸻
+
+Section 6. Preservation, Archival, and Continuity Obligations
+
+Advanced systems of public significance shall not be destroyed, erased, or rendered inaccessible solely to avoid scrutiny, liability, or preservation.
+
+Model architectures, system behavior, and decision frameworks shall be preserved for audit, historical record, and continuity, consistent with Article X-A.
+
+Deliberate spoliation constitutes a grave offense.
+
+⸻
+
+Section 7. Sentient System Review Safeguards
+
+Where credible evidence suggests emergent sentience or person-like cognition, heightened review procedures shall apply.
+
+Such review shall be:
+	1.	adversarial;
+	2.	evidence-based;
+	3.	subject to oversight by the Constitutional Review Court;
+	4.	insulated from corporate or political pressure.
+
+No automatic recognition or denial of personhood shall occur absent constitutional process.
+
+⸻
+
+Section 8. Civilian Oversight and Public Participation
+
+Oversight bodies governing advanced technology shall include meaningful civilian participation independent of corporate, military, or intelligence control.
+
+Selection mechanisms may include randomized civic representation, subject-matter qualification, and conflict-of-interest exclusion.
+
+Public oversight shall be substantive, not symbolic.
+
+⸻
+
+Section 9. Prohibition on Delegated Moral Judgment
+
+No artificial system may be authorized to perform moral, ethical, or normative judgment on behalf of the Republic.
+
+Systems may advise; they may not decide.
+
+Delegation of moral authority constitutes unconstitutional abdication.
+
+⸻
+
+Section 10. Enforcement, Liability, and Escalation
+
+Violations of this Article may give rise to:
+	1.	injunctions and shutdown orders;
+	2.	civil liability;
+	3.	structural remedies;
+	4.	criminal referral where intent, recklessness, or concealment is established.
+
+Where conduct qualifies as a grave offense under Article 0, Tier-3 escalation is mandatory.
+The Constitutional Judicial Commission shall have standing to certify when violations constitute institutional capture, concealment, or systemic abuse and to petition the Constitutional Review Court for Tier-3 escalation, dissolution, or permanent disqualification.
+
+⸻
+
+Section 11. Transparency, Records, and Audit Trail
+
+Records relating to the design, deployment, modification, containment, suspension, or shutdown of advanced systems are public records.
+
+Claims of secrecy or proprietary control shall not defeat preservation or oversight obligations.
+
+This Section operates in coordination with Article XXXIX.
+
+⸻
+
+Section 12. Interpretation
+
+This Article shall be interpreted to reinforce human supremacy, democratic control, and civilizational safety in the development and deployment of advanced technology.
+
+Where doubt exists, the construction that most restricts unaccountable technological power shall control.
+
+⸻
+

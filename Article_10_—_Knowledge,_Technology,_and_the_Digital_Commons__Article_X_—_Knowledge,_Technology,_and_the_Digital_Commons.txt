@@ -1,0 +1,284 @@
+Article X — Knowledge, Technology, and the Digital Commons
+Charge 
+
+This Article establishes constitutional principles governing knowledge, science, technology, and the digital commons of the Republic. All provisions of this Article shall be construed to promote public access, lawful innovation, transparency, interoperability, and the use of technology in service of individual liberty and democratic self-government. Nothing in this Article shall be interpreted to authorize technological control, surveillance, restriction of knowledge, or compulsory dependency except as expressly provided by this Constitution and subject to judicial review.
+
+Legal Text
+Section 1. Knowledge as a Public Trust (a) Principle of Stewardship Knowledge produced within the Republic, especially through public funding, public labor, or public mandate, is held in trust for the People. No government, corporation, or individual may monopolize, conceal, or weaponize essential knowledge to undermine liberty, public safety, or democratic self-government.
+(b) Public Access Scientific research, policy data, regulatory evidence, and technical standards funded by public means shall be publicly accessible, auditable, reproducible where practicable, and archived for posterity. Exceptions may exist only for narrowly defined national security concerns, subject to judicial review and sunset requirements.
+(c) Prohibition on Knowledge Suppression It is unlawful for any authority to suppress, distort, or falsify knowledge for political, ideological, or financial advantage. Deliberate suppression of material scientific, medical, economic, or technological facts that causes public harm constitutes a grave offense.
+
+Section 2. The Digital Commons (a) Definition and Scope The Digital Commons consists of public digital infrastructure, publicly accessible networks, government-operated platforms, essential digital utilities, and public data repositories. These systems shall operate for the benefit of the People and may not be privatized in a manner that compromises public access, fairness, or sovereignty.
+(b) Neutrality and Access Digital infrastructure operated or regulated by the Republic shall provide equal access without viewpoint discrimination, operate transparently, publish moderation, ranking, and access rules, and prohibit covert manipulation of visibility or reach.
+(c) Prohibition on Digital Exclusion No lawful resident may be excluded from essential digital services required for civic participation, education, commerce, or public information, except by due process of law.
+(d) For purposes of this Article, “technology” includes autonomous, semi-autonomous, robotic, cyber-physical, and embedded systems, whether stationary or mobile, consumer or industrial.
+(e) Safety, liability, or regulatory classification shall not be used to perpetuate vendor control, remote disablement, or restriction of lawful modification after meaningful commercial use has expired.
+
+Section 3. Artificial Intelligence and Automated Systems (a) Permitted Use Artificial intelligence may assist human judgment in data analysis, logistics, research, and administration. AI shall not replace human judgment in matters of rights, liberty, justice, or political power.
+(b) Prohibited Uses No AI system may determine guilt or innocence, impose criminal penalties, decide eligibility for rights, manipulate political behavior, conduct psychological operations on the People, engage in deceptive impersonation of humans, or operate without traceability or auditability.
+(c) Transparency and Audit All AI systems used by government or critical infrastructure must be documented, auditable, disclose decision logic to authorized oversight bodies, and permit challenge and appeal.
+(d) Human Accountability Responsibility for AI-assisted decisions rests with identifiable human officials. All systems shall include a documented mechanism for human override.
+
+Section 4. Information Integrity and Manipulation (a) Prohibition on Information Warfare Against the People It is forbidden for any government agency, intelligence service, corporation, or proxy actor to manipulate search results, algorithmically distort political information, fabricate consensus, or deploy covert influence campaigns against the People.
+(b) Separation of Intelligence and Media No intelligence agency, contractor, or former officer within a cooling-off period of not less than five (5) years may own, direct, or covertly influence major media or information platforms.
+(c) Platform Accountability Large information platforms shall disclose ownership, funding sources, algorithmic ranking principles, permit independent audits, and refrain from covert manipulation.
+The Constitutional Judicial Commission shall audit platform disclosures and algorithmic behavior for manipulation, political interference, or information warfare and may petition the Constitutional Review Court for corrective orders, sanctions, or platform breakup.
+
+Section 5. Digital Property and Personal Sovereignty (a) Personal Data Ownership Individuals retain ownership of their personal data. Collection or use requires informed, revocable consent.
+(b) Limits on Surveillance Mass surveillance without individualized suspicion and judicial warrant is prohibited.
+(c) Digital Due Process No person may be digitally deplatformed or denied essential services without notice, explanation, opportunity to respond, and judicial review, except where immediate and demonstrable danger exists.
+
+Section 6. Open Innovation and the Commons of Knowledge
+(a) Open Standards The Republic favors open technical standards, interoperability, and transparency over proprietary lock-in.
+(b) Intellectual Property Balance Intellectual property exists to encourage creation, not perpetual rent-seeking. IP protections shall be time-limited, proportional, non-predatory, and incapable of extinguishing the commons.
+(c) Prohibition on Technological Serfdom No technology may be designed, licensed, or enforced in a manner that creates dependency without exit, disables repair or modification, coerces perpetual payment for basic function, or strips ownership from lawful purchasers.
+(d) Right to Repair All citizens and lawful residents possess the unqualified right to repair, modify, or maintain any lawfully acquired device, vehicle, machinery, or equipment. No manufacturer, vendor, or service provider may:
+	•	withhold parts, tools, diagnostics, or documentation necessary for repair;
+	•	impose contractual restrictions on third-party or self-repair;
+	•	use software locks, authentication systems, or firmware restrictions to prevent repair or modification;
+	•	void warranties solely due to independent or third-party repair.
+This right extends to agricultural, industrial, consumer, and medical equipment. Safety-critical components may be regulated, but such regulation shall not function as a barrier to lawful repair.
+(e) Open APIs for Essential Services Essential digital services, including payment systems, messaging platforms, identity verification services, and cloud storage, shall provide open, documented application programming interfaces after maturity as defined by law, to ensure interoperability and prevent technological lock-in.
+(f) Platform Neutrality and Open Distribution
+No operating system, device manufacturer, or platform may require a single controlled marketplace as the sole means of software distribution.
+Alternative stores, sideloading, and third-party distribution shall be permitted without penalty or degradation.
+
+Section 7. Software, Hardware, and Digital Heritage Preservation
+
+(a) Principle of Digital Continuity
+Software, hardware designs, artificial intelligence systems, and digital platforms constitute civilizational knowledge. When such systems no longer serve a serious commercial purpose, they shall not be permitted to vanish, decay, or remain locked behind obsolete legal barriers. The Republic affirms a duty to preserve, study, restore, and evolve the technological inheritance of the People.
+
+(b) Abandonment and Sunset Rule
+Any proprietary software, hardware platform, artificial intelligence model, or technical system shall be transferred to the Digital Commons under an open-source license when any of the following conditions are met:
+	•	forty (40) years have elapsed since initial public release;
+	•	the system has entered maintenance-only status for more than ten (10) consecutive years;
+	•	the system is no longer commercially distributed or meaningfully supported; or
+	•	the original steward has dissolved, abandoned the product, or ceased meaningful development.
+
+Nominal maintenance, artificial licensing, token commercialization, or shell stewardship shall not defeat this transfer.
+
+(c) Scope of Transfer
+Upon transfer, the following must be preserved and released where lawfully possible: source code and build systems; documentation and technical manuals; firmware, drivers, and toolchains; hardware schematics and interfaces; and historical version-control and revision history.
+
+(d) Right to Modify, Restore, and Study
+The People retain an explicit right to modify abandoned or sunset software, hardware, and artificial intelligence systems; repair, emulate, and modernize legacy platforms; create compatibility layers, ports, and forks; preserve and distribute historical software and digital works; and maintain repositories for archival, educational, hobbyist, or research purposes. Such activities shall not constitute infringement once systems enter the Digital Commons.
+
+(e) Anti-Evasion by Contract or Platform
+No lease, subscription, service model, license, or platform control may be used to evade the transfer of control, modification rights, or interoperability guarantees established by this Article once meaningful commercial use has expired. Functional possession and lawful use confer the same post-maintenance rights as ownership.
+
+(f) Prohibition on Destruction or Sabotage
+No entity may intentionally destroy, disable, or materially degrade hardware, firmware, or essential components to prevent lawful post-maintenance use, modification, or archival preservation. Such acts constitute spoliation of the Commons and shall result in civil liability, criminal penalty, and compulsory disclosure of all technical materials necessary to restore functionality where practicable.
+(g). Anti-Destructive Recycling and Public Reuse Mandate
+
+No electronics recycler, waste contractor, manufacturer, or disposal intermediary may destroy, shred, export, or materially degrade any functional or repairable digital device, computing system, or electronic component for the purpose of market suppression, vendor lock-in, data-control, or artificial scarcity.
+
+All covered entities shall first offer such equipment for:
+	•	refurbishment and redistribution to low-income individuals, schools, libraries, and public institutions;
+	•	supply to repair cooperatives, right-to-repair programs, and community technology centers;
+	•	preservation by museums, archives, and historical computing trusts;
+	•	public resale or auction.
+
+Only equipment that is irreparably damaged, unsafe, or beyond reasonable economic repair may be recycled for raw material recovery.
+
+Intentional destruction of usable technology to eliminate competition, suppress secondary markets, or enforce product turnover constitutes spoliation of the Digital Commons and technological sabotage.
+
+(h) Custodianship
+Congress shall designate a neutral Digital Heritage Authority responsible for archiving released systems, verifying abandonment or sunset status, maintaining public repositories, and ensuring long-term accessibility. The Authority shall not censor, alter, or suppress released materials nor impose ideological, political, or content-based restrictions.
+
+(i) Judicial Acceleration for Public Necessity
+The Constitutional Review Court may order accelerated entry of covered technologies into the Digital Commons upon clear and convincing evidence that continued exclusivity poses:
+	•	a substantial risk to public health or safety;
+	•	a threat to national resilience or essential infrastructure; or
+	•	systemic harm to democratic self-government or access to life-critical knowledge.
+
+Such orders shall be narrowly tailored, subject to appeal, and accompanied by just compensation where constitutionally required. Judicial acceleration is a protective remedy, not punishment.
+
+(j) Software Jubilee
+Congress shall establish a recurring Software Jubilee, occurring no less than once every ten (10) years, to identify systems eligible for commons reversion, reconcile legacy licenses, and ensure the timely release of qualifying software, firmware, documentation, and technical knowledge. The Jubilee is ministerial and may not delay or narrow any reversion right.
+
+(k) Jubilee Reciprocity and Conditional Reuse
+During any Software Jubilee, any person or entity may lawfully incorporate, adapt, or integrate Digital Commons software into proprietary or mixed systems without immediate disclosure. Such use is conditional upon mandatory return of all derivative improvements to the Digital Commons at the next Jubilee. No contract, license, or technical measure may defeat this obligation. Failure to return derivative code results in forfeiture of exclusive control over all materially dependent systems.
+
+(l) Presumption of Openness
+Where ambiguity exists regarding commons reversion, Jubilee release, derivative equity, or disclosure obligations, such ambiguity shall be resolved in favor of:
+
+• public access,
+• preservation,
+• interoperability, and
+• the Digital Commons.
+
+No actor may benefit from uncertainty to withhold or suppress qualifying knowledge.
+
+(m) Anti-Takedown and Anti-Erasure Doctrine
+No law, treaty, platform policy, automated system, private contract, or notice-based process may require or permit removal, disabling, blocking, de-indexing, or erasure of any covered material that:
+	•	has entered the Digital Commons;
+	•	is subject to Jubilee, reversion, or preservation obligations;
+	•	constitutes historical, scientific, technical, or cultural record; or
+	•	is used for lawful research, interoperability, critique, or archival preservation.
+
+Disputes shall be resolved only by adjudication before the Digital Heritage Authority or a court. Pending adjudication, all materials shall remain accessible in public or escrowed archives. No platform or intermediary incurs liability for preservation. No automated or extrajudicial system may erase public knowledge.
+
+(n) Digital Commons Enforcement Authority (DCEA)
+There is established an independent Digital Commons Enforcement Authority charged with protecting the Commons and enforcing this Article. The DCEA shall have subpoena power; authority to compel records and code; power to seize, mirror, and escrow threatened materials; power to issue preservation orders; and standing to bring civil and criminal actions. It shall operate independently and may not be defunded or obstructed.
+
+(o) Preservation-First Rule
+When covered materials become the subject of any takedown, copyright, trade-secret, or legal dispute, they shall be immediately mirrored, escrowed, and preserved in full. No removal, de-indexing, or access restriction may occur until adjudication is complete. No party may benefit from erasure or delay.
+
+(p) Anti-DMCA and Anti-Censorship Override
+No statute, treaty, regulation, or private enforcement system may override this Article. Where conflict exists, preservation and the Digital Commons control. Automated takedowns and platform censorship of covered materials are void.
+
+(q) Penalties for Erasure and Suppression
+Any entity that issues unlawful takedowns, suppresses Commons materials, destroys or hides code, or algorithmically buries qualifying knowledge commits spoliation of the Commons and shall be subject to:
+	•	forfeiture of exclusive rights;
+	•	compulsory disclosure;
+	•	civil liability;
+	•	criminal liability where willful or systematic; and
+	•	permanent exclusion from government contracts and custodianship.
+
+(r) Anti-Evasion and Corporate Piercing
+No corporate structure, DRM system, cloud architecture, platform gate, or contractual web may evade Jubilee or preservation. The DCEA may pierce corporate veils and treat interdependent systems as a single covered work.
+
+(s) Whistleblower Protection and Bounty
+Any person who discloses violations of this Section is immune from retaliation, NDA enforcement, trade-secret claims, or liability. Where disclosure leads to enforcement or recovery, the whistleblower shall receive a portion of recovered value, legal protection, and public-service priority.
+
+(t) Jury of the Digital Commons
+All major disputes under this Section shall be triable before a jury of the People, empowered to determine suppression, lineage fraud, monopoly, and enforcement remedies. No case may be resolved solely by administrative or private tribunal.
+
+(u) Interpretation
+This Section shall be construed to prevent erasure of knowledge, end artificial technological scarcity, and preserve the inheritance of human innovation. Where ambiguity exists, interpretation shall favor openness, preservation, and the People over control. A Republic that forgets how it was built cannot long endure.
+
+Section 8. Mandatory Commons Convergence
+ (a) Principle Fragmentation of mature foundational technologies is incompatible with the public good.
+(b) Convergence Trigger After fifty (50) years from initial release, all Commons technologies become reciprocally usable.
+(c) Effect License barriers to reuse cease; attribution may persist but exclusion may not.
+(d) Enforcement Attempts to enforce expired license barriers constitute civil offenses.
+(e) Presumption of Openness
+
+Where ambiguity exists regarding the scope, timing, or applicability of commons reversion, release, derivative equity, or disclosure obligations, such ambiguity shall be resolved in favor of:
+
+• public access,
+• preservation,
+• interoperability, and
+• the Digital Commons.
+
+No actor shall benefit from uncertainty to withhold, delay, or suppress software or technical knowledge that would otherwise qualify for public release.
+
+Section 9. Artificial Intelligence Models and Training Data
+ (a) Model Sunset AI models enter the Digital Commons upon forty (40) years, ten (10) years of abandonment, or steward dissolution.
+(b) Disclosure Architecture, methodologies, and non-sensitive weights shall be disclosed; raw data may remain private subject to transparency of sources and bias.
+(c) Convergence After convergence, interoperability and cross-model research may not be obstructed.
+
+Section 10. Education and Technological Literacy
+ The Republic shall ensure citizens can understand technology, recognize manipulation, and participate meaningfully in digital society.
+
+Section 11. Enforcement and High Crimes
+ (a) Grave Offenses Weaponization of technology against the People, mass digital manipulation, and suppression of essential knowledge may constitute grave or third-tier crimes.
+(b) Proof Standards Civil remedies require clear and convincing evidence; criminal liability requires proof beyond a reasonable doubt, consistent with Article VII.
+
+Section 12. Search, Indexing, and Information Neutrality Search and recommendation systems shall not manipulate visibility for ideological or political advantage and must disclose ranking principles.
+
+Section 13. Artificial Intelligence Oversight in Government No person may be governed by opaque systems. Oversight shall be independent and subject to judicial review.
+
+Section 14. Prohibition on Digital Destabilization The Republic shall not employ algorithmic manipulation or AI-driven conditioning to coerce domestic or foreign populations.
+
+Section 15. Biological Knowledge and Genetic Stewardship Life-critical medicines, seeds, and genetic knowledge shall enter the Commons after defined sunsets. Monopoly over life is prohibited.
+
+Section 16. Prohibition on Knowledge Suppression Lawfully commons-held knowledge shall not be concealed or algorithmically buried. Control of visibility is control of thought.
+
+Section 17. Search and Epistemic Integrity Discovery systems are cognitive infrastructure and shall remain neutral and auditable.
+
+Section 18. Harmonization and Anti-Fragmentation This Article shall be read in harmony with Articles VII, IX, XVII, and XIX. Courts shall evaluate substance over form.
+
+Section 19. Prohibition on Social Credit and Ideological Scoring No system may condition access to rights, services, or markets on ideological, political, or behavioral scoring, including ESG-style frameworks. Neutral compliance with safety, environmental, or labor law is permitted.
+
+Section 20. Interpretation This Article shall be interpreted to ensure that technology remains subordinate to human dignity, democratic self-rule, and truth. Where ambiguity exists, interpretation shall favor liberty over control, transparency over secrecy, accountability over convenience, and the People over systems.
+For knowledge is light, and light must never be hidden.
+
+
+Section 21. Open Technical Education and Workforce Access
+
+(a) Knowledge Without Gatekeepers
+No person shall be denied access to learning, practicing, or contributing to software, artificial intelligence, digital systems, or technical fields on the basis of proprietary tools, closed platforms, corporate credentialing, or platform-controlled ecosystems.
+
+The Digital Commons shall serve as a universal technical learning environment.
+
+(b) Commons-Based Education
+
+Congress shall ensure that the Digital Commons includes:
+	•	full repositories of open software, source code, tools, and build systems;
+	•	public documentation, manuals, and engineering references;
+	•	historical systems and modern platforms for study, emulation, and training;
+	•	open development environments accessible without proprietary licenses.
+
+No corporation, platform, or vendor may monopolize the pathways by which engineers, developers, or technologists are trained.
+
+(c) Open Credentialing
+
+The Republic shall recognize Commons-Based Credentials, including:
+
+• publicly verifiable code contributions;
+• peer-reviewed open-source work;
+• technical challenges and audits;
+• and demonstrated system mastery.
+
+No employer, government agency, or licensing body may require exclusive reliance on corporate, proprietary, or platform-issued certifications where equivalent Commons credentials exist.
+
+(d) Right to Practice and Publish
+
+Every person has the right to:
+
+• write, run, test, and distribute lawful software;
+• contribute to open projects;
+• operate servers, platforms, and services;
+• publish tools, models, and code;
+• and participate in the Digital Commons
+
+without platform discrimination, app-store gatekeeping, or vendor lock-in.
+
+(e) Anti-Platform Gatekeeping
+
+No operating system, device, cloud provider, marketplace, or platform may:
+
+• restrict access to development tools;
+• require proprietary SDKs or approval to write or deploy software;
+• impose fees, licenses, or identity controls to participate in programming;
+• or block lawful educational or development use.
+
+(f) Workforce Mobility and Non-Extortion
+
+No firm may require:
+
+• proprietary toolchains;
+• closed certifications;
+• non-compete clauses;
+• code ownership over personal or Commons-based work;
+• or platform dependency
+
+as a condition of employment, contracting, or professional participation.
+
+Knowledge belongs to the People, not the employer.
+
+(g) Apprenticeship and Commons Service
+
+Congress shall establish:
+
+• open apprenticeships;
+• Commons-based technical service;
+• and public digital infrastructure projects
+
+as recognized civic and professional pathways under Article III and Article XX.
+
+Service to the Digital Commons shall qualify as civic contribution.
+
+(h) Enforcement
+
+Violations of this Section constitute technological capture and are enforceable by:
+
+• the Digital Commons Enforcement Authority;
+• juries of the People;
+• inspectors general;
+• and any affected citizen.
+
+Remedies include nullification of abusive contracts, restitution, platform access orders, and disqualification of gatekeeping firms from public contracts.
+
+

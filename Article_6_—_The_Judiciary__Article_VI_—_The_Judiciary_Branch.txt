@@ -1,0 +1,141 @@
+Article VI — The Judiciary Branch
+
+⸻
+
+Charge:
+
+The Judiciary exists to interpret and apply this Constitution and the laws enacted pursuant to it, to resolve cases and controversies according to law, and to safeguard the liberties, structure, and supremacy of the Constitution against all encroachment.
+
+The Judiciary is an independent branch bound by this Constitution and by the duty to decide cases impartially and according to law.
+⸻
+
+Section 1. Vesting of Judicial Power
+
+The judicial power of the Republic is vested in:
+	1.	one Supreme Court;
+	2.	such inferior courts as are established by this Constitution; and
+	3.	such lower courts as may be established by law consistent with this Constitution.
+
+Judicial power extends only to actual cases and controversies arising under this Constitution and the laws of the Republic.
+⸻
+Section 1A. Judicial Expansion and Geographic Reach
+
+The Circuit Courts shall initially consist of nine (9) circuits.
+
+Additional circuits may be established by law without fixed numerical cap, provided that any such expansion satisfies all of the following constitutional conditions:
+	1.	Neutral Justification
+Expansion shall be justified by objective criteria, including:
+a. sustained population growth;
+b. persistent and excessive caseload burdens;
+c. permanent extraterritorial jurisdictions or overseas territories;
+d. geographic scale such that reasonable access to appellate review would otherwise be impaired.
+	2.	Prospective Application Only
+No circuit may be created, altered, divided, or realigned:
+a. to affect the outcome of any pending case;
+b. to target identifiable litigants, issues, or jurisdictions;
+c. to advantage or disadvantage any political party, faction, or branch.
+	3.	Uniformity and Structural Integrity
+Circuit boundaries shall be drawn to preserve:
+a. geographic coherence;
+b. administrative efficiency;
+c. doctrinal consistency across circuits.
+Congress shall not create circuits designed to isolate, evade, or entrench divergent legal doctrines.
+	4.	Anti-Fragmentation Safeguards
+Any expansion beyond nine (9) circuits shall include statutory mechanisms to:
+a. promote harmonization of appellate doctrine;
+b. reduce intercircuit conflict;
+c. prevent de facto regional lawmaking.
+	5.	Constitutional Review
+Any law establishing or restructuring circuits shall be subject to mandatory review by the Constitutional Review Court for compliance with this Section.
+
+Any circuit established in violation of this Section is void.
+
+⸻
+
+Section 2. Supremacy of the Constitution
+
+This Constitution is the supreme law of the Republic.
+
+All judicial officers are bound to uphold it, and any law, act, or governmental action repugnant to it is void.
+
+Claims arising under Article XXVIII-A shall be justiciable as of right and shall not be dismissed as political questions, discretionary enforcement matters, or non-justiciable controversies.
+
+⸻
+
+Section 3. Independence and Separation
+
+The Judiciary shall remain independent of the Legislative and Executive branches.
+
+No court shall exercise legislative or executive authority, and no other branch shall direct judicial decision-making except as permitted by this Constitution.
+
+⸻
+
+Section 4. Limits on Judicial Authority
+
+The Judiciary shall:
+	1.	decide cases, not make law;
+	2.	issue remedies tailored to the parties before it;
+	3.	refrain from advisory opinions except where expressly authorized;
+	4.	exercise restraint consistent with constitutional duty.
+
+⸻
+
+Section 5. Sources of Law
+
+In interpreting this Constitution and the laws of the Republic, courts shall not treat foreign law, foreign judicial decisions, international tribunals, or transnational norms as binding authority.
+
+Judicial interpretation shall give controlling weight to the text, structure, and original public meaning of this Constitution.
+
+⸻
+
+Section 6. Severability
+
+If any provision of this Constitution or of any law is held invalid, the remaining provisions shall remain in force unless the invalid portion is inseparable from the remainder.
+
+⸻
+Section 7. Enforcement, Standing, and Civic Remedies
+
+(a) Where this Constitution establishes a right, duty, prohibition, or limitation, standing to enforce such provision shall be construed broadly.
+
+(b) Any person adversely affected by a constitutional violation shall have standing to seek declaratory relief, injunctive relief, damages, or other appropriate remedy, without the necessity of demonstrating special injury beyond the violation itself.
+
+(c) Failure by public authorities to enforce constitutional duties constitutes a breach of public trust and shall be subject to judicial remedy.
+
+(d) No constitutional provision shall be rendered unenforceable through denial of standing, remedies, or jurisdiction unless this Constitution expressly so provides.
+
+(e) Questions of enforcement shall be presumed justiciable unless explicitly declared political and non-justiciable by this Constitution.
+
+(f) Courts shall resolve challenges to State nullification on an expedited basis. Pending adjudication, the nullified federal action shall remain unenforceable within the State.
+⸻
+Section 8. Subarticles
+
+The structure, operation, and limits of the Judiciary are further governed by the following Subarticles, which are integral parts of this Article:
+
+Article VI-A — Courts, Jurisdiction, and Remedies
+Article VI-B — Constitutional Review Court
+Article VI-C — Appointment, Qualifications, and Independence
+Article VI-D — Ethics, Discipline, and Removal
+Article VI-E — Transparency, Standing, and Records
+Article VI-F — Artificial Intelligence in the Judiciary
+Article VI-G — Jury Doctrine
+Article VI-H — Constitutional Deadlock and Popular Referendum
+Article VI-I — Judicial Continuity and Emergency Function
+
+⸻
+
+Section 9. Emergency Hierarchy
+
+Nothing in this Article shall be construed to authorize emergency judicial powers inconsistent with Article XV.
+
+Judicial continuity provisions shall operate subject to Article XV, Article XXXVI, and Article XXXVIII, according to their respective constitutional hierarchy.
+
+⸻
+
+Section 10. Interpretation
+
+This Article shall be interpreted to preserve judicial independence, protect constitutional liberties, prevent consolidation of power, and ensure that justice is administered openly, lawfully, and without fear or favor.
+
+The Constitutional Review Court adjudicates law and structure. The Constitutional Judicial Commission protects institutional integrity and anti-capture. The two shall never substitute for one another.
+
+⸻
+

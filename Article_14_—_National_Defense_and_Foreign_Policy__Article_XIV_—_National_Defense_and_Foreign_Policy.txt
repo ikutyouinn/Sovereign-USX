@@ -1,0 +1,200 @@
+Article XIV — National Defense and Foreign Policy
+ 
+Charge
+
+This Article establishes constitutional rules governing national defense, the use of armed force, and the conduct of foreign relations by the Republic. All military and foreign policy powers shall be exercised solely pursuant to constitutional authorization, civilian control, and democratic accountability, and shall be construed narrowly to prevent unauthorized, indefinite, or unaccountable use of force. Nothing in this Article shall be interpreted to permit war, military action, or foreign entanglement except as expressly authorized by law and consistent with constitutional limits.
+
+Legal Text
+ 
+Section 1. Purpose of National Defense
+ 
+The armed forces exist solely to:
+ 
+a. defend the Republic against external armed aggression;
+b. protect the constitutional order from armed overthrow;
+c. secure the territory, airspace, and lawful maritime interests of the Republic;
+d. deter threats through credible defense, not provocation, domination, or conquest.
+ 
+Military force shall not be employed for ideological export, regime change absent direct threat, or indefinite occupation.
+
+Section 2. Civilian Control of the Armed Forces
+ 
+All military forces are subordinate to civilian authority under this Constitution.
+ 
+No member of the armed forces shall exercise independent political authority or act outside lawful orders issued pursuant to constitutional process.
+ 
+The oath of service binds all personnel to the Constitution, not to any individual, officeholder, party, alliance, or transient policy.
+
+Section 2A. Authority and Obligation to Maintain Service Capacity
+ 
+The Executive Branch, subject to law and legislative oversight, shall have authority to organize, equip, and maintain military forces, including the creation, reorganization, or dissolution of units, divisions, commands, and service branches as necessary for national defense.
+ 
+The Republic shall maintain sufficient lawful service capacity to ensure that citizens eligible for civic service are not unreasonably denied the opportunity to fulfill service requirements established under Article III (Citizenship and Civic Duty).
+ 
+Military force structure shall not be intentionally reduced, obstructed, bottlenecked, or outsourced in a manner that frustrates civic duty, concentrates access to citizenship, substitutes private entities for public service, or abdicates the Republic’s defensive obligations.
+ 
+Nothing in this Section authorizes conscription, emergency expansion absent legislative approval, or the circumvention of constitutional limits on the use of force.
+
+Section 3. Declaration of War, Authorization, and Use of Force
+ 
+No war shall be declared, nor hostilities initiated or sustained, except by:
+ 
+a. a formal declaration of war approved by a two-thirds (⅔) vote of both legislative houses; or
+b. an immediate defensive response to an armed attack, limited strictly in scope and duration.
+ 
+Any action initiated under subsection (b) shall:
+	1.	be reported to the Legislature within seventy-two (72) hours;
+	2.	expire automatically after sixty (60) days unless authorized by recorded legislative vote;
+	3.	allow an additional thirty (30) days solely for safe and orderly withdrawal if authorization is denied.
+
+Section 3A. Prohibition on Open-Ended Authorizations (AUMF Restrictions)
+ 
+No Authorization for Use of Military Force, joint resolution, or statutory authorization shall be:
+ 
+a. open-ended in time, geography, enemy designation, or mission scope;
+b. interpreted to permit perpetual, rolling, or successor hostilities;
+c. extended to new theaters, actors, or conflicts absent explicit reauthorization.
+ 
+All authorizations shall specify:
+	1.	defined objectives;
+	2.	geographic scope;
+	3.	named adversaries or targets;
+	4.	legal basis;
+	5.	maximum initial duration not exceeding one (1) year.
+ 
+Reauthorization shall be required for continuation.
+
+For purposes of this Article, an armed attack shall mean a kinetic or cyber action causing actual or imminent loss of life, territorial violation, or destruction of critical civilian or military infrastructure. Intelligence assessments, proxy actions, or speculative threats alone shall not suffice.
+
+Section 4. Definition of War and Hostilities
+ 
+For purposes of this Constitution, “war” and “hostilities” include, but are not limited to:
+ 
+a. sustained or repeated airstrikes, drone strikes, missile strikes, naval actions, or cyber operations causing physical destruction or loss of life;
+b. cumulative military actions that, taken together, constitute ongoing armed engagement;
+c. blockades, kinetic interdictions, or coercive military actions framed as non-war measures.
+ 
+No executive characterization shall exempt such actions from constitutional requirements.
+ 
+Ambiguities shall be resolved against unilateral executive authority and in favor of legislative deliberation.
+
+Section 5. Duration, Sunset, and Review of Armed Engagements
+ 
+All authorized uses of military force shall include:
+ 
+a. defined objectives;
+b. geographic scope;
+c. legal authority;
+d. anticipated duration;
+e. clear conditions for termination.
+ 
+No authorization may exceed one (1) year without reauthorization.
+ 
+Cumulative or recurring military actions related to the same conflict or adversary shall be treated as a single engagement for purposes of duration limits.
+ 
+Failure to reauthorize shall mandate withdrawal, except where withdrawal would imminently endanger forces in the field.
+
+Section 6. Limits on Emergency Military Authority
+ 
+No declaration of emergency, national security threat, or foreign crisis shall:
+ 
+a. suspend constitutional rights;
+b. alter amendment procedures;
+c. permit indefinite military engagement without legislative authorization;
+d. justify secrecy beyond strict operational necessity.
+ 
+All emergency military authority is subject to Article XV and judicial review without deference.
+Nothing in this Article shall be construed to authorize economic warfare, monetary coercion, or financial sabotage except as expressly permitted and constrained under Article XIII-B.
+
+Section 7. Foreign Treaties, Alliances, and International Obligations
+ 
+Treaties and international agreements shall require:
+ 
+a. disclosure of all material obligations;
+b. approval by two-thirds (⅔) of the Legislature;
+c. consistency with this Constitution.
+ 
+No treaty, alliance, security pact, or international commitment may:
+ 
+a. supersede constitutional rights;
+b. compel domestic lawmaking absent legislative approval;
+c. create binding military obligations without legislative authorization for each use;
+d. impose perpetual or indefinite defense commitments;
+e. override state sovereignty in violation of Article XXVIII.
+ 
+No entangling alliance shall bind the Republic to automatic war.
+
+Section 8. Military Transparency and Accountability
+ 
+The Legislature shall maintain continuous oversight of defense expenditures, operations, intelligence activity, and procurement.
+ 
+Secret law, undisclosed military commitments, and unaccountable intelligence operations are prohibited.
+ 
+Classification shall be limited to operational necessity and subject to periodic review, sunset, and declassification.
+ 
+Grave violations shall be subject to penalties under Article VII.
+
+Section 9. Prohibition of Mercenary and Proxy Forces
+ 
+The Republic shall not outsource the use of force to mercenary entities, private armies, or unaccountable proxies.
+ 
+Any private contractor performing security or military-adjacent functions in contingency operations shall:
+ 
+a. be subject to United States jurisdiction, including UCMJ and MEJA where applicable;
+b. operate under full transparency and civilian oversight;
+c. be prohibited from offensive combat absent explicit legislative authorization;
+d. be individually accountable for unlawful acts.
+ 
+No private force shall be used to evade constitutional war powers.
+
+Section 10. Treatment of Service Members
+ 
+Service members are citizens in uniform, not instruments.
+ 
+They retain constitutional protections except where narrowly limited by necessity of service and due process.
+ 
+No service member shall be compelled to obey unlawful orders. Obedience to unlawful orders shall not be a defense.
+
+Section 11. Foreign Policy Restraint and Diplomacy
+ 
+Foreign policy shall favor diplomacy, lawful trade, cultural exchange, and peaceful cooperation over coercion and force.
+ 
+The Republic shall pursue a predisposition toward restraint and non-intervention, intervening only where constitutionally authorized and demonstrably necessary for defense.
+ 
+Selective or undeclared interventions are prohibited.
+
+Section 12. Judicial Review, Standing, and Remedies
+ 
+Any Civic Citizen, service member, or state with standing may challenge violations of this Article, including ongoing unauthorized operations.
+ 
+Courts may issue injunctive relief, withdrawal orders, and other remedies necessary to enforce constitutional limits.
+ 
+Claims of military necessity or national security shall receive no deference where constitutional structure or rights are implicated.
+
+Section 13. Prohibition on Perpetual Military Commitments
+ 
+No military basing agreement, security pact, or foreign deployment arrangement shall create indefinite obligations.
+ 
+All such commitments require periodic legislative reauthorization and are subject to sunset.
+
+Section 14. Enforcement and Penalties
+ 
+Officials who knowingly authorize, conceal, or sustain unconstitutional military action, unlawful secrecy, or evasion of legislative authority shall be subject to penalties under Article VII, including mandatory Tier Three liability where grave harm results.
+ 
+No immunity shall attach to constitutional violation.
+
+Section 15. Interpretation
+ 
+This Article shall be interpreted to:
+ 
+a. favor defense over domination;
+b. favor restraint over intervention;
+c. resolve ambiguity against unilateral executive action;
+d. preserve civilian supremacy;
+e. protect those who serve;
+f. prevent normalization of perpetual war.
+ 
+The sword shall defend the Republic—
+never rule it.
+
+ 

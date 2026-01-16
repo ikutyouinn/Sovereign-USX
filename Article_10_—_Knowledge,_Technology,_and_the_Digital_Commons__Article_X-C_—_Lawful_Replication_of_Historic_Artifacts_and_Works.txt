@@ -1,0 +1,129 @@
+Article X-C — Lawful Replication of Historic Artifacts and Works
+
+Section 0. Charge and Intent
+
+This Article enshrines the right of the People to reproduce, revive, and continue the use of historic artifacts and works for which lawful exclusivity has expired and for which original manufacturers or rights holders no longer provide meaningful access.
+
+Its intent is to:
+	1.	preserve material culture, technical capability, and craftsmanship;
+	2.	prevent artificial scarcity created through abandonment or neglect;
+	3.	enable lawful replication of goods for which public demand exists but original supply does not;
+	4.	protect honest makers and consumers from coercive or bad-faith intellectual property enforcement;
+	5.	counteract “vaulting,” suppression, or deliberate non-distribution of expired works through destruction, refusal to supply, or intimidation, ensuring that expiration restores actual use rather than a de facto perpetual monopoly.
+
+This Article shall be construed liberally in favor of continuity, revival, and honest reuse, and narrowly against monopoly by neglect.
+
+⸻
+
+Section 1. Entry into the Functional Commons
+
+Upon expiration of lawful design, patent, copyright, recipe, or equivalent exclusivity, historic artifacts and works enter the functional commons.
+
+Any person or entity may manufacture, prepare, or produce faithful reproductions of such works, including but not limited to:
+	•	vehicles and machines;
+	•	computers, electronics, and embedded systems;
+	•	software, video games, and digital media;
+	•	tools, household goods, footwear, and apparel;
+	•	food items, recipes, and preparation methods.
+
+Reproductions may include adaptations strictly necessary for compatibility with contemporary technology, such as software porting or component substitution, provided the core form, function, and behavior remain faithful.
+
+⸻
+
+Section 2. Scope of Faithful Reproduction
+
+Lawful reproductions may replicate form, function, materials, dimensions, composition, operation, taste, and preparation, without alteration, where fidelity is the objective.
+
+Mere copies, scans, photographs, recordings, format shifts, or minor modifications of works in the functional commons shall not qualify as original creations eligible for new exclusivity protections absent substantial, original transformation.
+
+⸻
+
+Section 3. Prohibited Representations
+
+Reproductions shall not:
+	•	use protected trademarks, logos, or trade names as branding;
+	•	falsely claim to be original manufacture;
+	•	misrepresent endorsement, affiliation, or authorization.
+
+Nothing in this Article permits consumer deception.
+
+⸻
+
+Section 4. Required Disclosures
+
+Reproductions must clearly disclose:
+	•	that they are reproductions, revivals, or faithful replicas;
+	•	the original creator, brand, or manufacturer that inspired the work;
+	•	the historical period, year, or model referenced.
+
+Truthful statements of inspiration, lineage, or historical origin shall not be deemed infringement.
+
+⸻
+
+Section 5. Trademark and Trade Dress Limits
+
+Trademark law governs identity and branding, not use or replication.
+
+Accordingly:
+	1.	active trademarks remain protected against consumer confusion;
+	2.	trade dress protection shall not prohibit faithful replication of functional form, geometry, materials, recipes, or operation where no deception is intended;
+	3.	expired or abandoned trademarks may not be revived solely to suppress lawful replication;
+	4.	intimidation, litigation, or contractual coercion intended to block lawful replication absent deception is prohibited.
+
+⸻
+
+Section 6. Regulatory Parity
+
+Safety, health, environmental, and operational regulations apply equally to original works and lawful reproductions.
+
+No heightened burden may be imposed solely because a work is a replica.
+
+⸻
+
+Section 7. Anti-Extinction and Anti-Suppression Rule
+
+No entity may prohibit or suppress lawful replication solely by:
+	•	discontinuing production;
+	•	withholding tooling, formulas, code, or documentation no longer under protection;
+	•	refusing to license expired rights;
+	•	asserting new exclusivity through trivial derivatives or re-registrations.
+
+Upon verifiable abandonment—defined as non-supply for five (5) years without reasonable justification—entities shall make available, upon request and at reasonable cost, any non-proprietary know-how necessary for faithful replication.
+
+Abandonment shall not function as perpetual control.
+
+⸻
+
+Section 8. Irrevocability of Commons Entry
+
+Entry into the functional commons is permanent and irrevocable.
+No retroactive claim, penalty, or reclassification shall attach to prior or ongoing lawful use.
+
+⸻
+
+Section 9. Construction
+
+This Article shall be construed:
+	•	in favor of honest revival and public access;
+	•	against monopoly by neglect, intimidation, or vaulting;
+	•	in harmony with the continuity and commons doctrines of Article X.
+
+Where doubt exists, interpretation shall resolve for use, not erasure.
+
+⸻
+
+Section 10. Lock Scope
+
+The principles of:
+	•	functional commons entry,
+	•	lawful replication,
+	•	anti-extinction,
+	•	anti-vaulting,
+	•	truthful attribution, and
+	•	irrevocability of public-domain restoration
+
+are structural and non-derogable.
+
+Implementation mechanisms remain subject to law consistent with this Constitution.
+
+⸻

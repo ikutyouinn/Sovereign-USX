@@ -1,0 +1,192 @@
+Article XXIX — Infrastructure, Mobility, and the Right to Travel
+
+Charge
+
+A free people must be able to move, build, repair, explore, and depart without asking permission of bureaucracy or surrendering dignity to control systems.
+
+When movement is restricted through cost, complexity, surveillance, artificial scarcity, or revenue-driven enforcement, liberty becomes theoretical rather than lived. Efficient cities and shared infrastructure are compatible with freedom; coerced immobility and administrative enclosure are not.
+
+This Article affirms mobility as a civil liberty, not a managed privilege, and binds transportation and infrastructure policy to liberty, safety, competence, and accountability.
+
+Section 1. Right to Travel and Freedom of Movement
+
+a. Free Internal Movement
+Every citizen and every person lawfully within the Republic possesses the right to travel freely within its territory without internal passports, routine checkpoints, or compulsory identification absent reasonable, articulable suspicion of specific unlawful conduct, supported by objective facts and subject to immediate judicial review upon challenge.
+
+b. No Enclosure by Design
+No system of urban design, zoning, transportation planning, or infrastructure policy shall operate as a de facto enclosure, confinement, or mobility rationing regime.
+
+c. Prohibition of Movement Conditioning
+The exercise of the right to travel shall not be conditioned upon social behavior, economic status, health compliance, energy quotas, congestion pricing schemes, or algorithmic scoring.
+
+Section 2. Right to Own, Operate, and Repair Personal Conveyances
+
+a. Core Mobility Rights
+The right to travel includes the right to own, operate, modify, maintain, and repair personal vehicles and conveyances.
+
+b. Mechanical Simplicity and Durability
+The Republic shall not prohibit or disfavor mechanically simple, durable, repairable, or long-lived vehicle designs absent a compelling and demonstrable safety necessity.
+
+c. Right to Repair (Affirmative Duty)
+Manufacturers and distributors shall provide parts, tools, diagnostics, firmware access where applicable, and repair documentation at reasonable cost, without proprietary, contractual, or technological restrictions designed to prevent independent repair.
+
+d. Warranty Fairness Rule
+Manufacturers are not required to warrant damage or failure caused by modifications that exceed design limits or materially degrade safety, reliability, or drivetrain integrity.
+Manufacturers may not void or deny warranty coverage solely because a vehicle was repaired, maintained, or serviced by an independent party or by the owner using reasonable methods.
+
+e. Comparative Access Standard
+Citizens shall retain access to affordable, reliable, and mechanically intelligible vehicles comparable to those lawfully available to ordinary persons in other advanced nations.
+
+Section 3. Prohibition of Artificial Cost Inflation and Regulatory Capture
+
+a. No Price Engineering by Regulation
+No government entity may use safety, environmental, efficiency, or administrative authority as a pretext to:
+	•	artificially inflate vehicle or conveyance cost;
+	•	mandate luxury, proprietary, or surveillance-dependent technologies where simpler alternatives suffice;
+	•	force premature obsolescence; or
+	•	concentrate mobility access among elites, corporations, or favored partners.
+
+b. Burden of Justification
+All mobility-related regulation must satisfy necessity, proportionality, and a demonstrable public safety benefit supported by evidence.
+
+c. Anti-Capture Safeguard
+Regulations that substantially increase cost or complexity shall be subject to periodic review for regulatory capture and shall sunset automatically absent affirmative renewal.
+
+Section 4. Personal Flight and Advanced Conveyance
+
+a. Right to Personal Flight
+The right to travel includes the right to develop, own, and operate personal aircraft, aerial vehicles, and emergent conveyances not yet fully contemplated.
+
+b. Safety-Based Limitations Only
+Limitations on personal flight or advanced conveyance shall be performance-based and risk-proportionate. Safety standards shall not be used to prohibit entire classes of conveyance or innovation absent a clear showing of unavoidable and substantial danger.
+
+c. No Protection of Legacy Systems
+The Republic shall not prohibit personal flight or advanced conveyance to preserve legacy infrastructure, incumbent industries, or bureaucratic convenience.
+d. Administrative Burden Clause
+No licensing, certification, insurance, or safety requirement shall be imposed under this Section where the cumulative administrative burden, cost, delay, or procedural complexity has the effect of prohibiting lawful use by an ordinarily competent individual.
+
+In assessing proportionality, courts shall compare such requirements to those imposed on functionally analogous activities already permitted within the Republic.
+
+Section 5. Infrastructure, Access, and Competence
+
+a. Essential Mobility Infrastructure
+Essential mobility infrastructure includes roads, bridges, rail corridors, ports, airspace coordination systems, and facilities necessary to ensure safe, nondiscriminatory travel throughout the Republic, including rural and non-metropolitan regions.
+
+b. Public or Delegated Operation
+Infrastructure may be publicly operated or lawfully delegated to private entities, provided that access remains nondiscriminatory, fees are transparent and proportionate, monopolies are time-limited, and long-term capture is prohibited.
+
+c. Competence and Value Requirement
+Transportation and infrastructure systems shall not function as de facto employment or patronage programs. Compensation, staffing, and contracting shall reflect market value, demonstrated competence, and performance.
+
+d. Automation and Innovation Permitted
+Automation, robotics, and advanced systems may be employed to improve safety, efficiency, and maintenance quality and shall not be prohibited to preserve inefficient labor structures.
+
+e. Duty of Maintenance
+Persistent neglect of essential mobility infrastructure constitutes a justiciable violation of this Article.
+f. Failure Metrics Clause
+Persistent neglect shall be evidenced by measurable service degradation, safety failures, maintenance backlogs, or repeated noncompliance with published performance standards over a sustained period.
+
+Demonstrated chronic failure shall constitute standing for judicial intervention regardless of whether catastrophic harm has yet occurred.
+g. Foreign Ownership Prohibition
+Critical mobility infrastructure shall not be owned or controlled by foreign governments, entities, or nationals absent an explicit national security waiver enacted by the legislature.
+
+Section 6. Prohibition of Confinement Schemes
+
+a. No De Facto Mobility Rationing
+The Republic shall not implement policies whose practical effect is to confine citizens to prescribed geographic zones or penalize travel beyond arbitrary boundaries.
+
+b. Voluntary Density Only
+Urban density and walkability may be encouraged but shall remain voluntary and shall not operate through coercion, penalties, or withdrawal of services.
+
+Section 7. No Surveillance-by-Mobility
+
+a. Mobility Is Not a Control Channel
+Transportation systems shall not be used as instruments of mass surveillance, behavioral control, or social scoring.
+
+b. Strict Data Limits
+Any mobility-related data collection must be minimal, purpose-limited, non-retentive, and subject to judicial oversight.
+
+c. Void Illicit Data Use (Tier 3 Exception)
+Except in cases involving Tier 3 heinous crimes as defined by this Constitution, data obtained in violation of this Section is inadmissible and without legal effect.
+In Tier 3 cases, all truthful, probative information may be considered, provided that unlawful conduct by government actors remains subject to civil and criminal liability.
+
+d. Tier 3 Vehicle Enforcement Authority
+Upon issuance of a judicial warrant supported by reasonable, articulable suspicion that a specific vehicle has been used, is being used, or is imminently intended to be used in the commission of a Tier 3 crime, including:
+	•	heinous crimes, including murder, rape, child sexual exploitation, trafficking, or acts of extreme violence;
+	•	repeat violent offenders demonstrating incorrigibility or a pattern of predatory conduct; or
+	•	demonstrably unrepentant, predatory, or irreversibly dangerous individuals, including those reasonably identified as engaged in ongoing human trafficking, child exploitation networks, or professional people-smuggling operations;
+
+law enforcement may temporarily designate such vehicle as an instrument of enforcement for the limited purpose of apprehension, interdiction, or prevention of harm.
+
+Such authority shall be narrowly tailored to the identified vehicle, individual, and offense, and may include disabling, tracking, remote intervention, or seizure where necessary to protect life, prevent escape, or disrupt ongoing exploitation of vulnerable persons.
+
+Execution shall be decisive and proportionate, provided that:
+
+(a) the warrant specifies the vehicle, scope, and duration;
+(b) authority expires immediately upon resolution or apprehension;
+(c) collateral use against uninvolved persons or vehicles is prohibited; and
+(d) post-action judicial review is mandatory within forty-eight (48) hours.
+
+Nothing in this Section authorizes generalized vehicle surveillance, standing vehicle control powers, or routine enforcement use.
+e. Data Retention and Secondary Use Ban
+Any mobility-related data collected under a lawful authorization shall be automatically deleted upon fulfillment of the specific, articulated purpose for which it was obtained, absent renewed judicial authorization.
+
+Such data shall not be repurposed, aggregated, sold, transferred, or combined with other datasets for secondary analysis, profiling, or intelligence use.
+
+
+Section 8. Remedies and Enforcement
+
+a. Standing
+Any person denied mobility rights, subjected to unlawful restriction, excessive citation, surveillance-by-mobility, or artificial cost inflation has standing.
+
+b. Remedies
+Remedies include injunctive relief, declaratory judgment, damages (including punitive damages where malice is shown), and reasonable attorney fees.
+
+c. No Immunity
+No sovereign, qualified, or administrative immunity shall shield violations of this Article.
+
+Section 9. Prohibition of Revenue-Driven Mobility Enforcement
+
+a. No Ticket Traps
+Traffic controls and signage shall be reasonably visible, consistently applied, and designed to promote safety rather than revenue. Concealed or manipulative enforcement schemes are prohibited.
+
+b. No Quotas or Revenue Targets
+No jurisdiction may impose citation quotas, revenue targets, or budgetary dependence on mobility-related fines or fees.
+c. Indirect Incentive Prohibition
+No agency, officer, contractor, or jurisdiction shall receive funding, bonuses, budget increases, or performance evaluations tied directly or indirectly to citation volume, fee generation, asset forfeiture, or enforcement yield.
+
+d. Due Process and Contestability
+All citations shall include a clear mechanism for contest. Persons residing outside the issuing jurisdiction shall be permitted remote appearance using secure technology.
+
+e. Purpose Limitation
+Mobility enforcement shall exist solely to improve safety and encourage responsible operation.
+
+Section 10. Transition and Regulatory Sunset
+
+All regulations, licensing regimes, and administrative practices inconsistent with this Article shall sunset within five (5) years of ratification unless reenacted by legislative supermajority with written justification demonstrating necessity and proportionality.
+Immediate Conflict Rule
+Any newly enacted regulation, policy, or administrative action that conflicts with this Article shall be void ab initio and may not rely on the transition period for validity.
+
+Section 11. Right to Non-Motorized and Low-Regulation Mobility
+
+The right to travel includes the right to move by foot, bicycle, animal, human-powered craft, or minimally complex conveyance without unnecessary licensing, tracking, or regulatory burden. Public space shall not be designed or regulated to exclude or penalize non-motorized travel.
+
+Section 12. Protection Against Energy or Fuel Rationing
+
+No law, regulation, or fee structure shall ration, quota, or discriminatorily price fuel, energy, or propulsion for personal mobility absent a declared emergency certified by the Constitutional Review Court and limited to the duration of the emergency.
+
+Section 13. Private Infrastructure and Public Access
+
+Private ownership or operation of essential mobility corridors (highways, ports, airports, rail) shall not create de facto enclosure or discriminatory access. Reasonable public easement or access rights may be required, with just compensation.
+
+Section 14. Right to Depart the Republic
+
+The right to travel includes the right to depart the Republic absent conviction for a grave offense or active judicial process. No exit controls, exit taxes, or capital controls shall be imposed except as necessary to prevent flight from lawful criminal prosecution.
+
+Section 15. Construction
+
+This Article shall be construed to favor freedom over convenience, access over control, competence over patronage, innovation over stagnation, and liberty over administrative tidiness.
+Anti-Fragmentation Rule
+No jurisdiction within the Republic may impose mobility, licensing, or access requirements that functionally reintroduce internal borders, checkpoints, or movement barriers under another name.
+Where doubt exists as to whether a regulation burdens the right to travel or lawful mobility, such doubt shall be resolved in favor of the individual and against the enforcing authority.
+

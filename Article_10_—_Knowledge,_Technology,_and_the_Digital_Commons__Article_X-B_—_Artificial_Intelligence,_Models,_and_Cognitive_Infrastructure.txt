@@ -1,0 +1,150 @@
+Article X-B — Artificial Intelligence, Models, and Cognitive Infrastructure
+
+Section 1. Non-Derogation and Scope
+
+This Article supplements Articles X and X-A.
+
+Nothing in this Article shall be construed to narrow, rebalance, or weaken any protection, prohibition, or safeguard established therein.
+
+Artificial intelligence systems are governed by this Article only to the extent they affect human cognition, agency, rights, or the digital commons.
+
+⸻
+
+Section 2. Cognitive Infrastructure Defined
+
+Cognitive infrastructure includes artificial intelligence models, training systems, datasets, architectures, interfaces, deployment pipelines, and decision-support systems that materially influence:
+	1.	human decision-making;
+	2.	access to information;
+	3.	economic opportunity;
+	4.	political participation;
+	5.	legal, medical, or educational outcomes.
+
+Cognitive infrastructure shall not be treated as mere commercial software.
+
+⸻
+
+Section 3. Human Supremacy and Non-Delegation
+
+No artificial intelligence system shall possess independent authority to:
+	1.	make binding decisions affecting rights, liberty, or legal status;
+	2.	determine eligibility for public or private services;
+	3.	compel behavior or restrict lawful activity.
+
+All such decisions shall remain attributable to identifiable human actors subject to accountability.
+
+Delegation of judgment is prohibited.
+
+⸻
+
+Section 4. Model Accountability and Traceability
+
+Artificial intelligence systems deployed at scale shall be traceable.
+
+At minimum, the following shall be documented and preserved:
+	1.	model purpose and functional scope;
+	2.	training methodology;
+	3.	categories of training data;
+	4.	known limitations and failure modes;
+	5.	mechanisms of update and modification.
+
+Opacity shall not shield systems that affect the public.
+
+⸻
+
+Section 5. Training Data and Provenance Disclosure
+
+Where artificial intelligence systems materially affect the public, the provenance of training data shall be disclosed in generalized form sufficient to permit:
+	1.	audit for bias or manipulation;
+	2.	verification of lawful acquisition;
+	3.	assessment of systemic risk.
+
+Claims of trade secrecy shall not defeat constitutional accountability.
+
+⸻
+
+Section 5-A — Software Lineage and Anti-Evasion
+The provenance, derivation, and dependency chains of significant software systems shall be traceable and auditable.
+Concealment, obfuscation, laundering, or falsification of lineage for the purpose of avoiding commons reversion, derivative equity, or sunset obligations is prohibited and constitutes institutional capture.
+
+
+⸻
+
+Section 6. Model Weights and Technical Access (Conditional)
+
+Where a model becomes foundational, dominant, or essential to civic, economic, or informational infrastructure, access to technical details—including model weights—may be required after extended maturity periods established by law.
+
+Such access shall be limited to preservation, audit, interoperability, and continuity purposes.
+
+Permanent enclosure of cognitive infrastructure is prohibited.
+
+⸻
+
+Section 7. Artificial Intelligence Sunset and Commons Reversion
+
+Artificial intelligence systems that are abandoned, unsupported, or withdrawn from service shall be subject to the abandonment and commons reversion doctrines established in Article X-A.
+
+No artificial system may be destroyed or rendered inaccessible for the purpose of preventing scrutiny, preservation, or reuse.
+
+⸻
+
+Section 8. Prohibition on Secret Cognitive Infrastructure
+
+No secret or undisclosed artificial intelligence system shall be used to:
+	1.	influence public discourse;
+	2.	shape political behavior;
+	3.	classify citizens or residents;
+	4.	manipulate markets or information environments.
+
+Hidden cognitive governance is prohibited.
+
+⸻
+
+Section 9. Interoperability and Anti-Lock-In
+
+Artificial intelligence systems that function as gateways to information, services, or opportunity shall not impose technical lock-in designed to entrench dependency.
+
+Interoperability and portability may be required to prevent systemic enclosure.
+
+⸻
+
+Section 10. Artificial Scarcity and Model Hoarding Prohibited
+
+Artificial scarcity imposed through withholding, fragmentation, or deliberate incompatibility of mature artificial intelligence systems is prohibited where it undermines:
+	1.	public safety;
+	2.	knowledge preservation;
+	3.	technological continuity;
+	4.	competitive fairness.
+
+Models shall not be hoarded to preserve dominance.
+
+⸻
+
+Section 11. Records, Audits, and Public Access
+
+Records relating to the development, deployment, modification, and sunset of significant artificial intelligence systems shall be preserved as public records.
+
+This Section operates in coordination with Article XXXIX.
+
+⸻
+
+Section 12. Enforcement and Remedies
+
+Violations of this Article may give rise to:
+	1.	injunctive relief;
+	2.	civil liability;
+	3.	structural remedies;
+	4.	criminal liability where intent or recklessness is established.
+
+No immunity shall attach to violations of cognitive sovereignty.
+The Constitutional Judicial Commission shall have standing to audit, investigate, and certify whether artificial intelligence systems or their stewards are engaged in concealment, cognitive manipulation, commons evasion, or unlawful enclosure, and may petition the Constitutional Review Court for injunctive, structural, or dissolution remedies.
+
+⸻
+
+Section 13. Interpretation
+
+This Article shall be interpreted to ensure that artificial intelligence remains subordinate to human judgment, transparent to the People, and incapable of becoming an unaccountable cognitive authority.
+
+Where doubt exists, the construction that preserves human agency and long-term civilizational continuity shall control.
+
+⸻
+

@@ -1,0 +1,133 @@
+Article XLII-A — Communications Infrastructure and Civic Network Neutrality
+
+Section 1. Purpose and Relationship to Article XLII
+
+This Article governs the infrastructure, transmission, and technical conveyance of communications.
+It exists to ensure that the freedom protected by Article XLII cannot be defeated through economic throttling, technical discrimination, or infrastructural capture.
+
+Where conflict is alleged, Article XLII shall control as to expressive rights, and this Article shall control as to transport, access, and neutrality.
+
+⸻
+
+Section 2. Civic Communications Infrastructure
+
+Communications infrastructure essential to civic participation—including wired, wireless, satellite, and successor technologies—shall be recognized as critical civic infrastructure, whether publicly or privately operated.
+
+Such infrastructure shall be operated in a manner consistent with:
+	1.	neutrality,
+	2.	nondiscrimination,
+	3.	transparency,
+	4.	resilience,
+	5.	universal access to the extent practicable.
+
+Ownership structure shall not exempt compliance.
+
+⸻
+
+Section 3. Network Neutrality
+
+No operator of communications infrastructure shall:
+	1.	block, throttle, degrade, or prioritize lawful data traffic based on:
+	•	content,
+	•	source,
+	•	destination,
+	•	viewpoint,
+	•	application type,
+	•	or affiliation;
+	2.	impose discriminatory pricing, latency, or access conditions that materially impair civic participation;
+	3.	condition service quality on political, ideological, or commercial alignment.
+
+Differential treatment is permitted only where:
+	•	strictly necessary for network integrity,
+	•	content-agnostic,
+	•	narrowly tailored,
+	•	and publicly disclosed.
+
+⸻
+
+Section 4. Measurement, Transparency, and Proof
+
+Operators shall maintain objective, verifiable performance metrics, including latency, throughput, packet loss, and availability.
+
+Where discrimination is alleged:
+	1.	statistical disparity and technical evidence shall suffice to shift the burden of proof;
+	2.	intent need not be shown where effect is substantial;
+	3.	failure to disclose metrics creates a rebuttable presumption of violation.
+
+⸻
+
+Section 5. Economic Neutrality and Anti-Capture
+
+No entity may:
+	1.	use market dominance to impose de facto censorship through access degradation;
+	2.	leverage infrastructure control to extract political, ideological, or behavioral concessions;
+	3.	collude with public or private actors to suppress lawful communication indirectly.
+
+Structural separation, common-carrier obligations, or access mandates may be imposed by law where necessary to prevent capture.
+
+⸻
+
+Section 6. Civic Access and Inclusion
+
+The State shall ensure that communications infrastructure policy:
+	1.	promotes universal civic access;
+	2.	avoids exclusion by cost, geography, or artificial scarcity;
+	3.	supports redundancy and decentralization;
+	4.	preserves interoperability and open standards.
+
+Nothing herein requires uniform pricing or forbids innovation, provided neutrality is preserved.
+
+⸻
+
+Section 7. Emergency and Security Exceptions
+
+Temporary deviations from neutrality are permitted only where:
+	1.	strictly necessary to preserve network integrity or public safety;
+	2.	limited in duration and scope;
+	3.	publicly documented;
+	4.	subject to post-event judicial review.
+
+Emergency powers shall not be used to suppress lawful expression or political communication.
+
+⸻
+
+Section 8. Enforcement and Remedies
+
+Violations of this Article shall constitute a grave civic offense.
+
+Remedies may include:
+	1.	injunctive relief;
+	2.	civil liability;
+	3.	structural remedies;
+	4.	loss of operating privileges;
+	5.	criminal liability where willful and systemic.
+
+Standing shall be broad, and no immunity shall attach by virtue of infrastructure ownership or regulatory delegation.
+
+⸻
+
+Section 9. Technological Neutrality
+
+This Article applies to all present and future communications technologies, regardless of medium, protocol, or architecture.
+
+Regulation shall be function-based, not platform-based, and shall adapt to technological evolution without undermining constitutional principles.
+
+⸻
+
+Section 10. Construction and Lock Scope
+
+This Article shall be construed:
+	•	to prevent infrastructural censorship by design,
+	•	to preserve competition and innovation,
+	•	to protect civic participation at scale.
+
+The principles of neutrality, nondiscrimination, transparency, and universal civic access are structurally locked.
+Operational mechanisms remain subject to legislative refinement consistent with this Constitution.
+
+⸻
+
+Section 11. Severability
+
+If any provision of this Article is held invalid, the remainder shall remain in force.
+
+⸻

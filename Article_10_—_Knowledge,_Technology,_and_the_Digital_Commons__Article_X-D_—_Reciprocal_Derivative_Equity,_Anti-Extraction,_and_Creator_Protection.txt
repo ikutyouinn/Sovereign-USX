@@ -1,0 +1,198 @@
+Article X-D — Reciprocal Derivative Equity, Anti-Extraction, and Creator Protection
+
+Section 1. Charge and Purpose
+
+This Article establishes reciprocal equity obligations to prevent uncompensated appropriation, extractive consolidation, and predatory exploitation of creators, while preserving incentives for original creation, derivative innovation, and cultural continuity.
+
+It expressly rejects economic models under which a creator’s labor, likeness, or contribution is treated as more valuable upon death, incapacitation, or dispossession than during active life and authorship.
+
+This Article shall be construed to favor living creators, continuity of authorship, and fair exchange, and against monopoly by leverage, delay, or coercion.
+
+⸻
+
+Section 2. Substantial Appropriation Defined
+
+Substantial appropriation occurs when an original rights holder or steward incorporates protected elements of a derivative work beyond abstract ideas or genre conventions, such that the derivative creator’s distinctive creative labor, structure, or expression is materially reused.
+
+Substantial appropriation includes appropriation that is:
+	1.	delayed until market validation occurs;
+	2.	repackaged as “official,” “canonical,” or “authorized” work;
+	3.	executed through remastering, rebooting, sequelization, or format migration;
+	4.	facilitated by superior bargaining power or procedural control.
+
+⸻
+
+Section 2-A. Lawful Derivative Creation During Abandonment
+
+Where an original steward has ceased meaningful production of a distinct class, format, medium, or mode of a protected work, derivative creation within that abandoned class shall be lawful, provided that:
+	1.	the derivative work is clearly identified as such;
+	2.	protected trademarks are not used as branding or endorsement;
+	3.	attribution to the original work is truthful and prominent;
+	4.	the derivative creator accepts reciprocal equity obligations under this Article.
+
+Cessation of meaningful production may be demonstrated by prolonged non-supply, refusal to distribute, or exclusive focus on materially distinct formats.
+
+Derivative creation under this Section shall not constitute infringement solely by virtue of lack of permission.
+
+⸻
+
+Section 2-C. Determination of Maturity
+
+A work shall be deemed to have reached irreversible maturity where the court finds that:
+	1.	the work has generated sustained cultural, economic, or technological value over multiple generations;
+	2.	the original steward’s control primarily functions to exclude others rather than to meaningfully advance the form;
+	3.	continued exclusivity would suppress, rather than incentivize, creative development;
+	4.	derivative creation has become a normal and foreseeable mode of cultural participation.
+
+No single factor is dispositive.
+
+The burden shall rest on the original steward to demonstrate that continued blocking authority remains necessary to incentivize creation.
+
+Presumption of Abandonment or Maturity:
+Cessation of meaningful production within a distinct class, format, or medium for ten (10) consecutive years shall create a rebuttable presumption of abandonment or irreversible maturity under this Article.
+
+The burden shall rest on the original steward to demonstrate that continued blocking authority remains necessary to incentivize genuine advancement of the work.
+
+⸻
+
+Section 2-E. Absolute Temporal Ceiling on Blocking Authority
+
+Notwithstanding any other provision of this Constitution or law, no protected work may be subject to prohibitions on derivative creation beyond fifty (50) years from its first public release.
+
+Upon expiration of this period:
+	1.	the authority to prohibit derivative creation is extinguished permanently;
+	2.	exclusivity converts irrevocably to attribution and equitable licensing only;
+	3.	injunctive relief against derivative works is prohibited;
+	4.	no subsequent release, remaster, sequel, reboot, corporate restructuring, or legislative act shall extend or restore blocking authority.
+
+This ceiling is absolute, non-resettable, and non-derogable.
+⸻
+
+Section 2-F.  Fan and Revival Safe Harbor
+Non-commercial or low-revenue derivative works created to restore functionality, compatibility, continuity, or quality of abandoned or degraded works shall be presumed lawful.
+
+Compensation obligations shall attach only upon commercial success exceeding de minimis thresholds established by law.
+
+Such works shall not be enjoined solely for restoring discontinued, degraded, or neglected functionality.
+
+
+⸻
+
+Section 3. Presumption and Burden Shifting
+
+Where access and substantial similarity are shown, appropriation shall be presumed.
+
+The burden shall shift to the appropriating party to demonstrate independent creation by clear and convincing evidence.
+
+Delay, silence, or refusal to engage shall weigh against the appropriating party.
+
+⸻
+
+Section 4. Reciprocal Equity and Compensation
+
+Where substantial appropriation is found, the appropriating party shall provide reciprocal compensation proportional to attributable contribution.
+
+Such compensation shall be:
+	1.	meaningful and non-illusory;
+	2.	non-waivable by coercion or unequal bargaining power;
+	3.	sufficient to prevent unjust enrichment.
+
+Nominal consideration, one-time buyouts under duress, or post-hoc acknowledgments shall not satisfy this requirement.
+Minimum Compensation Integrity
+Implementing law shall establish minimum compensation standards sufficient to prevent unjust enrichment.
+
+Such standards shall not be nominal, symbolic, or structured to evade proportionality.
+
+Courts shall invalidate compensation regimes that, in practice, deny meaningful participation in the value derived from derivative appropriation.
+
+⸻
+
+Section 5. Anti-Predatory Creator Practices
+
+The following practices are declared legally disfavored and presumptively abusive:
+	1.	structuring contracts or incentives such that a creator’s death, incapacitation, or loss of control materially increases extractable value;
+	2.	suppressing, delaying, or withholding compensation, publication, or recognition in anticipation of posthumous exploitation;
+	3.	acquiring rights with the primary intent of monetization after a creator’s death;
+	4.	isolating creators from markets, legal counsel, or distribution to induce dependency.
+
+Any arrangement producing these effects shall be subject to strict judicial scrutiny and may be voided.
+
+⸻
+
+Section 6. Anti-Waiver and Anti-Collusion Rule
+
+No agreement, waiver, arbitration clause, jurisdictional transfer, or regulatory coordination may defeat the protections of this Article.
+
+Coordination between rights holders and state actors, regulators, courts, or collecting entities to suppress derivative equity, delay enforcement, or enable extractive outcomes constitutes a grave civic offense.
+
+Such actions are void ab initio.
+
+⸻
+
+Section 7. Temporal Integrity and No-Reset Doctrine
+
+No remaster, reboot, sequel, reclassification, platform migration, corporate restructuring, inheritance maneuver, or jurisdictional arbitrage shall:
+	1.	reset exclusivity periods;
+	2.	extinguish accrued derivative equity;
+	3.	convert derivative contributions into uncompensated upstream assets.
+
+Derivative rights vest upon creation and survive procedural delay.
+
+⸻
+
+Section 7-A. Prohibition on Retaliatory IP Litigation
+
+Where a firm, developer, or institution has contributed code, components, or technical knowledge to a software system that later enters the Digital Commons pursuant to this Constitution, no such contributor may bring damages claims against the releasing party for lawful compliance with Jubilee or reversion obligations.
+
+Any dispute regarding improper inclusion, misattribution, or scope of release shall be brought solely as an injunctive action before the Digital Commons Enforcement Authority, with appeal to the courts.
+
+Monetary damages, punitive claims, or retaliatory litigation are prohibited.
+
+
+⸻
+
+Section 8. Protection of Living Creators
+
+Where ambiguity exists between outcomes favoring posthumous extraction and those favoring living creators, interpretation shall resolve in favor of the living creator.
+
+Courts shall consider whether enforcement choices incentivize neglect, delay, or strategic inaction toward creators during life.
+
+Findings of abandonment or irreversible maturity under this Article shall accelerate functional commons entry under Article X-C, subject to attribution and equitable licensing.
+
+⸻
+
+Section 9. Scope of Application
+
+This Article applies to expressive, functional, and hybrid works, including but not limited to:
+	•	software and video games;
+	•	audiovisual and musical works;
+	•	literature and narrative universes;
+	•	industrial, mechanical, and digital design;
+	•	recipes, techniques, and embodied know-how.
+
+Enumeration is illustrative, not limiting.
+This Article affirmatively protects lawful derivative creation, not merely compensation after appropriation.
+
+⸻
+
+Section 10. Authorization of Implementing Law
+
+Congress shall enact implementing law establishing enforceable minimum standards for compensation, attribution, and equity consistent with this Article.
+
+Such law shall be subject to strict judicial review for bad-faith dilution, symbolic compliance, or capture.
+
+⸻
+
+Section 11. Construction and Lock Scope
+
+The principles of:
+	•	reciprocal derivative equity,
+	•	anti-extraction,
+	•	protection of living creators,
+	•	non-waivability,
+	•	anti-collusion,
+	•	and temporal integrity
+
+are structural and non-derogable.
+
+Implementation mechanisms may evolve, but these protections shall not be abridged.

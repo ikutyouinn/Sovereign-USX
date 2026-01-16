@@ -1,0 +1,674 @@
+Article Iv — The Legislative Branch
+
+Charge
+
+This Article establishes the composition, powers, procedures, limits, and accountability of the Legislative Branch of the Republic.
+
+It defines how laws are proposed, debated, enacted, amended, and repealed, and it sets binding rules to prevent concentration of power, factional capture, secrecy, or circumvention of constitutional authority.
+
+The Legislature exists to exercise lawmaking authority on behalf of the People subject to the supremacy of this Constitution, the rights secured in Article II, and the constraints imposed throughout this Charter.
+Section 1. Vesting of Legislative Power
+
+(a) Bicameral Legislature
+
+The legislative power of the Republic is vested in a bicameral Legislature consisting of:
+	•	the People’s House; and
+	•	the Senate of the States.
+
+No law shall be enacted except by passage through this Legislature or by lawful popular process as provided in this Article.
+
+(b) Subordination to the Constitution and the People
+
+All legislative authority is subordinate to:
+	•	this Constitution;
+	•	judicial review;
+	•	executive veto as provided elsewhere; and
+	•	the reserved sovereign powers of the People.
+
+(c) Scope of Legislative Power
+
+The Legislature shall enact laws only within the powers granted by this Constitution.
+
+No statute shall be enacted for private benefit, factional advantage, or personal enrichment.
+
+All legislation shall be enacted through public process, recorded votes, and procedures ensuring transparency, notice, and accountability.
+
+(d) Hybrid Non-Delegation Doctrine
+
+The Legislature may employ departments and experts to assist in administering the laws, but it may not delegate:
+	•	the power to make binding rules of general applicability;
+	•	the power to impose penalties of general applicability; or
+	•	the power to define the scope, meaning, or application of rights.
+
+No regulation, directive, or rule shall carry the force of law unless:
+	•	the Legislature has authorized its subject matter;
+	•	the Legislature has established clear boundaries within which it may be written; and
+	•	the Legislature has approved the final rule, or permitted it to take effect under procedures established by statute that preserve legislative supremacy and judicial review.
+
+(e) Prohibition on Administrative Lawmaking
+
+Agencies may propose regulations, but may not create new obligations, redefine terms, expand authority, or manipulate constitutional meaning beyond limits set by Congress and the Constitution. Attempts to do so constitute constitutional overreach and are void.  Interpretive guidance, rulemaking, advisory opinions, or enforcement standards that effectively create binding obligations or expand statutory scope shall constitute unlawful lawmaking and are void.
+(f) Emergency Legislation
+
+In times of war or disaster, Congress may legislate with expedition but shall not abandon constitutional boundaries. Emergency statutes shall contain strict sunset provisions that expire when the emergency expires, and remain subject to judicial review. No emergency grants Congress powers not rooted in this Constitution.
+
+(g) Supermajorities
+
+All constitutional supermajority thresholds in this Article shall be sixty percent (60%) unless another Article expressly provides otherwise.
+
+(h) Rule of Construction
+
+This Section shall be construed to:
+1. preserve the exclusive authority of the Legislature to make law;
+2. prevent the exercise of legislative power by administrative or private bodies; and
+3. enforce strict compliance with the non-delegation and approval requirements set forth herein.
+Section 2. The People’s House
+
+(a) Nature and Purpose
+
+The People’s House serves as the primary drafting and deliberative body of the Republic. It exists to:
+	•	translate public needs into law;
+	•	refine proposals through debate;
+	•	ensure constitutional compliance; and
+	•	represent population-based civic interests.
+
+(b) Composition and Electorate
+
+Members of the People’s House shall be elected directly by Civic Citizens from population-based districts of approximately equal size, apportioned as provided herein.
+
+(c) Apportionment Base
+
+Apportionment shall be recalculated every ten years. Representation and districting shall count only:
+	•	Civic Citizens; and
+	•	the minor children of Civic Citizens, each counted as one full unit for apportionment.
+
+Non-civic lawful residents, migrants, refugees, foreign nationals, and unlawful entrants shall not be counted for apportionment or districting.
+
+(d) Non-Integer Apportionment and Minimum Representation
+
+Non-integer apportionment outcomes shall be handled according to established proportional methods used at the time of adoption, as refined by statute. Each State shall receive not less than one seat.
+
+(e) Membership and Odd-Number Requirement
+
+The total number of seats in the People’s House shall always be an odd number. If apportionment yields an even number, one additional seat shall be added by law to preserve an odd total, apportioned under neutral rules consistent with this Constitution.
+
+A default fixed membership of 331 Members may be established by statute as a stable baseline, provided that:
+	•	the odd-number rule is preserved;
+	•	each State retains a minimum of one seat;
+	•	apportionment remains decennial; and
+	•	any change to the fixed membership baseline requires a two-thirds (2/3) vote of each House.
+
+(f) Legislative Functions
+
+The People’s House may:
+	•	introduce legislation;
+	•	amend proposed laws;
+	•	initiate appropriations;
+	•	conduct investigations;
+	•	draft articles of impeachment; and
+	•	refer matters to popular vote where authorized.
+
+The House shall not:
+	•	exercise executive authority;
+	•	appoint executive officers;
+	•	command military or police forces; or
+	•	insulate legislation from popular review.
+
+(g) Qualifications
+
+To stand for election, a candidate shall:
+	•	be a Civic Citizen;
+	•	have completed honorable service as required by the citizenship provisions of this Constitution;
+	•	possess a record free from corruption, treachery, or grave moral offense;
+	•	demonstrate knowledge of the Constitution; and
+	•	reside within the district represented at the time of election.
+
+(h) Term Length, Limits, Vacate-Rule, and Total Service Cap
+	•	A full term in the People’s House is seven (7) years.
+	•	No person may hold a seat in the People’s House for more than twenty-one (21) years total across the entire Legislature, as provided herein.
+	•	A person may serve non-consecutive House terms and may seek election in a different district, provided that the Member vacates any House seat for one full term before holding any House seat again.
+	•	The twenty-one-year cap is the controlling churn limit across both chambers.
+
+(i) Staggered Elections and Transitional Alignment
+
+Elections to the People’s House shall occur every two (2) years, with seats divided into election classes to ensure continuity and prevent total replacement in a single moment except by lawful recall. Initial transitional alignment and class assignments shall be established by statute.
+
+(j) Election Integrity
+
+Elections to the People’s House shall be free, fair, transparent, auditable, and uniform across the Republic. Foreign influence and partisan manipulation of district lines are prohibited.
+
+(k) Vacancies and Interim Service
+	•	States shall determine the process for filling vacancies in House seats and for maintaining the staggering structure, consistent with this Constitution and subject to judicial review for abuse.
+	•	Where a special election would break staggering laws or destabilize the election-class system, appointment alone shall stand until the next lawful election window for that seat.
+	•	States may appoint an initial representative to fill the interim two-year slot (or other transitional interval) until a regular election can occur consistent with staggering.
+	•	Any appointment of less than half a term shall not count toward the twenty-one-year cap.
+
+(l) Ethics and Conduct
+
+Members shall act with humility and integrity. Bribery, foreign enrichment, insider trading, undisclosed compensation, self-dealing, and service to foreign interests are grave offenses, punishable by expulsion and permanent disqualification from office.
+
+(m) Mandatory Direct Voting and Bill Familiarity
+	•	Every Member must vote personally and directly. No Member may assign, delegate, or transfer voting power to any surrogate, proxy, or party officer.
+	•	Every Member voting on a bill must be sufficiently familiar with the bill to answer questions in committee regarding its purpose, scope, costs, enforcement mechanism, and constitutional authority.
+	•	Any systematic violation of this duty constitutes dereliction of office and may be grounds for censure, committee removal, or expulsion under law.
+
+(n) Caucus Limits
+
+Legislative caucuses are permitted only as temporary single-issue bodies.
+	•	A caucus must state one issue in its charter.
+	•	A caucus dissolves automatically upon resolution of the issue by enactment, defeat, expiration, or withdrawal.
+	•	No caucus may persist as a permanent faction, mega-party, or shadow leadership structure.
+	•	Parties may exist as election associations, but Congress shall not be governed through permanent caucus-machinery that bypasses transparency and individual accountability.
+
+(o) Interpretation
+
+The People’s House embodies the direct civic will of the Republic, derived from those who have earned citizenship and from the children who are being raised to bear its duties.
+(p) Anti-Evasion of Legislative Structure
+No chamber, caucus, committee, conference, leadership body, or procedural rule may be structured, renamed, or operated so as to evade, dilute, or reconstitute powers prohibited by this Article.
+
+Internal rules of procedure are subject to constitutional review for compliance with this Article.
+
+Section 3. The Senate of the States
+
+(a) Nature
+
+The Senate is the chamber of State representation within the national Legislature.
+
+It exists to represent States as political units within the federal system and to exercise the powers assigned to it by this Constitution.
+
+(b) Two Senators for Every State
+
+Each State shall have two Senators as follows:
+	•	one Senator appointed by the Governor of the State; and
+	•	one Senator selected by the State Legislature.
+
+Each Senator possesses one vote. No State may be deprived of representation.
+
+(c) Third Senator Rule for the Most Populous States; Adjustable by Supermajority
+	•	The ten most populous States, as determined by the same decennial apportionment used for the People’s House, shall each receive one additional Senator selected by a State Security Consortium.
+	•	Congress may expand or contract the number of States eligible for a third Senator only by a two-thirds (2/3) vote of each House.
+	•	No change may bypass the constitutional requirement that the Senate and the People’s House remain odd-numbered bodies.
+
+(d) Odd-Number Senate Rule: Additional Senator to the 11th Most Populous State
+
+To render tie votes extraordinarily rare, and to preserve an odd-numbered Senate, when the number of States is even, the eleventh (11th) most populous State shall receive one additional Senator.
+	•	This additional Senator shall be selected by sortition from among qualified Civic Citizens of that State under procedures established by law and subject to judicial review.
+	•	This Senator serves the same term length, ethics rules, and constitutional duties as all Senators.
+	•	This provision is not an at-large seat and shall be tied strictly to the 11th most populous State at each decennial recalculation.
+
+(e) State Security Consortium
+
+The State Security Consortium shall consist of senior representatives chosen internally from:
+	•	the State National Guard or military reserve;
+	•	State and municipal law enforcement leadership; and
+	•	fire, emergency medical, and disaster-response command.
+
+Selection procedures shall:
+	•	be transparent;
+	•	exclude partisan officeholders;
+	•	prohibit federal interference; and
+	•	remain subject to judicial review.
+
+(f) Term Length, Limits, Vacancies, and Total Service Cap
+	•	A full term in the Senate is seven (7) years.
+	•	No person may serve more than two (2) full Senate terms, subject always to the twenty-one-year total cap across the Legislature.
+	•	States shall determine the process for filling Senate vacancies, including transitional appointments, consistent with this Constitution and judicial review for abuse.
+	•	Any appointment of less than half a term shall not count toward the twenty-one-year cap.
+
+(g) Qualifications
+
+To serve in the Senate, a person shall:
+	•	be a Civic Citizen;
+	•	have completed honorable service as required by the citizenship provisions of this Constitution;
+	•	possess a record free from corruption, treachery, or grave moral offense;
+	•	demonstrate wisdom, prudence, and knowledge of constitutional governance; and
+	•	maintain residency in the State represented.
+
+(h) Duties and Limitations
+
+The Senate shall:
+	•	review, amend, approve, or reject legislation passed by the People’s House;
+	•	provide advice and consent on judges and senior officers as defined elsewhere;
+	•	ratify or reject treaties and international agreements;
+	•	serve as a stabilizing force against tyranny of the majority; and
+	•	conduct trials on Articles of Impeachment brought by the People’s House.
+
+The Senate shall not originate legislation except where expressly permitted by this Constitution.
+
+(i) Presiding Officer
+
+The Vice President of the Republic shall serve as President of the Senate and shall cast a vote only in the case of a tie, consistent with the Executive Article. The Senate shall otherwise govern its debate and procedure independently.
+
+(j) Ethics and Conduct
+
+Senators shall maintain the highest standards of integrity and shall not accept bribes, gifts, foreign payments, or advantages for themselves or their families. Corruption is a grave offense and results in expulsion and permanent disqualification.
+(k) Eligibility
+Eligibility criteria and selection mechanisms under this Section shall be fixed by constitutional rule and may not be altered to advantage any faction, party, or officeholder.
+(l) Rule of Construction
+
+This Section shall be construed to:
+1. preserve equal State representation as defined herein;
+2. enforce the selection, term, and qualification requirements set forth in this Section; and
+3. prevent any chamber, State, or officer from altering Senate composition or powers except by constitutional amendment.
+
+Section 4. Legislative Process
+
+(a) Passage of Laws
+
+A bill becomes law only if:
+	•	passed by a majority of the People’s House;
+	•	passed by a majority of the Senate; and
+	•	signed by the President or enacted over veto as provided elsewhere.
+
+(b) Single-Subject Requirement
+
+Every bill shall address only one subject clearly expressed in its title. No bill may contain riders, unrelated provisions, hidden appropriations, or ideological hostage-taking. Budget bills may not be used to enact criminal prohibitions, social policy, or regulatory changes unrelated to revenue and expenditure.
+
+(c) Mandatory Public Notice
+
+No bill may be voted upon unless its full text has been publicly posted for at least seventy-two hours, and every amendment has likewise been posted. Emergency bypass of this posting rule requires a two-thirds vote of each House and written public justification.
+
+(d) Purity of Appropriations
+
+Appropriations shall be single-purpose and confined strictly to the object stated. Hidden appropriations, omnibus packages, and backdoor funding are forbidden.
+
+(e) Mandatory Budget and Essential Pay
+
+Congress shall enact a full and transparent budget annually and may not adjourn for a new session until this duty is fulfilled. Under no circumstances may Congress permit:
+	•	the military to go unpaid;
+	•	essential personnel to go unpaid; or
+	•	national defense to be impaired by failure to enact required appropriations.
+Failure to provide these funds constitutes a violation of constitutional duty.
+(f) Failure to Act
+Failure to enact appropriations as required constitutes actionable constitutional violation subject to remedies under Section 11.
+
+Section 5. Popular Legislative Power
+
+(a) Popular Initiative
+
+The People retain the sovereign right to introduce legislation directly.
+	•	Initiation Threshold
+A proposed statute shall be docketed upon verified petition signatures from not less than twenty percent (20%) of Civic Citizens nationwide. No geographic minimum shall be required for federal initiatives.
+	•	Verification
+Signature verification shall include:
+	•	a non-invasive biometric identifier approved by statute and consistent with Article II (Informational Self-Determination and Bodily Autonomy); and
+	•	a second verification method, such as a license or national digital identification.
+
+Digital media may be used for collection and verification under secure national standards established by law.
+	•	Time Window
+A petition shall have a defined collection window of one (1) year. A failed petition may be attempted again without limit.
+	•	Drafting and Review
+Congress shall draft the initiative without adding, deleting, or altering any operative provision, definition, threshold, penalty, or enforcement mechanism except to convert the text into formal statutory language.
+	•	Vote and Ballot Method
+Initiatives reaching threshold shall be placed on a national ballot and shall pass only by sixty percent (60%) approval of Civic Citizens voting, by paper ballot.
+	•	No Turnout Floor and National Voting Access
+No turnout floor shall be required. A national day off shall be provided for non-essential labor to ensure voting access, with special provisions for essential employees.
+	•	Duration and Renewal
+Any initiative enacted by popular vote becomes federal law for ten (10) years. Renewal requires a majority (50%+1) approval by national ballot. Upon renewal, the law becomes permanent statutory law unless and until repealed by the Legislature or the People under this Article. Any effort to convert such a measure into a constitutional amendment must proceed through the amendment article provided elsewhere in this Constitution.
+
+(b) Popular Veto of Legislative Acts
+
+The People retain the sovereign right to veto legislation enacted by Congress.
+	•	Petition
+Upon verified petition by not less than ten percent (10%) of Civic Citizens within a statutory time period after enactment, the law shall be suspended and submitted to a national ballot.
+	•	Vote
+The law is void if rejected by sixty percent (60%) of Civic Citizens voting.
+	•	Repeat Attempts
+The People may attempt veto petitions again without limit, subject only to neutral procedural rules set by law.
+
+(c) Popular Override of Legislative or Executive Blockage
+
+A proposed law rejected by Congress or vetoed by the President may be enacted by the People by:
+	•	Sixty percent (60%) national approval by paper ballot; and
+	•	full constitutional review by the Supreme Court.
+
+No turnout floor shall exist. Congress shall draft faithfully and may not sabotage the measure by delay, distortion, or insertion. The enacted measure shall follow the ten-year duration and renewal rules of subsection (a)(7).
+
+(d) Limits on Popular Processes
+
+Popular processes may not:
+	•	violate enumerated rights;
+	•	abolish separation of powers;
+	•	establish caste or servitude;
+	•	suspend judicial independence;
+	•	entrench incumbents or eliminate future elections; or
+	•	target individuals or groups by name.
+
+(e) Judicial Safeguards
+
+Courts shall certify procedural validity and constitutional compliance. Courts shall not review political merit or popularity.
+
+Section 6. Transparency and Deliberation
+
+(a) Public Proceedings and Archives
+
+All legislative debates, votes, hearings, committee proceedings, and records shall be public and permanently archived.
+
+(b) Closed Sessions: Narrow National Security Exception Only
+
+Closed sessions may occur only for national security matters whose disclosure would pose a demonstrable and immediate risk to the safety of the nation. Closed sessions require written justification and remain subject to judicial review.
+
+(c) Mandatory Declassification After Twenty-Five Years
+
+All closed-session records shall be disclosed after twenty-five (25) years, unless a court finds that a specific continuing threat still looms. Continued sealing shall be time-limited, narrowly tailored, and periodically re-justified.
+
+(d) Judicially Approved Withholding and the Censorship Test for Government Documents
+
+Any censorship, redaction, withholding, or classification of legislative documents requires judicial approval under a strict test requiring clear and convincing evidence that disclosure would cause direct, immediate, and grave national harm. Withholding must be narrowly tailored, time-limited, and subject to appeal. This provision applies only to government documents and does not restrict private speech.
+
+(e) No Omnibus Deception
+
+No bill may contain unrelated provisions. Each law shall address a single subject.
+
+(f) Real-Time Publication
+
+Congress shall publish in real time:
+	•	roll-call votes;
+	•	bill texts and amendments;
+	•	appropriations and contracts;
+	•	committee summaries; and
+	•	calendars and schedules.
+
+(g) Whistleblower Protection
+
+Whistleblowers who lawfully disclose corruption, abuse of classification, bribery, or grave public danger shall be protected. Retaliation is a high crime. 
+Retaliation against a protected whistleblower constitutes a grave constitutional violation enforceable under this Constitution.
+
+Section 7. Ethics, Corruption, or Discipline
+
+(a) No Self-Dealing
+
+Members shall not trade on insider knowledge, receive undisclosed compensation, serve foreign interests, or benefit personally from legislation.
+
+(b) Prohibition on Lifetime or Inherited Office
+
+No office under this Constitution shall be held for life, inherited, or converted into a permanent entitlement.
+(c) Equality of Government Benefits
+
+No law may grant legislators, officers, or their families benefits, exemptions, or protections not equally available to all persons under the same legal conditions. No officer or representative may exempt themselves or their children from conscription, service burdens, or wartime obligations borne by the People.
+
+(d) Discipline for Corruption
+
+Conviction of corruption, bribery, covert foreign enrichment, or grave abuse results in removal, permanent disqualification, and criminal prosecution.
+
+Section 8. Recall, Removal, and Public Oversight
+This Section is subject to the scope limitations, continuity requirements, and reconstitution obligations set forth in Article XVI-B.
+
+(a) Recall of Individual Members
+
+Members may be recalled by the People of their district or State under procedures established by State law and consistent with this Constitution and judicial review for abuse.
+
+(b) National Recall of Congress
+
+The People retain the ultimate authority to recall a Congress that has betrayed constitutional duties. 
+National recall shall operate only as provided in this Section and shall not alter the regular election cycles, the bicameral structure of Congress, or the constitutional allocation of powers.
+	•	Timing Rule
+A national recall may occur at any time beginning two (2) years after a national legislative election.
+	•	Petition Threshold
+A national recall petition requires verified signatures from not less than ten percent (10%) of Civic Citizens nationwide.
+	•	Recall Vote
+A recall is enacted upon sixty percent (60%) approval by Civic Citizens voting.
+	•	Effect
+A successful national recall shall:
+	•	vacate all seats in one chamber of Congress at a time, as specified in the recall petition;
+	•	trigger immediate special elections for vacated House seats or lawful reselection or reappointment of Senators, as applicable;
+	•	preserve constitutional continuity by preventing simultaneous dissolution of both chambers; and
+	•	require reconstitution of legislative functions without interruption.
+
+Where recall would otherwise eliminate an entire election class in the People’s House, each Governor shall appoint one interim Representative from their State to occupy the next expiring two-year class until the next regular election cycle, in order to preserve staggering and continuity.
+
+No single recall petition or vote may dissolve both chambers of Congress simultaneously.
+Implementation must occur within ninety days of certification.
+	•	Non-Interference
+Congress may enact neutral administrative procedures but may not obstruct, delay, penalize petitioners, or raise thresholds. Any interference constitutes constitutional malfeasance.
+
+(c) Ethics Tribunal and Audits
+
+An independent Congressional Ethics Tribunal shall investigate corruption, bribery, foreign influence, conflicts of interest, abuse of office, manipulation of procedure, and violations of transparency rules, and shall possess subpoena power. Congress shall undergo annual independent audits, with reports published in full.
+
+(d) Independent Prosecution
+
+Crimes committed by Members shall be prosecuted by independent prosecutors under constitutional procedures. No immunity exists for crimes under color of office.
+
+(e) Public Performance Index
+
+A public database shall record attendance, voting records, committee participation, sponsorship of bills, ethical findings, and financial disclosures.
+
+Section 9. Lobbying Courts and Advocacy Rules
+
+(a) Establishment of Lobbying Courts
+
+Independent Lobbying Courts are established as the transparent venue for organized petitions for legislative favor, including requests for:
+	•	new laws;
+	•	amendments;
+	•	regulatory changes;
+	•	appropriations;
+	•	tax modifications;
+	•	trade exceptions; or
+	•	any other legislative favor.
+Lobbying Courts are transparency and disclosure forums, not criminal or civil courts, and exercise no adjudicative or punitive authority.
+Participation does not restrict speech, petition, or advocacy, but conditions legislative access on public disclosure.
+(b) Public Record
+
+Proceedings shall be recorded, transcribed, and published within seven days. National security sealing is permitted only for matters that directly threaten the safety of the nation and must be judicially approved and time-limited.
+
+(c) Filing Limits and Equal Access
+
+Each organized petitioner shall be limited to one filing per week and two hours of hearing time, subject to neutral rules. The Courts shall maintain free access for individuals, civic groups, small businesses, and public-interest advocates.
+
+(d) Small and Medium Business Advocate
+
+A designated advocate office shall exist to assist small and medium businesses and other small organizations in navigating the Courts and presenting petitions fairly.
+
+(e) Prohibition on Covert Influence
+
+Outside of duly convened Lobbying Court proceedings, it is unlawful for Members, staffers, executive officers, or agency officials to accept secret payments, meet privately for legislative commitments, or conduct covert negotiations for legislative favors. Violations constitute corruption and grounds for removal and prosecution.
+
+(f) Constituent Communications Preserved
+
+Nothing in this Section prohibits ordinary constituent communication, including calls, letters, meetings in public venues, public forums, and public testimony, for expressing views or urging support or opposition, including lawful threats of recall. Organized requests for special legislative favors remain subject to the Lobbying Courts and transparency rules.
+
+(g) Disclosure Requirements
+
+Petitioners shall disclose funding sources, foreign ties, decision-makers, and beneficiaries. Shell structures to obscure influence are forbidden.
+
+(h) Rule of Construction
+
+This Section shall be construed to require public disclosure, recorded proceedings, and equal access for all petitioners seeking legislative favor, and to prohibit undisclosed, private, or covert legislative influence.
+All popular remedies exercised under this Article are subject to the limitations and continuity requirements of Article XVI-B.
+
+Section 10. Congressional Officers and Neutral Governance
+
+(a) Non-Member Speaker of the People’s House
+
+The People’s House shall elect a Speaker who is not a sitting Member of Congress. The Speaker shall be:
+	•	a former President of the Republic or a Justice of the Supreme Court, as qualified by law;
+	•	a neutral presiding authority;
+	•	a non-voting officer; and
+	•	responsible for maintaining order and constitutional procedure.
+
+(b) Qualifications Reaffirmed
+
+No person may serve as Speaker unless that person is:
+	•	a former President of the Republic or a Justice of the Supreme Court (as specified herein);
+	•	a Civic Citizen in good standing; and
+	•	free from corruption, treachery, or grave moral offense.
+
+(c) Term of the Speaker
+
+The Speaker shall serve a term of two (2) years, synchronized to the House election cycle, and may be re-elected without limit, provided the Speaker remains qualified and is not a sitting Member of Congress.
+
+(d) Election Timing
+
+The People’s House shall elect the Speaker:
+	•	at the first sitting of each newly seated People’s House following the regular House election cycle;
+	•	within seven (7) days of a vacancy caused by removal, resignation, death, incapacity, or disqualification; and
+	•	upon lawful restoration of Congress after dissolution, recall, or catastrophe.
+
+(e) Election Procedure
+	•	Election shall occur by open recorded vote of the People’s House.
+	•	A candidate must receive a majority of seated Members to be elected.
+	•	If no candidate receives a majority on the first ballot, additional ballots shall be held until a majority is achieved, and no ballot may be conducted by secret vote.
+	•	The House may establish neutral procedural rules to manage ballots, provided those rules do not permit partisan officers or caucuses to control the outcome.
+
+(f) Limits on the Speaker
+
+The Speaker may not:
+	•	whip votes;
+	•	direct legislative outcomes;
+	•	bury bills properly introduced;
+	•	enforce partisan discipline; or
+	•	participate in closed-door legislative bargaining.
+
+The Speaker’s sole voting capacity, if any, shall be limited to administrative matters that do not affect passage or defeat of legislation, and shall be defined narrowly by law.
+
+(g) Interim Presiding Officer
+
+During a vacancy or temporary incapacity of the Speaker, the House Clerk shall preside for ministerial purposes only, including the administration of Speaker elections, and shall possess no authority to schedule, block, or influence legislation.
+
+(h) Removal
+
+The House may remove the Speaker at any time by majority vote. The Speaker may also be removed for corruption or constitutional violation under procedures established by law and judicial review.
+
+(i) Rule of Construction
+
+This Section shall be construed to enforce the neutrality, non-partisanship, and procedural limits of the Speaker as set forth herein.
+
+Section 11. Judicial Remedies for Legislative Failure
+
+(a) Standard of Proof
+
+Judicial enforcement under this Section requires clear and convincing evidence.
+
+(b) Justiciable Duties
+
+The Supreme Court may declare Congress in contempt of the Constitution and order Congress to convene and vote where Congress:
+	•	fails to pass a lawful budget;
+	•	allows unconstitutional war-making or unconstitutional emergency extensions to persist;
+	•	refuses to perform mandatory constitutional duties; or
+	•	obstructs constitutionally required transparency.
+
+Judges may review the constitutionality of budgets and may approve or deny judicially requested censorship, redaction, or withholding of government documents under the censorship test described herein. Courts may not control policy discretion, substitute political judgment, or dictate legislative outcomes.
+
+(c) Justiciability Override
+
+Compliance with the duties imposed by this Article constitutes a constitutional obligation, not a political question.
+
+Courts of the Republic shall have jurisdiction to compel compliance with procedural duties herein and may not decline review on grounds of discretion, internal legislative governance, or political question doctrine.
+
+Each chamber retains plenary constitutional authority to structure its officers, and such authority is not limited by historical practice or membership status.
+
+(d) Rule of Construction
+
+This Section shall be construed to authorize judicial enforcement of mandatory constitutional duties set forth in this Article, and to prohibit courts from issuing orders that determine the substantive content of legislation.
+
+Section 12. Non-Delegation and Administrative Restraint
+
+(a) Legislative power shall not be delegated to administrative or executive bodies except for narrowly defined, temporally bounded, and ministerial functions governed by an intelligible principle set forth by statute.
+
+(b) No agency or administrative body may promulgate rules of general applicability carrying the force of law absent explicit and express legislative authorization.
+
+(c) Delegations of authority involving major questions of political, economic, social, or civil consequence—including those with vast economic impact, novel regulatory frameworks, or effects upon fundamental rights—are presumed invalid unless unmistakably authorized by statute.
+
+(d) All delegations of rulemaking authority with legal force shall sunset automatically after five years unless affirmatively reauthorized by law.
+
+(e) Broad, open-ended, implied, or self-extending delegations are void.
+
+Section 13. Government Self-Binding and Equal Application of Law
+
+(a) All laws of general application enacted pursuant to this Constitution shall bind public officials, legislators, judges, executive officers, and governmental entities equally with the public.
+
+(b) No officeholder, agency, or branch of government shall exempt itself from compliance with laws of general application.
+
+(c) Any statute or regulation conferring exemption, immunity, privilege, or special advantage upon public officials or their immediate associates is void.
+
+(d) Changes to compensation, benefits, immunities, or privileges applicable to officeholders shall not take effect until after an intervening election or term of office, as applicable.
+
+(e) Violations of this Section constitute breaches of public trust and may give rise to removal, impeachment, or other lawful sanction.
+
+
+Section 14. Rule of Construction
+
+This Article shall be construed to:
+(a) preserve the bicameral structure and separation of powers established herein;
+(b) enforce the procedural, transparency, non-delegation, and anti-capture requirements of this Article;
+(c) prevent evasion of legislative limits through procedural manipulation, emergency powers, or administrative proxy; and
+(d) ensure that lawmaking authority remains accountable to the People under this Constitution.
+Section 15. Article IV Lock Designation and Anti-Evasion Clause
+
+Pursuant to Article XV (Amendments, Lock Clauses, and Anti-Emergency Drift), Article IV — The Legislature is hereby designated as LOCK-PROTECTED.
+
+This designation reflects the deliberate judgment of the People that the legislative power is the most capture-prone authority in any republic and therefore must be constrained by explicit structure, enforceable duty, and judicially reviewable limits.
+
+Section A. Scope of Lock
+
+This Lock applies to the entirety of Article IV, including but not limited to:
+	•	the composition, organization, and authority of the Legislature;
+	•	limits on delegation, administrative rulemaking, and interpretive authority;
+	•	legislative procedures, notice requirements, budgetary duties, and voting obligations;
+	•	transparency, declassification, and lobbying disclosure mechanisms;
+	•	popular legislative powers, recall provisions, and judicial remedies for legislative failure.
+
+No provision of Article IV shall be repealed, suspended, weakened, narrowed, expanded by implication, or rendered ineffectual except in strict conformity with this Lock Declaration.
+
+Section B. Prohibited Forms of Alteration
+
+The following are expressly prohibited with respect to Article IV:
+	•	reclassification of constitutional legislative duties as discretionary, internal, advisory, or non-justiciable;
+	•	circumvention of structural limits through internal rules, caucuses, conferences, informal coordination bodies, or renamed procedures;
+	•	delegation of lawmaking authority to administrative bodies through interpretation, guidance, enforcement standards, or rulemaking in substance if not in name;
+	•	suspension or evasion of legislative obligations by emergency declaration, necessity claims, or institutional convenience;
+	•	judicial reinterpretation that restores doctrines of deference, political question abstention, or implied legislative immunity barred by this Constitution.
+
+Any attempt to effect such alteration by statute, regulation, executive action, judicial doctrine, or intergovernmental agreement is void ab initio.
+
+Section C. Permitted Amendments (Narrow Exception)
+
+Amendment to Article IV may occur only for the purpose of:
+	•	clarifying internal consistency, definitions, or cross-article coordination without reducing substantive limits or duties;
+	•	strengthening transparency, accountability, or enforcement mechanisms;
+	•	addressing newly discovered methods of legislative evasion, capture, or procedural laundering.
+
+No amendment may:
+	•	expand legislative discretion beyond constitutional bounds;
+	•	restore administrative lawmaking authority;
+	•	weaken judicial remedies for legislative failure;
+	•	diminish popular override or recall mechanisms;
+	•	reduce notice, voting, or budgetary obligations.
+
+Section D. Amendment Threshold
+
+Any amendment to Article IV shall require all of the following:
+	•	approval by a supermajority of both chambers of the Legislature, as defined in Article XV;
+	•	certification by the Supreme Court of the Republic that the amendment does not restore prohibited doctrines, expand legislative immunity, or dilute enforceable duties;
+	•	independent review by the Constitutional Judicial Commission (CJC) affirming absence of self-dealing, institutional capture, or procedural manipulation;
+	•	ratification by the People, under procedures no less rigorous than those required for original constitutional adoption.
+
+Failure to satisfy any requirement shall invalidate the amendment in its entirety.
+
+Section E. Anti-Backsliding Rule
+
+No amendment, statute, regulation, or judicial interpretation adopted after ratification of this Lock shall be construed to:
+	•	convert enforceable legislative duties into discretionary acts;
+	•	insulate legislative procedures from constitutional review;
+	•	reintroduce administrative lawmaking through indirection;
+	•	weaken popular oversight, recall, or transparency mechanisms.
+
+Where conflict exists, Article IV shall control.
+
+Section F. Judicial and Legislative Duty
+
+All courts and legislative bodies of the Republic are bound to:
+	•	enforce Article IV as written;
+	•	compel compliance with its procedural duties where violated;
+	•	resolve ambiguities against expansion of legislative power and in favor of accountability.
+
+Failure by any court, legislator, or legislative officer to honor this Lock constitutes constitutional misconduct.
+
+Section G. Declaration of Legislative Intent
+
+This Lock affirms that legislative power exists to deliberate, decide, and be accountable — not to evade responsibility, delegate authority, or govern by omission.
+
+The People therefore place Article IV beyond erosion by faction, inertia, emergency, or self-interest.
+
+

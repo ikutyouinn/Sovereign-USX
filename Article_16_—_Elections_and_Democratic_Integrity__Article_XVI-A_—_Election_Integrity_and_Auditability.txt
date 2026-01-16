@@ -1,0 +1,112 @@
+Article XVI-A — Election Integrity and Auditability
+
+Section 1. Non-Derogation and Relationship to Article XVI
+
+This Article supplements Article XVI — Elections and Democratic Legitimacy.
+
+Nothing in this Article shall be construed to modify, narrow, relax, or reinterpret any requirement, prohibition, or safeguard established in Article XVI.
+
+Where doubt exists, the construction that most preserves electoral legitimacy and public trust shall control.
+
+⸻
+
+Section 2. Chain-of-Custody as a Constitutional Requirement
+
+All ballots, records, and election materials shall be subject to continuous, documented chain-of-custody from issuance through final certification.
+
+Any break, ambiguity, or undocumented transfer in custody creates a rebuttable presumption of compromise.
+
+Chain-of-custody records shall be public records.
+
+⸻
+
+Section 3. Auditability and Public Verification
+
+All elections shall be auditable by independent observers using methods that are:
+	1.	publicly observable,
+	2.	repeatable,
+	3.	comprehensible to a reasonable citizen,
+	4.	independent of proprietary claims.
+
+No election outcome may rely exclusively on processes that cannot be meaningfully audited by human review.
+
+⸻
+
+Section 4. Technology Neutrality and Burden of Proof
+
+No voting or tabulation technology is presumed valid by default.
+
+The burden of proof rests on the authority employing any technology to demonstrate:
+	1.	transparency,
+	2.	resistance to tampering,
+	3.	verifiability independent of vendor assertions,
+	4.	absence of remote or covert alteration capability.
+
+Failure to meet this burden prohibits use.
+
+⸻
+
+Section 5. Software and Vendor Restrictions
+
+Election software, firmware, and tabulation systems shall be:
+	1.	open to inspection,
+	2.	version-controlled,
+	3.	publicly documented,
+	4.	reproducible from source where applicable.
+
+Proprietary secrecy shall not defeat audit, review, or challenge.
+
+Vendor indemnification clauses shall not shield liability for failure, fraud, or concealment.
+
+⸻
+
+Section 6. Escalation Triggers and Automatic Review
+
+The following conditions automatically trigger mandatory review, recount, or escalation:
+	1.	material chain-of-custody defects;
+	2.	statistically anomalous results inconsistent with observable conditions;
+	3.	equipment malfunction affecting outcome margins;
+	4.	documented interference or suppression.
+
+Discretionary refusal to review under such conditions is prohibited.
+Where escalation is triggered under this Section, the Constitutional Review Court shall have mandatory and expedited jurisdiction to order audits, recounts, preservation of evidence, and injunctions against certification.
+
+⸻
+
+Section 7. Failure Resolution and Election Invalidation
+
+Where integrity defects cannot be cured through audit or recount, the affected election or contest shall be invalidated.
+
+Certification shall not occur where legitimacy cannot be affirmatively demonstrated.
+
+No authority may certify an election solely to preserve continuity or convenience.
+
+⸻
+
+Section 8. Remedies and Temporary Governance
+
+In the event of invalidation:
+	1.	lawful interim governance shall proceed under existing constitutional succession rules;
+	2.	prompt re-election shall occur under corrected conditions;
+	3.	emergency powers shall not be invoked to bypass re-election.
+
+Continuity does not justify legitimacy failure.
+
+⸻
+
+Section 9. Accountability and Severity
+
+Willful interference with election integrity, auditability, or review constitutes abuse of democratic authority.
+
+Where such conduct is systemic, coordinated, or outcome-determinative, it qualifies as a grave offense under Article 0 and is subject to Tier-3 escalation.
+
+⸻
+
+Section 10. Interpretation
+
+This Article shall be interpreted to ensure that electoral outcomes are provable, not presumed.
+
+Where doubt exists, the construction that favors verification over finality shall control.
+
+⸻
+
