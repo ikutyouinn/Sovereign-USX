@@ -5,7 +5,7 @@ An Open-Source Project to Create a More, More Perfect Union*
 
 ## Why this exists
 
-This project began as an attempt to explain my political views to a close friend who concluded that our differences of opinion exist solely because I am a “loyal Republican.” Well, not exactly...  
+This project began as an attempt to explain my political views to a sister who concluded that our differences of opinion exist solely because I am a “loyal Republican.” Well, not exactly...  
 
 Anyway, frustrated by having nuanced positions collapsed into bumper-sticker labels by many of the people with whom I would share opinions and critiques of the government and society, I decided instead to describe what a government would actually look like if I were responsible for designing it.
 
