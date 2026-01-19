@@ -893,22 +893,19 @@ No act shall be prohibited under this Section unless it involves:
 5. or demonstrable and substantial risk of biological, chemical, or psychological harm.
 
 Mere expression of belief, ideology, religion, or opinion shall not constitute a violation.
-(h) Meaning of Dangerous Ideological Indoctrination
+(h) Meaning of Dangerous Ideological Indoctrination.
+For purposes of this Article, “Dangerous ideological indoctrination” means the intentional conditioning of persons, especially minors or dependents, through coercion, isolation, or psychological manipulation, to compel unlawful violence, self-harm, or surrender of autonomy. 
+It shall not include peaceful teaching, advocacy, religious instruction, political belief, or dissent. (As defined in Article 0.)
+(i) Meaning of Coercive Rituals.
 
-“Dangerous ideological indoctrination” means the intentional conditioning of persons, especially minors or dependents, through coercion, isolation, or psychological manipulation, to compel unlawful violence, self-harm, or surrender of autonomy.
-
-It shall not include peaceful teaching, advocacy, religious instruction, political belief, or dissent.
-(i) Meaning of Coercive Rituals
-
-“Coercive rituals” means practices that involve:
-1. physical injury,
-2. sexual exploitation,
-3. confinement,
-4. forced ingestion,
-5. or credible threats of harm,
-
+For purposes of this Article, “Coercive rituals” means practices that involve: 
+1. physical injury, 
+2. sexual exploitation, 
+3. confinement, 
+4. forced ingestion, 
+5. or credible threats of harm, 
 and shall not include voluntary cultural, religious, or symbolic practices.
-
+(As defined in Article 0.)
 Section 12A. Structural and Indirect Restraints
 
 (a) Functional Test

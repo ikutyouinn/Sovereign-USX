@@ -70,6 +70,35 @@ The Republic shall defend against foreign economic warfare, including:
 
 Defensive measures shall be proportional, transparent, and subject to constitutional oversight.
 
+
+Section 6A. Foreign Confidence Exploitation and Industrial Fraud
+
+Industrial-scale fraud, identity theft, and payment-rail exploitation directed at persons within the Republic constitute a form of foreign economic aggression when conducted:
+	1.	at scale sufficient to undermine public trust or inflict systemic harm;
+	2.	with the direction, material support, or operational control of a foreign state; or
+	3.	under knowing protection, shelter, or willful non-enforcement by a foreign jurisdiction after formal notice and reasonable opportunity to act.
+
+The Republic shall treat such operations as hostile economic conduct and shall respond through lawful, targeted measures, including:
+	1.	extraterritorial criminal jurisdiction for offenses against persons within the Republic, subject to due process;
+	2.	asset freezes, forfeiture after conviction, restitution enforcement, and civil recovery mechanisms prioritized to victims;
+	3.	targeted sanctions, visa bans, and financial interdiction against operators, facilitators, front entities, and materially supportive institutions;
+	4.	payment-system, telecommunications, and identity-infrastructure defenses and interdictions, with clear rules, auditability, and narrow tailoring;
+	5.	formal designation of non-cooperative safe-harbor jurisdictions, with escalatory countermeasures defined by law.
+
+Congress shall, by law, maximize victim recovery and deterrence without creating new generalized surveillance powers or speech restrictions. In carrying out this Section, Congress shall prioritize structural defenses that make scams harder and more expensive to run at scale, and may require, at minimum:
+	1.	a free, simple, single-credential mechanism to place and lift fraud locks on credit reporting and major payment accounts, with strong authentication and reasonable delay or step-up verification to prevent rapid abuse;
+	2.	a distinct felony offense for knowing recruitment, management, or operation of money-mule networks and laundering rails used primarily for confidence-exploitation proceeds, with forfeiture of instrumentalities and victim restitution priority;
+	3.	enhanced enterprise liability for coordinated confidence-exploitation operations, including predicate offenses and civil recovery mechanisms sufficient to reach organizers, facilitators, and materially supportive intermediaries;
+	4.	carrier-level and gateway-level duties to authenticate caller identity, suppress spoofing, and block or rate-limit high-risk traffic after notice, with civil liability for willful or repeated transmission of non-authenticated fraudulent traffic;
+	5.	felony penalties for trafficking in victim lists, stolen credentials, or access instruments used primarily to facilitate confidence exploitation, and lawful freezing procedures for clearly attributable proceeds, subject to due process;
+	6.	a national victim restitution and recovery framework, including a compensation fund seeded by forfeited proceeds and governed by transparent rules that prioritize repayment to victims before fines or agency budgets.
+
+All measures under this Section shall remain proportional, transparent to the maximum extent consistent with operational necessity, and subject to constitutional oversight, record preservation, and auditability under Articles XI and XIII.
+
+Nothing in this Section shall be construed to compel universal real-name identity for private communications, mandate biometric enrollment for ordinary speech or association, require backdoors into end-to-end encryption, or authorize mass monitoring of private communications absent individualized suspicion and judicial process.
+
+Nothing in this Section shall be construed to authorize war, invasion, assassination, or use of military force absent the explicit war and defense authorities, procedures, and limitations elsewhere in this Constitution.
+
 ⸻
 
 Section 7. Prohibition on Parallel or Fragmenting Currencies

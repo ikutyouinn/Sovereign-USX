@@ -1,0 +1,169 @@
+Article III-A — Civic Competence Exam and Administration
+
+Charge
+
+The Civic Competence Exam is the gateway to baseline Civic Citizenship (1×).
+It exists to ensure that the franchise rests on demonstrated comprehension of the Constitution, core civic mechanics, and basic reasoning competence sufficient for informed participation, while remaining accessible, viewpoint-neutral, non-capturable, and resistant to manipulation.
+
+The Exam shall be administered in a manner that prevents elitism, credential laundering, ideological gatekeeping, covert discrimination, administrative expansion of the electorate, and covert dilution of standards.
+
+(Cross-references: Article III §5; Article II; Article 0-B; Article XV; Article XVI; Article XXXIX.)
+
+Section 1. Exam Effect and Limits
+
+(a) Gateway to Civic Citizenship.
+Passing the Exam entitles an applicant who otherwise meets Article III prerequisites to recognition as a Civic Citizen at baseline 1×.
+
+(b) No Office Eligibility by Exam Alone.
+Passing the Exam does not grant eligibility for public office unless otherwise authorized by this Constitution.
+
+(c) No Discretionary Denial.
+No authority may deny Civic Citizenship to an otherwise qualified applicant who passes the Exam, nor impose additional requirements beyond Article III and this Article.
+
+Section 2. Exam Blueprint and Content Limits
+
+(a) Permitted Content Domains.
+The Exam may test only:
+(1) constitutional text comprehension and structure;
+(2) separation of powers, due process, and basic civic mechanics (elections, representation, lawful limits of state power);
+(3) basic reasoning competence, including identification of common logical fallacies and manipulation techniques;
+(4) basic historical and institutional literacy necessary to understand constitutional governance and civic duties.
+
+(b) Prohibited Content Domains.
+The Exam shall not test:
+(1) partisan affiliation, ideology, or policy preferences;
+(2) religious doctrine or anti-religious doctrine;
+(3) cultural conformity, compelled speech, or compelled assent to contested narratives;
+(4) advanced academic specialization, obscure trivia, or professional credential content unrelated to the permitted domains.
+
+(c) Plain Language Requirement.
+Exam language shall be written in plain language suitable for competent adult readers, and shall be designed to test comprehension and reasoning rather than vocabulary gamesmanship.
+
+Section 3. Standard-Setting, Difficulty Control, and Fairness
+
+(a) Minimum Competence Standard.
+The passing standard shall reflect the minimum competence needed for informed civic participation, and shall not exceed what is reasonably necessary to achieve the purpose of this Article.
+
+(b) Calibration and Drift Control.
+The Exam shall be calibrated against defined competencies and reviewed at regular intervals to prevent covert drift in difficulty.
+Any increase in difficulty, scope, or passing threshold requires:
+(1) public notice;
+(2) written justification tied to the permitted domains; and
+(3) certification under Article 0-B.
+
+(c) No Demographic or Faction Engineering.
+No scoring rule, item selection rule, language rule, or administrative practice may be designed to exclude or include persons on demographic, factional, or viewpoint grounds.
+
+Section 4. Access, Accommodations, and Language
+
+(a) Universal Access.
+The Republic shall provide adequate, geographically reasonable access to testing locations and schedules, including remote proctoring where feasible without compromising integrity.
+
+(b) Disability Accommodations.
+Reasonable accommodations shall be provided for disabilities, including extended time, assistive technology, or alternative formats, without reducing the substantive competencies tested.
+
+(c) Language Availability.
+The default Exam language shall be the official public language(s) defined by law.
+Translations may be provided, but the constitutional text comprehension component must remain tied to the official constitutional text and its publicly ratified meaning.
+No translation policy may be used to covertly expand or restrict the electorate.
+
+Section 5. Retesting, Validity Period, and Fees
+
+(a) Retakes.
+Retakes shall be unlimited.
+
+(b) Periodic Retesting.
+Retesting shall occur every twenty (20) years for continued recognition as a Civic Citizen unless otherwise specified by this Constitution, consistent with Article III.
+
+(c) Fees.
+Any fee shall be limited to the cost of administration.
+Fees shall be waived for indigent applicants under procedures that are simple, fast, and reviewable.
+No fee structure may function as a poll tax.
+
+Section 6. Integrity, Security, and Anti-Cheating
+
+(a) Identity and Security Controls.
+The Republic shall use reasonable identity verification and security controls to prevent impersonation, answer trafficking, and systemic cheating.
+
+(b) Minimal Intrusion.
+Security controls shall use the least intrusive means consistent with maintaining exam integrity, and shall not become a pretext for surveillance or intimidation.
+
+(c) Consequences for Fraud.
+Intentional impersonation, organized cheating, bribery, or trafficking in exam answers constitutes a disqualifying offense, triggers invalidation of results, and shall be punishable under Tier-II offense classifications where provided by Article II and implementing law.
+
+Section 7. AI Use, Open Auditability, and Non-Capture
+
+(a) Open Specifications.
+Where AI is used to generate, assemble, proctor, or score the Exam, the technical specifications, evaluation criteria, and governance processes shall be public, auditable, and reproducible, subject only to narrowly tailored withholding of live item-bank contents.
+
+(b) Model Rotation; No Single Controller.
+No single vendor, agency, party, university, or private actor may control the Exam system.
+AI models and scoring systems shall be rotated and independently auditable under procedures certified by the CJC pursuant to Article 0-B.
+
+(c) Item Bank Confidentiality With Verifiable Governance.
+The live question bank may remain confidential to prevent answer memorization, but:
+(1) the blueprint, competency definitions, and scoring rubric must be public;
+(2) the method for generating and selecting items must be auditable;
+(3) the Republic must publish anonymized aggregate statistics sufficient to detect bias, drift, or capture.
+
+(d) Adversarial Testing.
+The Exam system shall be continuously adversarially tested (red-teamed) for bias, ideological skew, security vulnerabilities, and covert manipulation.
+Material failures require immediate suspension of the affected system component and replacement under certified procedures.
+
+(e) Prohibition on Ideological Filtering.
+No AI system used for Exam administration may use political ideology, religion, protected speech, lawful association, or demographic proxies as scoring signals.
+
+Section 8. Oversight, Appeals, and Remedies
+
+(a) Oversight Authority.
+The CJC shall certify the Exam system and audit administration pursuant to Article 0-B.
+
+(b) Appeals.
+Any applicant may appeal a denial, score, administrative refusal, or alleged irregularity.
+Appeals shall be available promptly, with expedited review where denial affects eligibility for a pending election cycle.
+
+(c) Burden and Transparency in Disputes.
+Where the State denies, invalidates, or delays recognition, the burden rests on the State to justify its action with clear and convincing evidence of specific cause.
+
+(d) Remedies.
+Remedies include retest orders, injunctive relief, compelled recognition, and damages where appropriate.
+Section 9. Prohibitions
+
+(a) No Quotas or Preferences.
+No quota, preference, or demographic engineering scheme may be applied in item selection, scoring, or administration.
+
+(b) No Guaranteed-Pass Credential Market.
+No private entity may be granted monopoly control over official preparation or certification that effectively becomes required for passage.
+
+(c) No Administrative Expansion of the Electorate.
+No administrative body may redefine “pass,” “eligible,” or “qualified,” or create alternate exams, waivers, or equivalencies, except by constitutional amendment under Article XV.
+
+Section 10. Public Ministry of Records Publication; Study Resources
+
+(a) Public Repository.
+The Public Ministry of Records shall maintain a permanent, public, searchable repository for the Civic Competence Exam system, including:
+
+(1) the full exam blueprint, competency definitions, permitted/prohibited content rules, and scoring rubric;
+(2) all non-exempt code, specifications, model cards, configuration parameters, and version history for any software or AI used to generate, assemble, proctor, score, or audit the Exam;
+(3) all test metrics, aggregate outcome data, calibration results, drift analyses, bias and fairness audits, red-team findings, and certification records;
+(4) all retired, abrogated, discontinued, or otherwise removed exam questions and answer keys, together with the stated reason for removal, within a reasonable publication delay that does not compromise the integrity of the live item bank; and
+(5) all formal guidance, administrative rules, and procedures governing exam administration, accommodations, appeals, retesting, and fee waivers.
+
+(b) Privacy Protection.
+Published metrics and datasets shall be anonymized and aggregated sufficiently to prevent re-identification of individual test-takers, while preserving meaningful public auditability.
+No question, prompt, or scoring artifact shall remain confidential after retirement except where the State proves by clear and convincing evidence that publication would create a substantial and specific risk to the integrity of the live item bank.
+(c) Practice Materials and Study Guides.
+The Ministry shall publish and maintain:
+(1) reasonable practice tests representative of the Exam blueprint;
+(2) study guides and resource maps that enable independent preparation without reliance on any single vendor; and
+(3) a publicly documented list of external learning resources (including highly rated study applications, books, and courses) selected and updated under viewpoint-neutral criteria.
+
+(d) Neutrality and Non-Endorsement.
+Resource lists shall be compiled under transparent, viewpoint-neutral standards (including demonstrated alignment to the blueprint, accessibility, cost, and quality signals) and shall not be used to impose ideology, suppress lawful viewpoints, or create a de facto monopoly provider.
+
+The Ministry of Records duties and publication requirements for civic metrics and methodologies are governed by Article XXXIX.
+
+Section 11. Lock Protection
+
+This Article is lock-protected under Article XV.
+Amendments require the supermajority thresholds required by Article XV, CRC/CJC certification as required by Article 0-B and Article XV, and popular ratification as required by this Constitution.

@@ -1,0 +1,77 @@
+Article XLVI-A – Imperator Pro Tempore and Asymmetric Defense Authority
+Charge
+This Article exists solely to empower the Republic to combat non-military existential threats that imperil the survival of the People or the constitutional order, such as pandemics or large-scale electronic infiltration. It does not grant authority to declare emergencies for social, economic, ideological, or policy purposes, nor may it be invoked for metaphorical "wars" on poverty, drugs, crime, inequality, climate, misinformation, or any other ill not constituting an immediate, verifiable existential peril capable of causing mass death or systemic collapse.
+Section 1. Purpose, Non-Derogation, and Lock Protection
+This Article exists solely to preserve the Republic against imminent non-military existential destruction—such as pandemics or electronic infiltration—when ordinary constitutional processes cannot respond in time. It shall be construed narrowly, invoked reluctantly, and terminated immediately upon cessation of the threat.
+Nothing herein authorizes:
+	•	permanent alteration of constitutional structure;
+	•	suspension or reinterpretation of lock-protected provisions (Article XV);
+	•	derogation of unamendable core rights (life, due process in non-sabotage cases, free conscience absent direct enemy action, bodily autonomy, free movement absent individualized quarantine orders);
+	•	consolidation of power beyond the acute defense phase; or
+	•	use as pretext for ordinary governance, political suppression, entrenchment, demographic engineering, or ideological control.
+This Article is lock-protected per Article XV: no amendment, suspension, reinterpretation, or circumvention may dilute its narrow scope, strict triggers, automatic sunsets, or accountability mechanisms except by the highest procedural threshold and explicit certification of non-diminishment.
+Section 2. Triggering Conditions (Existential Threat Certification)
+Asymmetric Defense Authority activates only upon certification of a clear, imminent, and existential non-military threat to the Republic’s survival, limited to:
+
+a. A highly contagious pandemic disease with verified high mortality or debilitating effects, causing or imminently likely to cause mass casualties or societal collapse absent immediate intervention;
+
+b. Large-scale electronic infiltration or cyber attacks crippling essential national infrastructure (e.g., power grids, financial systems, communications), directed by a foreign adversary or equivalent actor, where ordinary defenses cannot contain it in time;
+
+c. Other asymmetric threats of comparable scale, such as radiological dispersal or biological terrorism, verified to pose immediate existential harm and incapable of mitigation through standard processes.
+Economic downturns, social unrest, environmental changes, public health trends without mass lethality, or speculative risks do not qualify.
+The President shall issue a written finding specifying the factual basis, supported by independent scientific or technical evidence, transmitted immediately (within 4 hours) to:
+	•	both chambers of the Legislature;
+	•	the Constitutional Review Court (CRC);
+	•	the Constitutional Judicial Commission (CJC);
+	•	the Supreme Court of the Republic;
+	•	and the public (redactions only for strictly operational security, subject to immediate CRC review).
+The CRC shall have original jurisdiction to review and vacate the finding if it fails clear-and-convincing evidentiary standards or exceeds the enumerated triggers. CJC concurrence is required for activation if institutional abuse is alleged.
+Transmission within 4 hours satisfies any longer notice window elsewhere in this Constitution.
+Section 3. Designation and Scope of Authority
+Upon valid activation, the President temporarily assumes the designation Imperator Pro Tempore and exercises Asymmetric Defense Authority solely to mitigate or neutralize the existential threat.
+This is not a new office or title; it confers no permanence and expires per Section 6.
+Section 4. Limited Powers in the Acute Phase
+The Imperator Pro Tempore may exercise only the following, each strictly necessary and proportional to the certified threat:
+a. coordination of federal and state resources for containment, including temporary quarantines based on individualized, evidence-based risk (subject to immediate judicial review);
+b. requisition of private resources, infrastructure, or industrial capacity essential for immediate mitigation (e.g., medical supplies for pandemics, cybersecurity tools for electronic threats), with mandatory post-crisis compensation at fair market value plus interest;
+c. compulsory national service in non-combat roles (e.g., medical aid, cyber response) only when voluntary means are demonstrably insufficient (time-limited, subject to legislative override, and respecting conscientious objection where alternatives exist);
+d. temporary suspension of non-essential procedural requirements (e.g., certain regulatory delays) that would render timely mitigation impossible.
+All actions must directly advance mitigation, prioritize voluntary compliance, and cease upon threat resolution. No power herein authorizes mandatory medical interventions, surveillance expansion, or restrictions on free exercise of rights without individualized due process.
+Section 5. Absolute Prohibitions (Non-Derogable)
+Even under Asymmetric Defense Authority, the Imperator Pro Tempore shall not:
+a. amend, suspend, reinterpret, or bypass any provision of this Constitution; 
+b. abolish, postpone, or interfere with elections or political processes except as narrowly required to protect public safety from direct threat exposure (any such measure expires with the acute phase);
+c. criminalize, censor, or punish speech, dissent, association, religion, or political opposition unrelated to direct sabotage, espionage, or threat facilitation;
+d. alter the structure, independence, jurisdiction, or composition of the judiciary, Legislature, states, or constitutional oversight bodies (CRC, CJC);
+e. expand authority for economic, social, ideological, partisan, or demographic purposes, including lockdowns without sunset, vaccine mandates without informed consent, or digital tracking without warrants;
+f. delegate Asymmetric Defense Authority to any unelected body, private actor, or international entity;
+g. create generally applicable rules or new legal obligations outside immediate defense/mitigation operations; all such rules require ordinary law.
+Violation of any prohibition constitutes grave (Tier Three) constitutional malfeasance, triggering mandatory CJC investigation and CRC nullification.
+Section 6. Automatic Sunset, Ratification, and Renewal
+Asymmetric Defense Authority expires automatically after 72 hours unless ratified by simple majority of both legislative chambers.
+Upon ratification, authority may continue for a total period of up to 90 days, inclusive of the initial acute phase.
+Renewal beyond 90 days requires: a. 60% supermajority of both chambers; b. renewed CRC certification that the existential threat persists (clear and convincing evidence, including independent expert review); c. CJC certification that no abuse, prolongation, or deviation has occurred.
+The President may not unilaterally renew or extend. Failure to meet renewal thresholds causes immediate reversion to ordinary governance.
+Section 7. Termination, Reversion, and Restoration
+When this authority ends: a. all emergency orders lapse automatically unless re-enacted by ordinary law; b. requisitioned property returns or is compensated within 180 days; c. emergency restrictions (e.g., quarantines) convert to voluntary measures or terminate; d. suspended procedures restore immediately; e. no emergency precedent survives or justifies future action.
+Section 8. Mandatory Post-Crisis Review and Accountability
+Within 30 days of termination, the CJC and CRC shall jointly conduct a public review assessing:
+	•	necessity and proportionality;
+	•	adherence to limits;
+	•	duration and any prolongation;
+	•	evidence of abuse, profiteering, suppression, or bad-faith invocation.
+Findings are public; abuse triggers mandatory referral for grave offense prosecution (Article VII), removal/disqualification, and civil liability. No immunity applies.
+Section 9. Popular Override and Removal
+Upon petition by 10% of Civic Citizens, a national referendum may: a. nullify specific ultra vires actions; b. remove the President for abuse or bad-faith invocation.
+Approval requires 60% of Civic Citizens voting. Interference constitutes malfeasance.
+Section 10. Compulsory Service and Civic Credit
+Any person conscripted into compulsory national service under this Article who does not have a criminal record barring them from voting or holding office shall not have their service manipulated, delayed, or otherwise gamed to avoid granting them credit toward Civic Citizenship under Article III.
+Upon conscription, the two-year time clock for earning such credit begins immediately for those who have not already served, and may not be manipulated, suspended, or otherwise gamed to avoid rendering the credit due, unless the recruit leaves voluntarily or is dishonorably discharged for cause, subject to due process.
+Section 11. Interpretation and Supremacy
+This Article shall be interpreted to: 
+a. enable swift, decisive mitigation against genuine existential non-military perils;
+b. prevent any emergency from becoming permanent or pretextual; 
+c. prioritize rapid restoration of constitutional normalcy and liberty;
+d. treat abuse more severely than defensive hesitation.
+In conflict with any other provision, this Article's narrow constraints and safeguards control. The Republic safeguards its People without sacrificing their freedoms.
+

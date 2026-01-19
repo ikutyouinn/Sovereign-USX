@@ -17,6 +17,7 @@ A constitutional deadlock exists only where all of the following conditions are 
 	4.	continued uncertainty materially impairs the operation of the Republic or the equal application of constitutional rights.
 
 Mere disagreement, dissent, delay, or political controversy shall not constitute deadlock.
+For purposes of this Section, “incapable of producing a binding constitutional rule” includes: an evenly divided court; lack of quorum; recusal or vacancy preventing formation of a controlling rule; or fractured opinions lacking any controlling rationale. A mere difference of reasoning does not constitute deadlock where a binding constitutional rule exists.
 
 ⸻
 
@@ -30,6 +31,8 @@ Judicial exhaustion requires:
 
 Failure to pursue available judicial remedies bars invocation of this Subarticle.
 
+Nothing in this Section prohibits resolution of a certified constitutional deadlock pursuant to Article VI-H; pending such resolution, the default-to-liberty rule governs.
+
 ⸻
 
 Section 4. Certification of Deadlock
@@ -41,6 +44,7 @@ A declaration of constitutional deadlock shall require certification by:
 (3) certification by the Constitutional Judicial Commission that no party, judge, or institution has engaged in coercion, capture, corruption, or strategic obstruction designed to manufacture or prolong the deadlock.
 
 Absent such certification, no referendum may proceed.
+“Supermajority” shall have the meaning given in Article 0 (Supermajority Rule) unless this Subarticle expressly provides otherwise.
 
 ⸻
 
@@ -60,6 +64,7 @@ The referendum shall not amend this Constitution unless the amendment procedures
 Section 6. Effect of Referendum Outcome
 
 The outcome of a referendum conducted pursuant to this Subarticle shall:
+
 	1.	resolve the certified constitutional question;
 	2.	bind all branches of government;
 	3.	be applied prospectively unless otherwise required to prevent manifest injustice.
@@ -68,6 +73,9 @@ The referendum outcome shall not:
 	1.	diminish enumerated rights;
 	2.	suspend judicial review in future cases;
 	3.	authorize retroactive punishment.
+
+Threshold:
+The certified constitutional question shall be resolved only upon a supermajority vote of participating Civic Citizens, as defined in Article 0, unless this Constitution expressly requires a higher threshold.
 
 ⸻
 

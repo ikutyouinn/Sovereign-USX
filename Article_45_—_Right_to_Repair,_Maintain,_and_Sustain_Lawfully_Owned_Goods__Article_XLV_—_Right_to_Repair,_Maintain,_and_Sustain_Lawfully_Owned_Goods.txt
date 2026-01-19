@@ -1,0 +1,87 @@
+Article XLV — Right to Repair, Maintain, and Sustain Lawfully Owned Goods
+
+1. Charge and Purpose
+
+This Article secures the right of all persons to repair, maintain, modify, and sustain lawfully owned goods, and to prevent artificial scarcity, forced obsolescence, post-sale control, or dependency inconsistent with ownership.
+
+Ownership shall confer practical control and durability, not merely nominal title.
+
+⸻
+
+2. Core Right
+
+Any person who lawfully owns a physical or digital good has the right to:
+	•	repair, maintain, and service the good;
+	•	replace, fabricate, or source parts necessary for continued function;
+	•	modify the good for personal, commercial, adaptive, or interoperability purposes;
+	•	retain full use independent of the original manufacturer.
+
+These rights shall not be waived or limited by contract, license, warranty terms, or unilateral conditions of sale.
+
+⸻
+
+3. Access to Repair Necessities
+
+Manufacturers and vendors shall not withhold from lawful owners or independent repair providers:
+	•	replacement parts;
+	•	tools and equipment;
+	•	diagnostic software and interfaces;
+	•	firmware, source access, or documentation necessary for repair or maintenance.
+
+Such materials shall be made available on fair, reasonable, and non-discriminatory terms, without inflated pricing, artificial delays, or preferential treatment of authorized channels.
+
+⸻
+
+4. Prohibition of Repair Interference
+
+The following practices are prohibited:
+	•	use of digital locks, DRM, authentication, serialization, or “parts pairing” to prevent or degrade lawful repair or use of non-original parts;
+	•	conditioning functionality, features, updates, or continued operation on manufacturer authorization, subscriptions, or proprietary services;
+	•	deploying software or firmware updates that disable, degrade, or brick goods due to independent repair, modification, or part substitution;
+	•	remotely disabling, throttling, or impairing goods absent a genuine and immediate safety necessity;
+	•	requiring waiver of repair rights as a condition of sale, warranty, or continued use.
+
+Any such interference is void and constitutes an abuse of exclusivity.
+
+⸻
+
+5. Relationship to Intellectual Property
+
+Repair, maintenance, sustaining modification, and interoperability shall not constitute infringement where no consumer confusion or misrepresentation is involved.
+
+No assertion of copyright, patent, trade secret, or analogous protection shall prevent access to tools, firmware, or software necessary for diagnosis, maintenance, restoration, or compatibility, including reasonable reverse engineering and circumvention for those purposes.
+
+Intellectual property shall not be construed to impose perpetual post-sale control.
+
+⸻
+
+6. Safety and Environmental Compliance
+
+Repaired or modified goods remain subject to generally applicable safety and environmental standards.
+
+Such standards shall not be applied discriminatorily or as a pretext to restrict independent repair.
+The burden rests on the manufacturer to demonstrate that any restriction is strictly necessary for genuine safety or environmental protection.
+
+⸻
+
+7. Remedies and Enforcement
+
+Violations of this Article render the offending restriction void.
+
+Enforcement shall include:
+	•	injunctive relief;
+	•	restoration of functionality;
+	•	civil liability;
+	•	attorney’s fees and costs.
+
+Standing shall be broad, including owners, independent repairers, and downstream users.
+
+⸻
+
+8. Construction and Lock Status
+
+This Article shall be construed broadly in favor of repair, durability, and user autonomy, and narrowly against enclosure, dependency, or post-sale domination.
+
+The right to repair, maintain, and sustain lawfully owned goods is structural and non-derogable and may not be suspended by emergency, trade agreement, administrative convenience, or technological design.
+
+⸻

@@ -1,0 +1,109 @@
+Article XXXI-A — Covert Defensive Action (CDA) Exception
+
+Charge
+Foreign adversaries do not respect law, rights, or restraint. The Republic therefore retains a minimal capacity for covert defensive action when open means cannot prevent catastrophic harm. This power is exceptionally dangerous. This Article authorizes a single, tightly chained exception for strictly extraterritorial defense, and it forbids domestic direction, political use, and influence operations against the People.
+
+Legal Text
+
+Section 1. Exclusive Exception; Relationship to Article XXXI
+This Article creates the sole constitutional exception by which the Republic may authorize covert defensive action beyond ordinary foreign intelligence collection and analysis. Any covert action not authorized in strict compliance with this Article constitutes unlawful covert military action and undeclared warfare under Article XXXI.
+
+Section 2. Strict Preconditions for Authorization (All Must Be Met)
+CDA may be authorized only when all of the following conditions exist simultaneously:
+
+a. Imminent Existential Threat.
+Clear and convincing evidence establishes that a foreign actor (state or non-state) is actively planning or executing actions that would likely cause catastrophic loss of life, sovereignty, or constitutional continuity within the Republic.
+
+b. Exhaustion of Open Alternatives.
+The threat cannot be neutralized in time through diplomacy, sanctions, criminal process, overt military action, or public alliances and defensive measures.
+
+c. Written Presidential Finding.
+The President shall issue a written finding that states:
+1. the specific threat and supporting evidentiary basis;
+2. the open alternatives considered and why each is insufficient in time;
+3. the precise operational objective and limiting principles;
+4. the necessity of covert means;
+5. the legal basis under this Constitution and implementing law.
+
+d. Unanimous Legislative Oversight Authorization.
+A standing Covert Oversight Committee shall unanimously approve the authorization by secure vote. The Committee shall consist of:
+1. the Speaker of the House;
+2. the Senate Majority Leader;
+3. the House Minority Leader;
+4. the Senate Minority Leader;
+5. the Chair and Ranking Member of the House Intelligence Committee; and
+6. the Chair and Ranking Member of the Senate Intelligence Committee.
+The Legislature may refine titles to match its internal structure, but it shall preserve bipartisan parity and leadership representation.
+
+e. Concurrent Constitutional Certification.
+The Constitutional Judicial Commission and the Constitutional Review Court shall concurrently certify, on the record, that:
+1. the preconditions in this Section are satisfied;
+2. the action is strictly extraterritorial;
+3. the action does not violate inviolable rights; and
+4. the authorization is narrowly tailored to the stated objective.
+
+Section 3. Absolute Limits on Scope (Lock-Protected)
+The following limits are absolute, non-derogable, and lock-protected:
+
+a. Defensive Purpose Only.
+CDA shall serve only to prevent or neutralize an imminent existential threat to the Republic. CDA shall not pursue economic gain, ideological export, punitive adventurism, humiliation, or chaos for its own sake.
+
+b. No Regime Change; No Covert War-Engineering.
+CDA shall not include regime change, assassination as policy, territorial acquisition, proxy-war engineering, or the deliberate destabilization of foreign societies, except where the certified operational objective requires a narrowly tailored defensive action to stop the imminent existential threat.
+
+c. Strict Prohibition on Domestic Direction.
+CDA shall not be conducted:
+1. on Republic soil;
+2. against any citizen or lawful resident, anywhere;
+3. for any internal matter, political purpose, or domestic law-enforcement substitute; or
+4. through domestic propaganda, psychological operations, narrative-shaping, or influence operations directed at the People.
+Any attempt to direct CDA domestically constitutes a grave constitutional offense under Article VII, with personal liability and no immunity as provided by law.
+
+d. No Compelled Private Intermediary Censorship or Manipulation.
+No authority may use CDA, or any secrecy associated with it, to compel moderation, censorship, deplatforming, payment-rail denial, or communications throttling against lawful domestic speech or association.
+
+e. Minimal Footprint; Least Intrusive Means.
+CDA shall use the smallest number of Republic personnel and the least intrusive means consistent with the certified objective. Where feasible, the Republic shall prefer lawful host-nation cooperation or allied assistance over unilateral footprint expansion.
+
+Section 4. Duration; Renewal; Termination
+a. Authorization Term.
+An authorization expires ninety (90) days after issuance.
+
+b. Renewal.
+Renewal requires the full process in Section 2, including an updated written finding, updated evidence, and renewed concurrent certification.
+
+c. Termination Duty.
+The President shall terminate a CDA operation promptly when the existential-threat predicate ceases, when open alternatives become sufficient, or when continuing action would violate Section 3.
+
+Section 5. Records, Review, and Controlled Disclosure
+a. Operational Record.
+For each CDA authorization, the Executive shall maintain a classified record sufficient for meaningful review, including objectives, legal basis, approvals, and material actions taken.
+
+b. Post-Action Review.
+Within sixty (60) days after conclusion or expiration, the Covert Oversight Committee, the Constitutional Judicial Commission, and the Constitutional Review Court shall conduct a documented compliance review.
+
+c. Public Accounting.
+The Committee shall publish an annual public report stating, at minimum, the number of CDA authorizations and general categories of existential threat addressed, with redactions limited to demonstrable and specific risks to active sources, methods, or ongoing protection of life.
+
+d. Declassification Clock.
+Records relating to each CDA authorization shall be declassified and publicly released after five (5) years, except portions whose continued classification the Constitutional Review Court re-certifies as necessary to prevent demonstrable and specific harm to active sources, methods, or lives. The Court shall specify the narrowest withheld scope and shall impose a renewed re-certification interval.
+
+Section 6. Committee Vetting, Conflicts, and Anti-Capture
+a. Vetting and Clearance.
+Committee members shall undergo constitutionally required clearance and counterintelligence vetting under standards set by law, subject to review by the Constitutional Judicial Commission.
+
+b. Conflicts and Recusal.
+A member shall recuse upon any material conflict of interest, foreign entanglement, or personal stake relevant to the authorization. The Committee shall document recusals and shall maintain continuity of unanimous approval through an alternate process defined by law that preserves bipartisan parity and prevents single-party control.
+
+c. Security Discipline.
+Committee deliberations shall occur in secure facilities under rules that prevent recording, device presence, and unauthorized disclosure. Knowingly unauthorized disclosure of CDA operational details that creates a material risk to life, active sources, or ongoing defensive operations constitutes a grave offense under Article VII.
+
+Section 7. Public Responsibility Without Operational Exposure
+a. No Standing Doctrine of Plausible Deniability.
+The Republic shall not maintain a standing doctrine that denies responsibility for constitutionally authorized CDA.
+
+b. Acknowledgment Upon Exposure.
+If a CDA operation becomes publicly exposed with credible attribution, the President shall, within thirty (30) days, acknowledge that the Republic authorized action under this Article, while preserving sources and methods as necessary and subject to the declassification clock in Section 5.
+
+Section 8. Lock Protection; Voidness; Personal Accountability
+This Article, including its preconditions and absolute limits, is lock-protected under Article XV at the highest threshold. Any purported authorization or action that fails any precondition, violates any absolute limit, or evades the review and disclosure duties is void. Responsible persons shall face personal liability and penalty as provided in Article VII, without immunity, and no pardon shall issue for domestic direction of CDA or for knowing evasion of the lock-protected limits.

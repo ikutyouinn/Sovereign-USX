@@ -86,6 +86,8 @@ The Constitutional Review Court exercises original jurisdiction over constitutio
 (b) Appellate Review
 Final judgments and orders of the Constitutional Review Court are subject to appellate or discretionary review by the Supreme Court of the Republic as provided by this Constitution. The Supreme Court may affirm, reverse, remand, or modify such determinations, but shall not exercise original jurisdiction over matters assigned in the first instance to the Constitutional Review Court except where expressly authorized herein. A judgment of the Constitutional Review Court shall be final if the Supreme Court declines review.
 
+Where the Supreme Court is evenly divided, the CRC judgment shall stand as binding disposition of the constitutional question presented, but shall not create Supreme Court precedent.
+
 (c) No Advisory or Subordinate Function
 The Constitutional Review Court does not act in an advisory capacity to the Supreme Court, nor does it issue opinions by referral for the purpose of assisting Supreme Court deliberation. Each court shall exercise its own constitutionally assigned jurisdiction independently and without subordination, subject only to the appellate authority of the Supreme Court as provided herein.
 

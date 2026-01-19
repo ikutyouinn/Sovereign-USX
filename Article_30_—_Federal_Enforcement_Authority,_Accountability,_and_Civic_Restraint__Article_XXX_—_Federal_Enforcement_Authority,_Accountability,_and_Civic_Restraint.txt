@@ -84,6 +84,7 @@ d. operate as a self-funding or self-justifying institution.
 
 Revenue enforcement exists to uphold law, not to terrorize the citizenry or sustain itself.
 No property shall be seized or forfeited absent criminal conviction of the owner for the offense giving rise to such forfeiture.
+Administrative forfeiture, civil forfeiture proceedings absent conviction, and any seizure mechanism designed to bypass criminal adjudication are prohibited.
 
 Section 6. Assistance to State and Local Authorities
 
@@ -105,6 +106,7 @@ c. independent audit of practices, outcomes, and algorithmic systems;
 d. review by the Constitutional Review Court without deference where constitutional rights are implicated.
 Secret law, undisclosed enforcement programs, unaccountable task forces, and opaque automated decision systems are prohibited.
 Where recording technology is reasonably available, failure to record custodial encounters shall create a rebuttable presumption against admissibility and trigger mandatory review.
+A demonstrable pattern of unrecorded custodial encounters where recording equipment was reasonably available shall constitute presumptive institutional abuse.
 
 Section 8. Oaths and Ethical Obligation
 
@@ -116,8 +118,8 @@ c. to respect the dignity and rights of all persons;
 d. to act in accordance with conscience and moral responsibility.
 
 The oath may acknowledge a higher moral authority according to the individual’s conscience, provided no religious test is imposed and no belief is compelled.
-
 No oath shall bind enforcement personnel to unlawful orders.
+Refusal to execute unlawful orders shall not constitute grounds for discipline, termination, retaliation, adverse assignment, denial of promotion, or any other career penalty.
 
 Section 9. Individual Accountability
 
@@ -139,7 +141,7 @@ c. include auditable human-in-the-loop oversight, with final decisions reserved 
 d. prohibit automated actions that deprive liberty or property without due process.
 
 No such system may operate as a black box resistant to meaningful review.
-
+No referral, flag, or anomaly designation may be used to harass, retaliate against, burden, sideline, or discipline any personnel absent independent probable cause and documented human justification.
 Violations trigger suppression of evidence and mandatory suspension of the system. Such suppression and suspension shall be ordered by the Constitutional Review Court upon petition by any affected person, the CJC, or the Legislature.
 
 Section 10A. Prohibition on Digital Entrapment and Manufactured Radicalization
@@ -193,6 +195,7 @@ Where such conditions are found, the CJC may petition the Constitutional Review 
 (c) preservation and disclosure of records;
 (d) disqualification of officials;
 (e) Tier-Three remedies under Article VII.
+Upon petition by a defined threshold of Civic Citizens, the Constitutional Judicial Commission shall evaluate allegations of systemic abuse or institutional failure and, where substantiated, shall certify such findings and initiate review or dissolution proceedings consistent with this Article.
 
 
 Section 11. Leadership Tenure, Rotation, and Cooling Periods

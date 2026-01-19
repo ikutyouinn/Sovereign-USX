@@ -1,0 +1,145 @@
+Article L — Transitional and Implementation Provisions
+
+Section 1. Continuity of Law and Governance
+Upon ratification of this Constitution, all existing laws, regulations, offices, courts, and governmental actions shall remain in force to the extent they do not conflict with this Constitution, until amended, repealed, or replaced in accordance herewith.
+
+No existing authority shall acquire new powers by virtue of this transition.
+
+Section 2. Immediate Supremacy and Judicial Review
+This Constitution shall take immediate effect upon ratification.
+
+Any law, order, regulation, or governmental action inconsistent with this Constitution shall be void to the extent of such inconsistency.
+
+Courts and review bodies shall give priority to resolving constitutional conflicts arising during the transition, subject to the default-to-liberty and anti-paralysis rules of Article 0.
+
+Section 3. Provisional Operation of Institutions
+Where this Constitution establishes new courts, commissions, or offices, such bodies shall be constituted as expeditiously as practicable.
+
+Until formally constituted:
+	•	essential review functions shall be exercised by existing courts of general jurisdiction,
+	•	subject to the limits, timelines, and liberty-preserving rules of this Constitution.
+
+No provisional body may claim permanence or authority beyond this Section.
+
+Section 4. Timetable for Institutional Formation
+Within 90 days of ratification:
+	•	the Constitutional Review Court and Constitutional Judicial Commission shall be constituted;
+	•	procedures for elections, appointments, and confirmations required by this Constitution shall be initiated.
+
+Within 180 days:
+	•	all constitutionally mandated institutions shall be operational;
+	•	conflicting legacy structures shall be dissolved or harmonized.
+
+Failure to meet these deadlines shall not delay or suspend the operation of this Constitution.
+
+Section 5. Elections and Democratic Legitimacy
+Where elections are required to constitute new offices or chambers, such elections shall be held at the earliest practicable date consistent with orderly administration.
+
+Incumbent officeholders shall serve only in a caretaker capacity until successors are selected under this Constitution, and shall not exercise extraordinary, emergency, or expansionary powers during the transition absent express authorization herein.
+
+Section 6. Emergency Powers During Transition
+No emergency, continuity, or necessity doctrine may be invoked solely by reason of transition.
+
+Any invocation of emergency authority during the transition shall comply fully with Articles XLVI and XLVI-A, and shall not be justified by institutional incompleteness, administrative inconvenience, or uncertainty.
+
+Section 7. Sunset of Transitional Authority
+All transitional authorities, provisional arrangements, and caretaker powers shall expire automatically one year after ratification, unless expressly continued by constitutional amendment.
+
+Upon expiration, full constitutional order shall be deemed restored, and no transitional justification shall have legal force.
+
+Section 8. Grandfathering of Prior Public Service and Citizenship Qualifications
+
+During the transitional period, public service rendered in good faith to a prior sovereign state or lawful government shall be recognized, for purposes of citizenship qualification, civic service credit, and eligibility under this Constitution, as equivalent to comparable service rendered to the Republic, provided that the individual poses no significant security threat.
+
+Such recognized service may include, but is not limited to:
+	•	military service,
+	•	civil defense or emergency service,
+	•	law enforcement service,
+	•	public health service,
+	•	or other lawful governmental service performed under a recognized authority.
+
+Recognition under this Section shall apply only where:
+	1.	the service was lawful under the authority then governing;
+	2.	the individual did not knowingly participate in war crimes, crimes against humanity, or grave violations of fundamental rights;
+	3.	the individual affirms allegiance to this Constitution and renounces any incompatible sovereign obligation; and
+	4.	competent authorities determine, through a fair and timely process, that the individual does not present a material threat to the security or constitutional order of the Republic.
+
+No person shall be denied recognition solely on the basis of nationality, former citizenship, or service to an allied, neutral, or successor state.
+
+Recognition of prior service under this Section:
+	•	shall not confer immunity for unlawful acts;
+	•	shall not excuse misconduct reviewable under this Constitution; and
+	•	shall not create entitlement to office, rank, or command absent compliance with the ordinary requirements of this Constitution.
+
+This Section shall be construed liberally in favor of continuity, fairness, and social stability during transition, while preserving the Republic’s right to exclude persons who pose a demonstrable threat.
+
+Section 9. Transitional Constitutional Review and Normalization
+
+During the transitional period, the Constitutional Review Court (CRC) shall have primary jurisdiction to review, certify, harmonize, or invalidate preexisting laws, regulations, and governmental actions for conformity with this Constitution.
+
+To prevent paralysis, backlog, or indefinite delay during transition:
+	•	Priority Review.
+All constitutional questions arising from preexisting law shall receive priority review, subject to the default-to-liberty, anti-paralysis, and time-limit rules of Article 0.
+	•	Temporary Expansion of Review Capacity.
+For the duration of the transition only, the CRC may be augmented by a Temporary Constitutional Review Panel (“Super CRC”), constituted solely for the purpose of expediting normalization of legacy law.
+	•	Composition and Limits.
+The Temporary Constitutional Review Panel shall:
+	•	consist of additional judges or jurists meeting the qualifications for CRC service;
+	•	operate under the same ethical, procedural, transparency, and conflict-of-interest rules as the CRC;
+	•	possess no authority beyond constitutional conformity review; and
+	•	dissolve automatically upon expiration of the transitional period.
+	•	Authority and Effect.
+Decisions of the Temporary Constitutional Review Panel shall have the same legal force as CRC decisions, subject to consolidation, rehearing, or reversal by the full CRC in accordance with this Constitution.
+	•	No Emergency Bypass.
+The existence of transitional backlog, institutional incompleteness, or administrative burden shall not justify bypassing CRC review, invoking emergency authority, or suspending constitutional safeguards.
+	•	Sunset.
+All temporary review authority under this Section shall expire automatically at the conclusion of the transitional period, and no such authority may be renewed except by constitutional amendment.
+Section 9-A. Prioritization and Public Triage
+
+During the transitional period, the CRC shall operate a published triage system for normalization of legacy laws, regulations, and governmental actions.
+
+(a) Categories.
+Reviews shall be classified and processed by urgency:
+1. High Priority: matters affecting life, liberty, bodily autonomy, property, due process, speech, association, surveillance, emergency powers, or any LOCK-protected provision.
+2. Medium Priority: structural, fiscal, institutional, or economic measures with substantial public impact.
+3. Low Priority: administrative or procedural provisions with minimal rights impact.
+
+(b) Transparency.
+The CRC shall publish triage criteria, workload statistics, and progress reports at least annually, subject only to narrow operational redactions.
+
+Section 9-B. Temporary Scaling and Delegation
+
+(a) Super CRC Confirmation.
+The Temporary Constitutional Review Panel (“Super CRC”) may be used to expedite normalization and shall dissolve automatically at the end of transition.
+
+(b) Size Cap and Sunset.
+The Super CRC shall not exceed double the ordinary CRC review capacity and shall sunset earlier if backlog falls below a statutory threshold.
+
+(c) Delegation of Low-Priority Matters.
+Low-priority legacy reviews may be delegated to State Supreme Courts under CRC-issued standards, with CRC oversight and final review available upon petition or contest.
+
+Section 9-C. Optional AI-Assisted Triage
+
+Audited artificial systems may be used only to assist screening, sorting, and conflict-flagging of legacy laws.
+No artificial system may issue binding decisions, certify constitutionality, or substitute for human judicial judgment.
+All dispositive actions shall be made by human judges or jurists subject to the ordinary rules of this Constitution.
+
+Section 9-D. Timelines and Default Rule for Legacy Enforcement
+
+(a) Review Deadlines.
+Legacy matters shall be resolved within:
+1. two (2) years for High Priority;
+2. five (5) years for Medium Priority;
+3. such longer period as law may allow for Low Priority, provided that no Low Priority provision may be used to burden LOCK-protected rights during delay.
+
+(b) Default-to-Liberty for Legacy Law.
+If a legacy law burdens a LOCK-protected right or core structural safeguard and is not certified for conformity within the applicable deadline, it becomes unenforceable upon expiration of that deadline until and unless the CRC certifies conformity.
+
+(c) Evidence Capture Protected.
+Nothing in this Section shall criminalize or suppress good-faith documentation of crime, abuse, or public corruption, including capture and submission of evidentiary material, subject to narrow victim-protection and access-control rules.
+
+Section 10. Interpretation
+This Article shall be interpreted narrowly.
+
+Its sole purpose is to enable orderly transition into constitutional governance, not to authorize deviation from it.
+

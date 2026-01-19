@@ -1,4 +1,4 @@
-ARTICLE XXXIX — RIGHT OF ACCESS TO PUBLIC RECORDS AND THE PUBLIC MINISTRY OF RECORDS
+Article XXXIX — Right of Access to Public Records and the Public Ministry of Records
 
 Charge
 
@@ -69,6 +69,14 @@ Fees shall not be imposed except to recover reasonable and actual costs of dupli
 
 The Republic shall encourage redundancy, independent preservation, and distributed access as safeguards against capture, destruction, or institutional failure.
 
+Section 5-A. Curricular and Academic Transparency as Public Records
+
+All curricular standards, frameworks, approved instructional materials lists, textbook adoption decisions, accreditation criteria used for public eligibility, educator training guidance issued or funded by the Republic, and all non-exempt communications and rubrics that materially influence public education content shall constitute public records and shall be proactively published in accessible, searchable form.
+
+The Republic and the states shall publish provenance and version history for such materials, including dates of revision, authorship or sponsoring bodies, and stated objectives. The Republic shall not use outsourcing, intermediaries, or private contractors to evade disclosure or to launder policy objectives into “academic” or “professional” guidance without constitutional accountability.
+
+Any person shall have standing to compel disclosure and to challenge non-disclosure, redaction abuse, or procedural delay under this Article.
+
 Section 6. Remedies, Standing, and Accountability
 
 Any person denied access in violation of this Article shall have standing to seek expedited judicial relief.
@@ -84,6 +92,32 @@ No public record shall be destroyed, altered, or retroactively classified for th
 Historical records shall be preserved in accordance with law. Destruction of records may occur only pursuant to lawful retention schedules or judicial order.
 
 The Republic shall not use complexity, procedural delay, or classification creep to defeat the presumption of openness.
+
+Section 7-A. Clarifications on Preserved Materials; Regulated Access
+
+(a) No Destruction-by-Offense or Illegality
+Preservation duties under Section 7 apply regardless of whether the material is offensive, unlawful to possess absent authorization, or depicts criminal conduct. The Republic shall not destroy, suppress, or refuse archival lodging solely on that basis.
+The Republic may impose lawful seizure, chain-of-custody controls, and evidentiary quarantine to prevent tampering, protect victims, or prosecute crime, but shall preserve the material where preservation remains feasible.
+
+(b) Age-Gating and Context Controls Are Not Censorship
+The Republic and the states may restrict access to preserved materials depicting sexual acts, extreme violence, or criminal conduct by age, purpose, and context, including supervised viewing, credentialed research access, restricted facilities, redaction of identifiers, or controlled digital access.
+Such restrictions shall not constitute censorship, suppression, or destruction when the Republic preserves the underlying material for lawful review, accountability, scholarship, and historical record, and uses the least restrictive means consistent with protecting minors, victims, and public safety.
+
+Section 7-B. Regulation of Exploitative Commercial Obscenity and Violent Fetish Production
+
+The Republic and the States may regulate or prohibit the commercial production, sale, and distribution of lewd, lascivious, or vulgar material where the production or distribution is exploitative, coercive, materially harmful, or inseparable from criminal conduct. This authority includes material produced by digital fabrication or artificial intelligence where the work is designed to normalize, encourage, or facilitate exploitation, trafficking, sexual violence, or the abuse of children. Any regulation under this Section shall be narrowly tailored, shall state objective elements, and shall not reach noncommercial speech that documents events as they occurred, except as strictly necessary to protect victims and minors.
+
+Section 7-C. Protected Documentation of Crime, Abuse, and Public Corruption
+
+No law shall criminalize the good-faith recording, possession, or publication of audiovisual material for the purpose of documenting crime, abuse of authority, or matters of substantial public concern, where the recorder did not materially participate in planning, soliciting, financing, or directing the underlying criminal act. Recording and publishing an ordinary public disturbance, including a fight, shall remain lawful. Recording a serious crime to expose wrongdoing, including official concealment, shall remain protected, subject to narrowly tailored victim-protection rules.
+
+Material that depicts sexual exploitation of children shall not be publicly distributed. The law shall protect good-faith capture and possession for evidentiary purposes and shall protect prompt submission to law enforcement, courts, or accredited investigative channels under controlled procedures, including protective orders, redaction, and restricted access.
+
+Section 7-D. Preservation, Controlled Access, and Forensic Use of Regulated Material
+
+Any material lawfully seized, surrendered, or obtained as evidence under this Article, including regulated commercial obscene material and exploitative productions, shall be preserved for forensic analysis, crime profiling, and scientific study while it retains evidentiary, investigative, or scientific value. The Ministry of Records shall maintain secure archival custody, with chain-of-custody logging and strict access controls. Access shall be limited by age, credential, purpose, and supervision, and shall use the least restrictive controls consistent with victim protection and public safety.
+
+When such material no longer retains evidentiary, investigative, or scientific value, the law may authorize destruction only by court order after notice, public logging, and certification that destruction will not impair any pending investigation, appeal, or bona fide research need. Destruction under this Section shall never serve ideological convenience, reputational protection, or political interest.
 
 Section 8. Construction
 

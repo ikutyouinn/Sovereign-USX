@@ -1,0 +1,59 @@
+Article XXVII-A — Plain-Language Law and Public Comprehension
+Charge
+A free People must be able to read the law and know what it requires, what it forbids, and what it allows.
+This Republic shall not govern by obscurity, technical maze, or elite language.
+Section 1. Right to Understand the Law
+The People have the fundamental right to understand the laws that govern them.
+The Republic shall not use unnecessary complexity, elite language, technical obscurity, or procedural barriers to evade public understanding, accountability, or the sovereignty of the People.
+(cross-reference: Article I §1; Article 0 §4.2; Article XI)
+Section 2. Plain-Language Requirement
+All laws, regulations, executive orders, judicial rules, and other binding legal instruments shall be drafted in clear, plain language.
+A reasonable person with an eighth-grade education shall be able, on first reading and without specialized assistance, to understand from the operative text:
+	•	what the law requires;
+	•	what the law forbids;
+	•	who is subject to it; and
+	•	the consequences of violation.
+
+The drafting and intelligibility standards of Article XXVII-A apply to all binding instruments under this Section.
+
+Section 3. Structure and Drafting Duties
+Every person or body authorized to draft binding legal text has an affirmative fiduciary duty to:
+	•	prefer common words over jargon;
+	•	eliminate unnecessary legal or technical terms;
+	•	define any required technical term clearly and immediately upon first use;
+	•	employ short sections, descriptive headings, numbered or bulleted lists, and tables where appropriate;
+	•	collocate each duty, prohibition, deadline, exception, and penalty with the rule that triggers it; and
+	•	express every rule in direct, active voice that identifies the actor and the precise conduct required or forbidden (e.g., “A person shall…” or “No entity may…”).
+Section 4. Limited Use of Complexity
+Complexity may be used only when strictly necessary to achieve a legitimate legal purpose that cannot be accomplished through plain language.
+Where complexity is used, the drafter shall:
+	•	state the necessity in plain language within the text itself; and
+	•	immediately provide a plain-language restatement that a reasonable person can follow in good faith. Necessity shall be proven by clear and convincing evidence if challenged under this Article.
+Section 5. No Excuse of Expertise
+No official, agency, court, or other public actor may defend, enforce, interpret, or uphold a binding legal rule on the ground that the public cannot reasonably understand it.
+Expert assistance in drafting is permitted, but expertise shall never substitute for or override the People’s right to comprehend the law.
+Section 6. Official Plain-Language Summary
+Every enacted law or binding regulation shall include an official plain-language summary that accurately reflects its legal effect.
+The summary shall, at minimum, identify:
+	•	the persons and entities covered;
+	•	the duties imposed and acts prohibited;
+	•	the key deadlines, thresholds, exceptions, and conditions; and
+	•	the civil, criminal, administrative, or other consequences of violation. The summary is not binding law and shall not replace the operative text, but it shall guide good-faith compliance and may be relied upon in defenses against penalties for non-willful violations.
+
+The summary is not binding law and shall not expand the operative text or create new obligations, penalties, or exceptions.
+
+A person may reasonably rely on the official summary as evidence of good-faith understanding, and such reliance shall bar penalties for non-willful violations unless the Republic proves actual notice and intentional evasion.
+
+Section 7. Construction Against Unnecessary Complexity
+In cases of genuine ambiguity arising from unnecessary complexity or failure to comply with this Article, courts shall construe the provision:
+	•	against the drafter and the Republic; and
+	•	in favor of individual liberty, public understanding, and the sovereignty of the People. (cross-reference: Article 0 §2 — In Dubio Pro Libertate; Article 0 §4.2)
+When the Republic seeks to impose punishment, civil penalty, or other deprivation under a rule alleged to violate this Article, the Republic bears the burden to prove—by clear and convincing evidence—that the rule is sufficiently clear to permit reasonable understanding and fair notice.
+Section 8. Remedy for Material Violation
+A court may suspend enforcement of any law, regulation, or binding rule that materially violates this Article until the Republic rewrites it in conformity with plain-language requirements.
+Material violation exists when unnecessary complexity or non-compliance substantially impairs a reasonable person’s ability to understand core obligations, prohibitions, or consequences.
+Upon suspension, the court shall issue written findings identifying:
+	•	the specific passages or features that violate this Article; and
+	•	the minimum corrections required to cure the violation. Suspension shall not apply to emergency enforcement necessary to prevent imminent and specific harm to life or physical safety, but the Republic shall rewrite the rule at the earliest practicable time. The Constitutional Review Court shall have original jurisdiction over challenges alleging violations of this Article, subject to appellate or discretionary review by the Supreme Court of the Republic. (cross-reference: Article 0-B §2 — Mandatory Triggering Rules)
+Section 9. Lock Protection (Optional – if you want supermajority safeguards)
+This Article is lock-protected under Article XV. Any amendment, repeal, suspension, or reinterpretation requires the supermajority procedures specified therein.

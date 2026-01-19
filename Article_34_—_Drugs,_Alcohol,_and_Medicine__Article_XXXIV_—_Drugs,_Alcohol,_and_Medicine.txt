@@ -14,6 +14,62 @@ No substance, treatment, or intervention shall be prohibited solely on grounds o
 
 Public safety shall be secured through disclosure, education, purity, and accountability — not blanket prohibition or artificial scarcity.
 
+
+Section 1A. Recovery-First Care; Prohibition on State Street Enablement
+
+Drug policy shall address substance use disorder with medical rigor, fairness to the public, and a clear aim of reducing dependency, preventing death, and restoring lawful, stable participation in civil life.
+
+a. Recovery-First Purpose
+Public programs concerning addiction shall be structured to reduce dependency, prevent death, and promote recovery and reintegration, rather than to normalize, subsidize, or perpetuate public intoxication.
+
+b. Prohibition on Government Street Enablement and Government Dispensary Functions
+The Republic and the States shall not operate, fund, advertise, or administer any Street Enablement Program. Without limitation, the Republic and the States shall not distribute intoxicating or dependence-forming substances, nor distribute Use-Paraphernalia, for Off-Site Use or other non-therapeutic private consumption.
+
+This prohibition bars the government from acting as a dispensary for non-therapeutic consumption. It does not bar private entities from selling lawful goods under general law, including needles or substances not deemed too dangerous, nor does it bar licensing, inspection, taxation, or regulation of such private activity.
+
+Terms in this Section shall have the meanings given in Article 0.
+
+This subsection does not restrict prescription or issuance of medical devices or medications for Therapeutic Administration or other medically indicated treatment as defined in Article 0.
+
+c. Protected Medical Care
+Nothing in this Section restricts legitimate medical care. Licensed medical facilities and licensed clinicians may provide evidence-based treatment for substance use disorder, including medically supervised withdrawal, detoxification, tapering, medication-assisted treatment, and sedation when clinical judgment determines sedation is necessary and the least harmful option for safety or stabilization.
+
+d. Controlled Setting Requirement
+Nothing in subsection (b) prohibits therapeutic administration within a Controlled Setting. Where the Legislature authorizes publicly funded addiction-related services involving controlled substances or Use-Paraphernalia, such services shall occur only in a Controlled Setting, with clinical supervision, controlled access, secure storage, and secure disposal adequate to prevent diversion and to protect public order.
+
+e. Evidence-Based Clinical Exception; Narrow Tailoring
+The Legislature may authorize limited facility-based programs when high-quality evidence shows such programs reduce death or severe harm and improve recovery outcomes compared to a hard abstinence-only protocol. Such programs shall be narrowly tailored, audited, and shall not include take-home distribution unless issued as medical treatment by a clinician acting within lawful scope of practice.
+
+f. Research Pilots; Sunset; Termination Triggers
+The Legislature may authorize time-limited research pilots for disputed or emerging interventions. Each pilot shall include clear outcome metrics, independent evaluation, a fixed sunset, and termination triggers if the program increases public disorder, increases dependency, increases overdose, or fails to outperform the comparator standard of care.
+
+g. Public Order and Shared Space
+The Republic and the States shall protect the public’s right to safe and usable streets, parks, transit, and neighborhoods. Open consumption of intoxicants in Public Space may be prohibited by law, and enforcement shall prioritize diversion to stabilization and treatment rather than punitive measures for mere status.
+
+h. Emergency Measures Preserved
+This Section does not restrict emergency overdose reversal, acute medical stabilization, contamination alerts, truthful risk education, or other measures aimed at preventing immediate death while routing persons toward treatment and recovery.
+
+i. Enforcement
+Claims alleging operation or funding of a prohibited Street Enablement Program shall be justiciable, with standing and remedies governed by Article VI-A (Courts, Jurisdiction, and Remedies) and Article VI-E (Transparency, Standing, and Records). Implementing law shall provide expedited review.
+Section 1B. Enforcement and Remedies for Section
+
+(a) Standing.
+Any resident of the Republic, any affected local government, and the Attorney General shall have standing to seek injunctive relief to halt any Government Dispensary Function or Street Enablement Program prohibited by this Article. The Legislature may define additional standing by petition threshold for Civic Citizens.
+
+(b) Expedited Review; Injunction Standard.
+Courts shall provide expedited review for claims under this Section. Upon a prima facie showing that a prohibited program operates or receives public funds, courts shall enjoin continuation pending full adjudication unless the government proves compliance by clear and convincing evidence.
+
+(c) Funding Consequences; Contract Remedies.
+Any public expenditure made in violation of this Article is unlawful. Courts may order termination of contracts, rescission of grants, suspension of disbursements, and recovery of unlawfully expended funds, together with such further relief as is necessary to prevent recurrence.
+
+(d) Accountability.
+Any public official who knowingly authorizes, directs, or materially facilitates a prohibited program commits an offense as defined by law. Good-faith reliance on written clinical protocols within a Controlled Setting, and compliance with independent audits, constitutes a rebuttable defense.
+
+(e) Audit and Public Reporting Duty.
+Any publicly funded addiction-related program shall publish periodic outcome and spillover reports using standardized metrics, including recovery outcomes and Public Disorder Metrics, sufficient for independent review. The Legislature shall require independent evaluation for any program operating under an evidence-based exception or research pilot.
+
+(f) Whistleblower Protection.
+No employee or contractor shall be punished for good-faith reporting of violations of this Article. Retaliation is prohibited and punishable as defined by law.
 Section 2. Evidence-Based Classification of Substances
 
 All substances regulated under this Article shall be classified by objective risk and demonstrated harm, not ideology, origin, or historical stigma.

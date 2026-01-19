@@ -1,16 +1,13 @@
 Article XLII — Freedom of Communication
 
 Charge
+The modern censorship regime is tyranny in digital form: surveillance that chills speech, compelled platform control that launders censorship through intermediaries, and pretextual regulation—invoking safety, democracy, or stability—to govern discourse rather than conduct.
 
-The modern censorship regime is tyranny in digital form—a sprawling apparatus of surveillance, compelled platform moderation, encryption sabotage, and pretextual control that chills expression before it is even spoken. Governments increasingly seek to govern not conduct, but discourse itself, laundering censorship through private intermediaries while invoking safety, democracy, or stability as justification.
+When the State claims authority over truth, liberty collapses. Mass surveillance breeds self-censorship; compelled moderation converts private platforms into instruments of control; and “misinformation” becomes a weapon to silence dissent instead of confront error.
 
-History teaches that when the State claims authority over truth, liberty collapses. Mass surveillance breeds self-censorship; compelled moderation converts private platforms into instruments of control; and “misinformation” becomes a weapon to silence dissent rather than confront error. The result is not safety, but conformity—enforced not by law alone, but by fear.
+Free societies depend on the ability of individuals to speak, listen, assemble, and associate without permission. Encrypted and anonymous communication is not a threat to self-government; it is a prerequisite for it.
 
-Free societies have always depended on the ability of individuals to speak, listen, assemble, and associate without permission. Encrypted and anonymous communication is not a threat to democracy; it is a prerequisite for it. When citizens must identify themselves to speak, or fear surveillance to communicate, self-government becomes impossible.
-
-This Republic rejects the censorship state in all its forms. It rejects prior restraint, compelled mediation, mass surveillance, and backdoor control disguised as regulation. It affirms that criminal acts may be punished—but that communication itself shall not be pre-emptively governed, filtered, or coerced.
-
-We choose an abundance of ideas over an enforced scarcity of truth. Let the People speak, listen, organize, and decide—freely, openly, and without fear. A Republic that cannot communicate freely cannot remain free at all.
+This Republic rejects prior restraint, compelled mediation, mass surveillance, and encryption sabotage. Criminal acts may be punished, but communication itself shall not be pre-emptively governed, filtered, or coerced. Let the People speak, listen, organize, and decide—freely and without fear.
 
 Section 1. Broad Protection of Communication
 
@@ -73,6 +70,50 @@ The following shall never justify restraint, surveillance, or compelled mediatio
 	•	“Hate” or offensive expression absent direct, imminent threats;
 	•	Public order, democratic stability, foreign influence, or ideological harm;
 	•	Health, safety, or national security narratives lacking individualized warrants and evidence.
+Section 7B. Prohibition on Speech-Crimes of Mere Dissent
+
+(a) Core Rule.
+No law shall criminalize, penalize, or create civil disability for speech or expressive conduct solely because it:
+    1. criticizes, condemns, mocks, or satirizes the Republic, a State, any public institution, any public officer, any political party, or any public policy;
+    2. disputes official narratives, official statistics, official communications, or claims of governmental legitimacy, competence, or morality; or
+    3. expresses opposition to war, military action, foreign policy, policing, taxation, regulation, or any other exercise of public power.
+
+(b) Forbidden Labels and Vagueness.
+No person shall be prosecuted or punished under vague, elastic, or status-based speech categories, including “discrediting,” “fake news,” “harmful misinformation,” “anti-state propaganda,” “extremism,” “radicalization,” “hate,” or similar labels, unless the State proves each element of a defined criminal offense with particularity under subsection (c).
+
+(c) Narrow Exception for Direct Criminal Instrumentality.
+Speech may be restricted or punished only where the government proves, by clear and convincing evidence:
+    1. specific intent (mens rea) to cause or materially facilitate a defined criminal act;
+    2. a direct and proximate causal connection between the expression and that criminal act; and
+    3. imminence and likelihood of the criminal act, not speculative or generalized risk.
+Mere falsity, error, controversial opinion, moral offense, institutional embarrassment, or political inconvenience shall never suffice.
+
+(d) Prior Restraint and Orders.
+No injunction, censorship order, compelled deletion, compelled labeling, or compelled mediation may issue against lawful political communication. Any order targeting specific expression shall be narrowly tailored to prevent a proven, particularized criminal act, and shall state written findings on intent, imminence, and causation.
+
+(e) Construction.
+Ambiguities in speech-restricting laws shall be construed against the State. The burden rests on the State to prove the narrow exception; the presumption favors free expression.
+This subsection does not bar prosecution of underlying crimes; it bars punishment based on label absent proof of defined criminal elements.
+
+Section 7C. Prohibition on “Foreign Agent” and “Undesirable” Stigma Regimes
+
+(a) Core Rule.
+No person, association, publisher, platform, charity, newsroom, academic institution, or civic organization shall be designated, labeled, registered, or burdened as a “foreign agent,” “foreign-influenced,” “undesirable,” “enemy of the people,” or similar stigmatizing status by reason of foreign contact, foreign funding, cross-border affiliation, international speech, or political viewpoint.
+
+(b) Due Process Threshold.
+The State may impose narrowly tailored disclosure or registration duties only upon conviction (after trial and appeal) for a specific crime involving:
+    1. espionage; or
+    2. knowing direction or operational control by a foreign state in the commission of defined criminal acts.
+Financial support, donations, grants, or association alone shall not satisfy this threshold absent proof of knowing criminal coordination.
+
+(c) No Compelled Disclaimers; No Forced Self-Denunciation.
+The State shall not compel any person or entity to append government-scripted labels, disclaimers, warnings, or “agent” markings to lawful speech, publications, websites, broadcasts, or communications. The State shall not require routine public self-identification that predictably chills lawful political participation.
+
+(d) No Administrative Suppression by Designation.
+No designation, listing, or administrative finding may be used to deny banking, payment rails, hosting, domain services, employment, licensing, education access, permits, or access to public venues for lawful speech and association, absent conviction for a defined crime and individualized judicial findings of necessity.
+
+(e) Remedies and Oversight.
+Any person subject to attempted designation or compelled labeling under this Section shall have immediate standing for expedited injunctive relief. Courts shall presume irreparable harm from compelled stigma or chilled political speech.
 
 Section 8. Remedies and Standing
 
@@ -82,42 +123,30 @@ Section 9. Construction
 
 This Article shall be interpreted to favor maximum freedom of communication, least-restrictive means, and individualized, judicially supervised enforcement. It shall be read in harmony with Article XXVI (Charter of Inviolable Rights) and shall not be suspended by emergency declaration, administrative necessity, or indirect coercion.
 
-Article XLII — Lock-Protected Provisions
+Section 10. Lock-Protected Provisions
 
-(Pursuant to Article XV)
+Pursuant to Article XV (Amendment and Lock Clauses), the following provisions of Article XLII — Freedom of Communication are designated Lock-Protected Provisions. No law, regulation, emergency order, administrative act, or judicial reinterpretation shall amend, repeal, suspend, derogate from, or narrow these provisions except through the supermajority procedures and safeguards specified in Article XV.
 
-Pursuant to Article XV (Amendment and Lock Clauses), the following provisions of Article XLII — Freedom of Communication are hereby designated Lock-Protected Provisions. These provisions may not be amended, repealed, suspended, or reinterpreted except by the supermajority procedures and safeguards specified in Article XV.
-
-🔒 
-Section 1 — Broad Protection of Communication
-
+1. Section 1 — Broad Protection of Communication
 Lock Scope: Entire Section.
+Rationale: To permanently secure the freedom of speech, expression, press, assembly, petition, and all forms of communication, including electronic, encrypted, anonymous, and broadcast forms, against abridgment by statute, regulation, technological control, or administrative practice.
 
-Rationale:
-To permanently secure the freedom of speech, expression, press, assembly, petition, and all forms of communication—including electronic, encrypted, anonymous, and broadcast forms—against abridgment by law, technology, or administrative practice.
-
-🔒 
-Section 2 — No Prior Restraint; No Compelled Mediation
-
+2. Section 2 — No Prior Restraint; No Compelled Mediation
 Lock Scope: Entire Section.
+Rationale: To permanently prohibit prior restraint and compelled censorship, moderation, amplification, demotion, labeling, or mediation of lawful communication, except pursuant to specific judicial orders addressing proven, particularized criminal harm.
 
-Rationale:
-To permanently prohibit prior restraint and compelled censorship, moderation, amplification, demotion, labeling, or mediation of lawful communication, except pursuant to specific judicial orders addressing proven, particularized criminal harm.
-
-🔒 
-Section 3 — Encryption, Anonymity, and Private Association
-
+3. Section 3 — Encryption, Anonymity, and Private Association
 Lock Scope: Entire Section.
+Rationale: To permanently protect the right to private, encrypted, and anonymous communication and association, and to forbid encryption backdoors, key escrow, mandatory identification to speak, real-name requirements, or systemic weakening of privacy and security for the general public.
 
-Rationale:
-To permanently protect the right to private, encrypted, and anonymous communication, and to forbid encryption backdoors, key escrow, mandatory identification to speak, real-name requirements, or systemic weakening of privacy and security for the general public.
-
-🔒 
-Section 7 — Prohibited Pretexts
-
+4. Section 7 — Prohibited Pretexts
 Lock Scope: Entire Section.
+Rationale: To permanently bar censorship, surveillance, compelled mediation, or indirect suppression justified by generalized or pretextual claims, including misinformation, hate, public order, democratic stability, foreign influence, health, or national security, absent individualized criminal acts supported by evidence and judicial process.
 
-Rationale:
-To permanently bar censorship, surveillance, or compelled mediation justified by generalized or pretextual claims—including misinformation, hate, public order, democratic stability, foreign influence, health, or national security—absent individualized criminal acts supported by evidence and judicial process.
+5. Section 7B — Prohibition on Speech-Crimes of Mere Dissent
+Lock Scope: Entire Section.
+Rationale: To permanently forbid criminalization, penalty, or civil disability for speech based solely on dissent, criticism, or dispute of official narratives, and to prevent vague speech-crime labels from substituting for defined criminal elements.
 
-
+6. Section 7C — Prohibition on “Foreign Agent” and “Undesirable” Stigma Regimes
+Lock Scope: Entire Section.
+Rationale: To permanently forbid compelled stigma, registration, or administrative suppression of lawful speakers and organizations based on foreign contact, funding, or viewpoint, and to prevent designation-based denial of essential services absent conviction for defined crimes with full due process.

@@ -4,7 +4,7 @@ Section 1. General Rules
 Unless the context clearly requires otherwise: 
 	•	Terms defined in this Article apply throughout the Constitution. 
 	•	Terms defined in specific Articles shall have the meaning given there when used in that Article or in closely related provisions. 
-	•	In case of conflict between a general definition and an article-specific definition, the Article-specific definition controls. 
+	•	Where a term defined in this Article is reproduced elsewhere, Section 5.5 governs.
 	•	Words importing the singular include the plural, and vice versa. 
 	•	Words importing the masculine include the feminine and neuter. 
 	•	The present tense includes the future tense where context permits. 
@@ -14,51 +14,211 @@ Unless the context clearly requires otherwise:
 	•	No interpretation shall give effect to evasive structuring, nominal compliance, or formalism designed to defeat constitutional purpose.
 	•	No interpretation shall give effect to collusion, tacit coordination, proxy action, or public-private concerted conduct designed to suppress lawful rights, lawful competition, or constitutional accountability; courts shall treat such conduct as constitutionally void, regardless of nominal legality.
 Section 2. Consolidated Defined Terms
-(Alphabetical Order)
-	•	Beneficial ownership — Direct or indirect control, equity, coordination, or decision-making power, evaluated by substance over form (Articles IX, XVII). 
-	•	Civic Citizen — A full participant in the political sovereignty of the Republic, earned through verified service, competence, and sworn loyalty as defined in Article III (eternally locked per Article XV). 
+	•	Beneficial ownership — Direct or indirect control, equity, coordination, or decision-making power, evaluated by substance over form, including control by contract, debt leverage, proxy voting, board capture, veto rights, or coordinated action (Articles IX, XVII).
+	•	Causation (for Evil Designation) — “Causation” means a demonstrated causal connection between the conduct and the Serious Harm, proven by competent evidence.
+	•	Civic Citizen — A lawful resident recognized as holding baseline political authority (1× Civic Standing) after satisfying the prerequisites of Article III, including passing the Civic Competence Exam and swearing any required oath; eligible to participate in the franchise as defined in Article III. Article III is lock-protected under Article XV.
+	•	Civic Competence Exam — A rigorous, AI-administered test of constitutional knowledge, logic, fallacy detection, and manipulation resistance required for baseline Civic Citizenship (Article III-A).
+	•	Civic Standing - The verified civic weight used only for political authority (baseline 1√ó plus earned points), earned prospectively under Article III, non-transferable, and subject to reduction or forfeiture only as expressly provided. "Civic Multiplier" is a legacy synonym and shall be treated as identical to Civic Standing (Article III).
+	•	Coercive rituals — “Coercive rituals” means practices that involve: 1. physical injury, 2. sexual exploitation, 3. confinement, 4. forced ingestion, 5. or credible threats of harm, and shall not include voluntary cultural, religious, or symbolic practices. (Cross-reference: Article II.)
 	•	Coercion — Physical, psychological, economic, social, spiritual, ideological, or immigration-based pressure that materially impairs free consent or free exercise of constitutional rights. (Cross-references: Articles XXXIII, XXXIV, II §0(e)) 
 	•	Collusion — Any knowing or reckless coordination, inducement, or concerted action between any public actor (including any office of public trust, agency, delegate, contractor, or agent) and any private actor that has the purpose or reasonably foreseeable effect of suppressing lawful rights, lawful competition, lawful entry, lawful innovation, or constitutional accountability, including by tacit coordination, proxies, or procedural laundering (Articles X, XI, XXVII, XXX, XLII).
 	•	Concerted conduct — Coordinated or mutually reinforcing action by two or more actors, whether express or tacit, formal or informal, direct or by proxy, including parallel conduct where independent justification is lacking.
 	•	Constitutional Judicial Commission (CJC) — The independent constitutional body charged with protecting the integrity, independence, continuity, and anti-capture safeguards of the judicial and constitutional system.
 	•	Constitutional Review Court (CRC) — The specialized constitutional court with original jurisdiction to adjudicate the constitutionality, validity, and legal effect of laws, executive actions, emergency declarations, and constitutional amendments as assigned herein. Decisions of the Constitutional Review Court shall be final unless accepted for appellate or discretionary review by the Supreme Court of the Republic, or unless the Constitutional Review Court certifies that a matter presents complexity, novelty, or institutional consequence requiring full appellate consideration.
+	•	Controlled Setting — “Controlled Setting” means a Licensed Medical Facility or a specifically licensed clinical site that provides continuous supervision, controlled access, secure storage, secure disposal, and documented clinical protocols sufficient to prevent diversion and to protect public order. 
 	•	Corporation — Any for-profit or nonprofit legal entity recognized by law, existing solely by privilege and not as a natural or moral person (Article XVII). 
 	•	CRC–CJC Separation Rule — The Constitutional Review Court and the Constitutional Judicial Commission are distinct and non-substitutable constitutional bodies. No power granted to one may be exercised by the other unless this Constitution expressly so provides. Where ambiguity exists, interpretive authority belongs in the first instance to the CRC, subject to appellate or discretionary review by the Supreme Court of the Republic, and institutional-integrity authority belongs to the CJC.
 	•	Crime — Conduct expressly prohibited by law enacted in conformity with this Constitution and accompanied by a defined penalty (Article VII). 
 	•	Culpable inaction — Knowledge of foreseeable, material harm combined with a failure to act where action was reasonably possible constitutes culpable wrongdoing.
+	•	Dangerous ideological indoctrination — “Dangerous ideological indoctrination” means the intentional conditioning of persons, especially minors or dependents, through coercion, isolation, or psychological manipulation, to compel unlawful violence, self-harm, or surrender of autonomy. It shall not include peaceful teaching, advocacy, religious instruction, political belief, or dissent. (Cross-reference: Article II.)
 	•	Demographic Engineering — Any deliberate policy, incentive structure, coercive measure, or combination thereof intended to alter the composition, fertility rates, cultural character, or demographic balance of the population for ideological, political, economic, or electoral purposes. (Cross-references: Articles I §7, XXII, XXV, XXVIII)
-	•	Disinformation — False information disseminated with intent to defraud, incite violence, corrupt justice, manipulate markets, or endanger safety through direct causation of criminal harm (Article II).
+	•	Disinformation — False information disseminated with intent to defraud, incite violence, corrupt justice, manipulate markets, or endanger safety through direct causation of criminal harm.
 	•	Due process — Fair notice, impartial adjudication, meaningful opportunity to be heard, lawful procedure, timely resolution, and availability of effective remedy prior to any deprivation of life, liberty, or property. (Cross-references: Article XXVI; Article II §5)
+	•	Due Process and Contestability (for Evil Designation) — “Due Process and Contestability” means any designation or adjudication under the state meaning of “evil” requires timely notice of allegations, disclosure of the evidence relied upon except as strictly necessary to protect narrowly defined sensitive sources subject to judicial review, a meaningful opportunity to contest, and a right to appeal to an independent court.
+	•	Evidence-Based — “Evidence-Based” means supported by credible empirical evidence and clinical consensus adequate to justify the intervention under stated conditions, as defined by implementing law.
+	•	Evidentiary Standard and Findings (for Evil Designation) — “Evidentiary Standard and Findings” means the state may not designate or adjudicate any person or entity as “evil” for state purposes unless clear and convincing evidence proves the elements and the decision includes written findings of fact and conclusions of law; criminal liability requires proof beyond a reasonable doubt.
+	•	Evil (State Meaning) — “Evil” means culpable conduct that causes Serious Harm and satisfies at least one of the following: (a) Intentional Harm: the actor acted with the purpose to cause harm, deprivation, exploitation, or material injury, or the actor knowingly used persons as means to such harm; (b) Preventable Harm with Culpable Disregard: the actor knew, or a reasonable actor in the same position should have known, that a substantial risk of Serious Harm existed, the actor had practical means and a reasonable opportunity to materially reduce that risk, and the actor nevertheless failed to act or acted in reckless disregard of that risk; (c) System-Protected Incompetence: repeated incompetence, gross negligence, or willful blindness caused serious preventable harm, and an institution, agency, or protected network materially shielded the actor through conflict of interest, captured oversight, falsified reporting, suppression of complaints, retaliation against reporting persons, obstruction, or other deliberate insulation from accountability.
+	•	Expressive work embedded in software — Any audiovisual, textual, musical, narrative, interface, or artistic work intentionally incorporated into a software artifact for purposes of operation, interaction, presentation, or narrative function, and which is not reasonably separable without impairing faithful operation, emulation, or preservation.
 	•	Federal preemption — Any action that nullifies, displaces, overrides, or renders unenforceable state law (Article XXVIII).
 	•	Fiscal coercion — Conditional funding, threats of withdrawal, or program structures designed to create dependency or compel compliance (Article XXVIII).
 	•	Good Samaritan Aid — Voluntary, non-commercial humanitarian assistance provided to prevent immediate and serious harm to life or health (such as emergency medical care, basic sustenance, shelter from imminent danger, or rescue), without facilitating, encouraging, or enabling unlawful entry, unlawful residency, or violation of immigration law. (Cross-references: Article I §6)
+	•	Government Dispensary Function — “Government Dispensary Function” means the operation, funding, administration, or direct provision by the Republic or a State of a system that distributes, supplies, or otherwise provides substances or Use-Paraphernalia for Non-Therapeutic Consumption, including for Off-Site Use, whether free or subsidized, and whether directly or through contractors or grants. Government Dispensary Function does not include Therapeutic Administration, emergency stabilization, or facility-based clinical care under documented protocols. 
 	•	Grave offense / Tier Three offense — Conduct involving violence, predation, corruption of public trust, sexual exploitation, trafficking, or irreparable harm to persons or the Republic; synonymous with heinous crime for purposes of evidentiary admissibility, arms restrictions, and enhanced penalties. Includes but is not limited to murder, rape, molestation, human trafficking, child exploitation, or acts causing widespread or irreparable harm. (Cross-references: Article II §§2, 3; this Article)
 	•	Heinous Crime / Heinous Criminal — Synonymous with Grave Offense / Tier Three offense. Conduct involving extreme violence, predation, corruption of public trust, sexual exploitation, trafficking, or irreparable harm to persons or the constitutional order, as expressly listed or reasonably analogous to murder, rape, molestation, human trafficking, child exploitation, or comparable acts of severe moral and physical predation. (Cross-references: Article II §§2, 3; Article VII)
-	•	High-stakes decision — Decisions involving significant treasury deployment, identity rules, safety policy, constitutional change, or other matters expressly designated by this Constitution or by statute enacted pursuant to it as high-risk. 
-	•	Horizon (governance chambers, if adopted) — A distinct standpoint of interest and proof, such as Labor, Affected Public, Stewards, Capital, or Commons.
+	•	High-stakes decision — Decisions involving significant treasury deployment, identity rules, safety policy, constitutional change, or other matters expressly designated by this Constitution or by statute enacted pursuant to it as high-risk.
+	•	High-Quality Evidence — “High-Quality Evidence” means evidence meeting pre-defined methodological standards, such as randomized controlled trials, strong quasi-experimental designs, or systematic reviews of such studies, with outcomes and limitations disclosed, as defined by implementing law.
+	•	Horizon (governance chambers, if adopted) — A distinct standpoint of interest and proof, such as Labor, Affected Public, Stewards, Capital, or Commons. Neutrality and Non-Establishment (for Evil Designation) — “Neutrality and Non-Establishment” means the state meaning of “evil” uses secular, measurable criteria and does not require or presume any supernatural claim; the state may not base any designation on viewpoint, party, creed, or identity, and the state may base any designation only on proven conduct and proven harms.
 	•	Imminent and Specific Risk / Imminent and Specific Harm — A credible, individualized threat of serious physical, sexual, or lethal harm that is likely to occur within seventy-two (72) hours absent intervention, supported by clear and convincing, particularized evidence rather than generalized or speculative concern. (Cross-references: Article II §§2A, 4A, 5A)
 	•	Imminent Threat of Grave Harm (for sentencing, pretrial detention, or temporary protective measures) — A credible, individualized threat of Grave offense-level harm likely to occur within a short timeframe (presumptively 72 hours to 30 days absent intervention), supported by clear and convincing evidence of specific intent, capability, and opportunity. Temporary, judicially ordered measures (e.g., extreme risk protection orders or emergency holds) may be imposed only upon such a finding, with strict time limits, adversarial hearing, and restoration pathway. (Cross-references: Article II §§2A, 3(e), 5A; this Article)
-	•	Lawful Resident — Any natural person lawfully present within the territory of the Republic, including: (a) Civic Citizens, (b) non-civic citizens (whether by birth or naturalization), and (c) individuals holding valid temporary or permanent residency status under law. Excludes persons present unlawfully. (Cross-references: Article I §§5–6; Article II §1; Article XXV)
+	•	Intoxicating or Dependence-Forming Substance — “Intoxicating or Dependence-Forming Substance” means any substance that materially impairs cognition or function, induces intoxication, or presents substantial risk of dependence, addiction, or compulsive use, as defined by law. For purposes of Drug Policy, the term includes substances classified as Tier II or Tier III under Article XXXIV, and includes any Tier I substance when used for Non-Therapeutic Consumption or when designated by law under objective criteria.
+	•	Jubilee — “Jubilee” means a periodic, legally mandated reset or relief mechanism for certain debts, obligations, or concentrated holdings, designed to prevent permanent economic bondage, extreme wealth concentration, or generational dispossession. “Jubilee” does not mean a celebration or holiday for purposes of this Constitution. A jubilee operates as a policy mechanism that may include forgiveness, cancellation, reduction, or restructuring of specified debts; release from long-term or exploitative obligations; or restoration of baseline opportunity or access, as the law defining that jubilee specifies.
+	•	Lawful Resident — Any natural person lawfully present within the territory of the Republic, including Civic Citizens and non-civic residents holding valid temporary or permanent lawful status under law. Excludes persons present unlawfully. (Cross-references: Article I §§5–6; Article II §1; Article III.)
+	•	Licensed Clinician — “Licensed Clinician” means a physician, advanced practice clinician, or other licensed professional acting within lawful scope of practice and facility protocols.
+	•	Licensed Medical Facility — “Licensed Medical Facility” means a hospital, clinic, detoxification facility, inpatient or outpatient treatment center, or other healthcare facility licensed and regulated under law to provide medical care.
 	•	Lock-protected provision — A provision designated under Article XV as requiring supermajority and special procedures for amendment, repeal, suspension, or reinterpretation.
-	•	Misinformation — False information lacking malicious intent, distinguished from disinformation (Article II).
+	•	Material violation (of plain-language requirements) — A substantial impairment of a reasonable person’s ability to understand the core obligations, prohibitions, exceptions, or consequences of a binding legal rule, such that good-faith compliance is unreasonably difficult.
+	•	Medically Supervised Withdrawal — “Medically Supervised Withdrawal” means structured withdrawal management conducted under clinical supervision to reduce risk of death or severe harm, including monitoring, supportive care, and medication when appropriate.
+	•	Misinformation — False information lacking malicious intent, distinguished from disinformation.
+	•	Non-Therapeutic Consumption — “Non-Therapeutic Consumption” means use, ingestion, inhalation, injection, or other consumption primarily for intoxication, euphoria, recreation, or non-medical effect, or outside the direction of a Licensed Clinician and outside documented clinical protocols. Non-Therapeutic Consumption includes Off-Site Use not issued as medical treatment by prescription or direct clinician order.
+	•	Off-Site Use — “Off-Site Use” means consumption or use occurring outside a licensed medical facility or other Controlled Setting authorized by law, including in any Public Space or in a private location not under clinical supervision.
 	•	Office of public trust — Any public office, authority, commission, or agency held as a fiduciary duty to the People and the Constitution (Article XI).
-	•	Pretextual Coercion — Any indirect pressure, manufactured or exaggerated emergency, regulatory complexity, conditional benefit/withdrawal scheme, fiscal incentive, procedural barrier, or other mechanism designed to achieve an end that would be unconstitutional if imposed directly, or to impair free consent where consent is constitutionally required. (Cross-references: Article 0-B; Article II §0(e); Articles XXII, XXXIII, XXXVIII)
+	•	Plain language — Language that is clear, concise, and understandable to a reasonable person on first reading, using common words, short sentences, active voice, and logical structure, without unnecessary jargon or complexity.
+	•	Pretextual coercion — Any indirect pressure, manufactured or exaggerated emergency, regulatory complexity, conditional benefit/withdrawal scheme, fiscal incentive, procedural barrier, or other mechanism designed to achieve an end that would be unconstitutional if imposed directly, or to impair free consent where consent is constitutionally required. (Cross-references: Article 0-B; Article II §0(e); Articles XXII, XXXIII, XXXVIII)
+	•	Public Ministry of Records — The constitutional body responsible for preservation and public accessibility of public records as defined in Article XXXIX.
 	•	Public record — Any record, data, document, communication, metadata, or material created, received, held, or controlled by the Republic or its agents (Article XXXIX).
+	•	Public Space — “Public Space” means any area held open to the general public or used as a common right-of-way, including streets, sidewalks, parks, trails, transit stations and stops, public parking areas, plazas, public buildings and grounds, and the common areas of publicly funded facilities, whether owned publicly or privately. 
 	•	Public stewardship / Stewardship — The fiduciary duty of officials and landholders to act solely in the interest of the People, the Constitution, and future generations, preserving resources and systems for long-term welfare (Articles I, IX, XXXVII).
-	•	Punishment — Any deprivation of liberty, property, rights, or status imposed by the State as a consequence of crime (Article VII).
+	•	Public Disorder Metrics — “Public Disorder Metrics” means measurable indicators of public harm or nuisance, including open consumption, needle litter, overdose frequency in Public Space, public intoxication complaints, violent incidents, property crime concentration, and encampment growth, as defined by implementing law.
+	•	Punishment — Any deprivation of liberty, property, rights, or status imposed by the State because of crime (Article VII).
+	•	Reasonable person — An ordinary individual of average intelligence and education (equivalent to an eighth grade reading level), familiar with everyday English but without specialized legal or technical training.
+	•	Religion and Accountability — “Religion and Accountability” means religious bodies remain independent from the state and the state remains independent from religious doctrine, and the state retains a duty to protect the innocent from fraud, coercion, abuse, and violence committed by any person or institution, including religious bodies, under neutral laws of general applicability.
 	•	Republic — The sovereign entity established by this Constitution, its institutions, territory, and the People acting in their sovereign capacity.
+	•	Research Pilot — “Research Pilot” means a time-limited, evaluated trial program authorized by law with specified metrics, independent evaluation, a sunset date, and termination triggers.
 	•	Reserved powers — All powers not expressly delegated to the federal government by this Constitution, retained by the States and the People (Article XXVIII).
-	•	Civic standing — Eligibility to participate in governance, earned and non-transferable (Article III).
 	•	Transparency — Timely public access to information sufficient to permit accountability, excluding only narrowly tailored operational secrecy justified by clear and convincing evidence (Articles XI, XXXIX).
+	•	Sedation for Stabilization — “Sedation for Stabilization” means clinician-directed sedation used to prevent imminent harm, treat acute agitation or medical complication, or safely stabilize a patient when less restrictive measures would likely fail, and when the clinician documents that sedation is the least harmful available option.
 	•	Severe, Dangerous Mental Illness (for purposes of arms restrictions and related liberty deprivations) — A currently active, diagnosed psychiatric condition, substantiated by clear and convincing evidence from two independent licensed medical professionals (neither employed by nor subordinate to the detaining/restricting authority), that renders the individual presently incapable of safely exercising the right in question and poses an imminent and specific risk of serious harm to self or others that cannot be mitigated by less restrictive means. Temporary or mitigated conditions do not qualify. (Cross-references: Article II §§3(b), 4A)
+	•	Serious Harm — “Serious Harm” means death, significant bodily injury, severe psychological injury, deprivation of liberty or property without due process, systemic fraud losses, material civil-rights violations, or substantial environmental or public-health injury. 
 	•	Software artifact — Any executable or interpretable digital system, including source code, compiled code, firmware, data structures, and integrated components, together with all elements intentionally incorporated for operation, interaction, presentation, or user experience.
+	•	Street Enablement Program — “Street Enablement Program” means any publicly funded or administered program whose primary purpose or predictable effect facilitates or sustains non-therapeutic intoxication or drug consumption in Public Space or by Off-Site Use, including distribution of intoxicating or dependence-forming substances for general consumption or distribution of Use-Paraphernalia for Off-Site Use.
+	•	Substance Use Disorder — “Substance Use Disorder” means a medically recognized disorder involving clinically significant impairment related to substance use, as defined by generally accepted medical standards adopted by law. 
 	•	Supermajority Rule — Unless this Constitution expressly provides otherwise, any requirement for a supermajority vote, approval, or concurrence shall require an affirmative threshold of sixty percent (60%) of the relevant body or electorate.
-	•	Expressive work embedded in software — Any audiovisual, textual, musical, narrative, interface, or artistic work intentionally incorporated into a software artifact for purposes of operation, interaction, presentation, or narrative function, and which is not reasonably separable without impairing faithful operation, emulation, or preservation.
-Section 3. Additional Notes
-Optional and Future Modules. Terms expressly marked “if adopted,” “if established,” or otherwise identified as conditional (including, by example, Horizon governance chambers) refer to optional constitutional modules or future expansions. Such terms are definitional only and shall have no operative legal force unless and until the corresponding Article, chamber, or mechanism is formally adopted in accordance with this Constitution.
+	•	Therapeutic Administration — “Therapeutic Administration” means the administration, dispensing, or supervised provision of a substance or clinical service by a Licensed Clinician acting within lawful scope of practice, pursuant to documented clinical protocols, for diagnosis, treatment, stabilization, withdrawal management, tapering, detoxification, medication-assisted treatment, Sedation for Stabilization, or other medically recognized therapeutic purpose, within a Controlled Setting or as otherwise authorized by law as medical treatment.
+	•	Tier One Disposition — A Tier One (Therapeutic Justice) placement under Article VII, Section 2(b), involving rehabilitation without incarceration through treatment, detoxification, supervised programs, restorative justice, and monitored reintegration, with escalation to Tier Two Disposition for noncompliance as Article VII provides.
+	•	Tier-One Offense — A minor offense designated Tier-One under Article VII and implementing law, generally characterized by non-violent, low-harm conduct for which proportionate sanctions may include fines, restitution, community service, short-term restrictions, diversion, or other non-carceral measures. A State may elevate an offense classification from Tier-One Offense to Tier-Two Offense by objective criteria defined by law based on repetition, organization, coordinated schemes, or demonstrated patterns of predation, applied uniformly and subject to appeal.
+	•	Tier-I Disposition — A Tier Two (Rehabilitative Incarceration) placement under Article VII, Section 2(f), involving secure and disciplined confinement with labor, education or training, restitution priority, and reform-conditioned privileges and release.
+	•	Tier-II Offense — A serious offense designated Tier-Two under Article VII and implementing law, including serious felonies involving corruption, fraud, breach of trust, or comparable severity, and which may trigger Civic Standing reduction where Article III so provides.
+	•	Tier-III Disposition — A Tier Three (Punitive Incapacitation) placement under Article VII, Section 2(g), involving harsh but not cruel confinement prioritizing permanent protection of society, denial of non-essential privileges, and exclusion of early release except under extraordinary judicial review.
+	•	Tier-III Offense — A Grave offense / Tier Three offense (synonymous with Heinous Crime) as defined herein, which may trigger full forfeiture of Civic Standing where Article III so provides.
+	•	Tier I Substance; Tier II Substance; Tier III Substance — “Tier I Substance,” “Tier II Substance,” and “Tier III Substance” have the meanings given in Article XXXIV.
+	•	Too Dangerous — “Too Dangerous” means any Tier III substance under Article XXXIV, and any Tier II substance or method of delivery designated by law as “too dangerous” under objective criteria that include overdose risk, diversion risk, lethality, impairment severity, and public-order spillover risk, with criteria and designations published and subject to audit.
+	•	Use-Paraphernalia — “Use-Paraphernalia” means items primarily designed or provided to prepare, inject, inhale, smoke, or otherwise consume intoxicating or dependence-forming substances, including needles, syringes, pipes, cookers, filters, tourniquets, and similar implements, excluding medical devices dispensed for legitimate medical treatment by prescription. 
 
-	•	This list is comprehensive based on the Articles adopted to date but is not exhaustive. 
-	•	New definitions shall be added by amendment as future Articles require. 
-	•	Interpretation principles incorporated by reference from Articles VII, XI, XXVII, XXVIII, and others apply globally unless expressly overridden.
-	•	The Consolidated Defined Terms list shall be deemed automatically supplemented by any new definitions expressly added to this Article by constitutional amendment or by legislative act ratified by a supermajority of both chambers and signed by the Executive, provided such definitions do not conflict with lock-protected provisions.
-	•	No emergency, continuity, or necessity doctrine may suspend, restrict, or interfere with the operation of the Constitutional Judicial Commission or any constitutional integrity, oversight, or anti-capture body.
+Section 3. In Dubio Pro Libertate: Default-to-Liberty on Delay, Deadlock, or Procedural Hold
+	•	Automatic Expiration of Procedural Holds
+Any temporary injunction, stay, certification delay, or review process that restrains or blocks the operation of a duly enacted law, lawful executive action, or constitutionally authorized authority shall expire automatically after sixty (60) days, unless the reviewing body issues written findings, supported by clear and convincing evidence, that continuation is necessary to prevent irreparable constitutional harm.
+	•	Effect of Expiration
+Upon expiration of such restraint, the challenged law or action shall take effect as written, and lawful residents shall regain the full exercise of any right, authority, or liberty previously restrained, pending final adjudication.
+	•	Emergency and Defense Contexts
+Where the restrained action concerns national defense, emergency response, or existential threat mitigation authorized under this Constitution, any such restraint shall expire automatically after seventy-two (72) hours, absent the findings required in subsection (1).
+	•	Deadlock and Failure to Decide
+Where the Constitutional Review Court, Constitutional Judicial Commission, Supreme Court, or any reviewing body is evenly divided, fails to reach a required supermajority, or fails to issue a timely decision within constitutionally prescribed limits, the presumption shall resolve in favor of liberty and lawful authority, and against continued restraint, delay, or nullification.
+	•	No Implied Extension of Power
+Expiration of a restraint under this Section shall not be construed as approval, endorsement, or ratification of the challenged act, but solely as restoration of liberty and lawful operation pending resolution.
+	•	Non-Waiver and Lock Protection
+The protections of this Section shall not be suspended, waived, or bypassed by emergency declaration, judicial rule, or legislative act, except by constitutional amendment consistent with Article XV.
+
+Section 4. Popular Override of Law and Judicial Doctrine
+4.1 Ultimate Popular Authority
+Civic Citizens retain the ultimate authority to approve, nullify, override, or restore governmental action taken under this Constitution, including statutes, regulations, and binding judicial holdings or doctrines, subject to the procedural safeguards herein and the lock protections of Article XV.
+
+No court or agency is required to submit any matter to referendum. Referenda occur only upon citizen initiation as provided herein.
+
+4.1A Constitutional Boundary (No Amendment by Override)
+
+No citizen-initiated override under this Section may amend, suspend, repeal, unlock, lock, reinterpret, or otherwise alter the text, structure, or legal effect of this Constitution.
+
+Any petition whose legal effect would directly alter constitutional text, constitutional structure, or lock-protected operation shall be treated as a proposed constitutional amendment or unlocking measure and must proceed exclusively under Article XV, including any heightened thresholds required for unlocking.
+
+4.2 Single-Issue Requirement
+
+Any citizen-initiated override petition shall address one discrete governmental action or legal question only, stated plainly and without aggregation, conditional language, or bundled demands.
+
+A petition that combines multiple actions, policies, or grievances shall be invalid.4.3 Threshold for InitiationA binding popular review may be triggered only upon petition by not less than twenty percent (20%) of Civic Citizens, verified within a fixed statutory period.
+
+4.4 Cooling-Off and Anti-Spam Limitation
+No substantially identical petition concerning the same governmental action may be initiated more than once within a defined cooling-off period following a failed referendum or judicial resolution.
+
+The cooling-off period shall be one hundred eighty (180) days, unless the petitioners demonstrate a material change in facts or circumstances occurring after the prior vote or resolution.
+
+A material change includes, but is not limited to:
+
+a. disclosure of previously classified or concealed information;
+
+b. evidence of fraud, misrepresentation, or bad-faith justification by public officials;
+
+c. expansion, prolongation, or material escalation of the challenged action;
+
+d. substantial deviation between stated objectives and actual conduct or outcomes;
+
+e. significant new harm to life, liberty, or national interest not reasonably foreseeable at the time of the prior vote.
+
+The certification authority shall make a threshold determination of material change solely as to form and sufficiency, not political merit.
+Mere changes in public opinion, absent new facts or circumstances, shall not constitute material change.
+
+4.5 Amendment-Grade Procedural Safeguards (Form and Disclosure)
+
+All override petitions and referenda under this Section shall satisfy the amendment-grade safeguards of Article XV concerning:
+(1) single-subject form;
+(2) a plain-language explanation of purpose and effect;
+(3) disclosure of all affected provisions, rules, tests, or doctrines; and
+(4) public deliberation safeguards.
+
+These safeguards apply regardless of whether the override affects statutory law, regulation, or judicial doctrine, but shall not be construed to impose constitutional amendment thresholds, state-ratification requirements, or unlocking procedures unless the petition triggers the Constitutional Boundary in Section 4.1A.
+4.6 Expedited Review Window; Interim Rule
+Upon certification of a valid petition, the matter shall proceed to an expedited, binding referendum within a constitutionally prescribed timeframe.
+
+Pending such referendum, the default-to-liberty provisions of this Article shall govern only as to prospective enforcement or expansion of the challenged action, unless a court finds by clear and convincing evidence that continued enforcement is strictly necessary to prevent imminent and specific harm.
+
+4.7 Outcome and Effect
+(a) Ordinary Override Threshold
+
+A referendum under this Section shall be required to meet the Supermajority Rule as defined in Article 0.
+
+No higher threshold applies under this Section unless the petition triggers the Constitutional Boundary in Section 4.1A, in which case the matter proceeds under Article XV (including the unlocking threshold where applicable).
+(b) Statutory Override Effect
+Upon adoption, the challenged statute or regulation is void and unenforceable to the extent overridden.
+
+(c) Judicial Override Effect
+Upon adoption, the challenged judicial holding, doctrine, test, standard of review, or precedent shall have no binding or precedential effect and shall not be relied upon by any court or agency.
+Affected cases shall be remanded or re-adjudicated under the remaining law and this Constitution, as applicable.
+
+(d) Lock-Protected Limitation
+No override may amend, suspend, repeal, weaken, narrow, reinterpret, or render ineffectual any lock-protected provision except by compliance with Article XV, including any heightened approval thresholds required by Article XV for lock-protected change.
+
+4.8 Protection Against Harassment of Review Bodies
+No court, commission, or review body shall be required to entertain repetitive, bad-faith, or procedurally defective citizen petitions designed primarily to obstruct governance or exhaust institutional capacity.
+Certification authorities may summarily reject petitions that fail to meet the requirements of this Section.
+Section 5. Conditional Provisions, Definitions, and Global Interpretive Safeguards
+
+5.1 Conditional and Transitional Clauses
+
+Where this Constitution uses terms such as “during transition,” “phase-in,” “temporary,” “sunset,” “until,” “unless,” or otherwise identifies a provision as time-limited or contingent on a defined condition, such language shall be construed as operative only within the stated scope and duration.
+
+No conditional or transitional clause may be construed to authorize indefinite delay, perpetual “temporary” government, or administrative suspension of constitutional rights.
+
+5.2 Global Principles of Interpretation
+
+Principles of interpretation expressly incorporated by reference from any Article shall apply globally unless expressly overridden.
+
+In cases of genuine ambiguity, delay, deadlock, procedural hold, inaction, or interpretive doubt regarding any provision, power, right, or obligation under this Constitution, interpretation shall favor:
+liberty over restraint,
+individual rights over administrative convenience,
+accountability and transparency over secrecy, and
+the sovereignty of the People over the expansion or preservation of governmental authority.
+
+Delay shall not be construed as denial of liberty. No governmental body, officer, or procedure may use inaction, procedural obstruction, or indefinite hold to impair, suspend, or defeat a constitutional right, safeguard, or duly authorized exercise of lawful power.
+
+In cases involving alleged violations of plain-language requirements, ambiguity or complexity shall be construed against the Republic and in favor of liberty and public comprehension, consistent with the In Dubio Pro Libertate principle.
+
+5.3 Definitions, Glossaries, and Supplementation
+
+The Consolidated Defined Terms list in this Article shall be deemed automatically supplemented by any new definitions expressly added to this Article by constitutional amendment.
+
+Statutes may define technical, administrative, or implementing terms for purposes of execution, provided that:
+(1) no statutory definition may conflict with this Constitution;
+(2) no statutory definition may narrow, expand, manipulate, or redefine any constitutional term in a manner that changes substantive rights, prohibitions, thresholds, caps, floors, or jurisdictional limits;
+(3) no statutory definition may introduce “newspeak,” euphemism, or ideological relabeling intended to evade accountability or alter public meaning; and
+(4) any statutory definition adopted for general public governance must be written in plain language and recorded by the Public Ministry of Records in a public glossary.
+
+Definitions adopted by statute shall be strictly construed and shall not expand substantive powers, authorities, or limitations beyond those expressly authorized by this Constitution.
+
+5.4 Anti-Paralysis and Anti-Capture Safeguard
+
+No emergency, continuity, necessity, deadlock, or procedural doctrine may suspend, restrict, delay, obstruct, or interfere with the operation of the Constitutional Judicial Commission, or with any constitutional integrity, oversight, anti-capture, or anti-collusion body established by this Constitution.
+
+Any attempt to do so—whether by inaction, pretextual procedural hold, evasion, or indefinite delay—is void ab initio and constitutes grave constitutional malfeasance.
+
+5.5 Duplicate Definitions
+
+Where a definition from this Article is reproduced elsewhere for readability, the reproduced text shall be identical; any conflict is resolved in favor of this Article.

@@ -18,8 +18,8 @@ a. a plain-language summary of its purpose and effects;
 b. a disclosure of all laws, sections, or authorities amended, repealed, or superseded;
 c. a statement of anticipated material impacts.
 
-Any provision not disclosed in the plain-language summary shall be void and unenforceable.
-
+Any duty, prohibition, penalty, or material exception that is not disclosed in the plain-language summary is void and unenforceable.
+The summary shall not expand the operative text or cure defects in the operative text, but it shall control against the Republic where a person reasonably relied on it in good faith.
 Section 2. Single-Issue and Scope Integrity
 
 No bill shall address more than one primary subject.

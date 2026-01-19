@@ -82,6 +82,8 @@ Withholding mechanisms shall be simple, reviewable, and subject to correction.
 
 No automated or algorithmic system shall impose penalties, liens, or deprivation without human review and opportunity to contest.
 
+Where civil penalties, liens, or cumulative enforcement actions exceed severity thresholds defined by law, enhanced due-process protections shall attach, including timely adjudication, proportionality review, and prohibition of indefinite or escalating civil coercion absent criminal process.
+
 ⸻
 
 Section 9. Enforcement and Severity
