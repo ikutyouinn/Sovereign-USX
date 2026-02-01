@@ -9,13 +9,23 @@ There is hereby established the Economic Constitutional Enforcement Directorate 
 The Directorate shall not be part of the Executive Branch, shall possess no independent executive or regulatory authority, and may not be merged with, absorbed by, or subordinated to any executive agency, department, ministry, or office. Any attempt to do so is void ab initio.
 ⸻
 Section 2. Strict Subject-Matter Jurisdiction (Lock-Protected)
-The Directorate’s jurisdiction is limited exclusively to alleged violations of: • Article VIII — Economic Structure and Stewardship; • Article VIII-A — Supplemental Economic Doctrines and Safeguards; • Article VIII-B — Prohibition of Predatory Economic Practices; • Article VIII-C — Systemic Confidence Exploitation.
+The Directorate’s jurisdiction is limited exclusively to alleged violations of: 
+	•	Article VIII — Economic Structure and Stewardship;
+	•	Article VIII-A — Supplemental Economic Doctrines and Safeguards;
+	•	Article VIII-B — Prohibition of Predatory Economic Practices;
+	•	Article VIII-C — Systemic Confidence Exploitation;
+	•	Article VIII-E — Concentrations of Private Power.
+Foreign-Controlled Concentrations. The Directorate’s jurisdiction extends to foreign-controlled entities and control structures that materially impact the Republic within the enumerated Articles, subject to the same evidentiary and due-process limits.
+Prioritization.
 The Directorate shall prioritize systemic, patterned, or large-scale conduct reasonably foreseeable to produce widespread economic harm, institutional capture, or parasitic wealth extraction.
+Initiation Standard; Remedy Standard.
+The Directorate may initiate inquiry upon articulable evidence suggesting a material risk of violation within its strict jurisdiction. Structural remedies and compulsory measures shall remain court-imposed only, and shall follow the proof standards required by Article VIII-E and due process.
+Objective Thresholds (Implementing Law Permitted). Implementing law may define objective thresholds and evidentiary indicators that may support initiation or prioritization of investigations, such as market-share bands, concentration indices, merger pattern indicators, or other evidence-based metrics. No such thresholds shall create irrebuttable presumptions, shall not substitute for constitutional elements or required proof, and shall remain subject to judicial review and contestability.
 The Directorate possesses no authority over ordinary commercial disputes, contract interpretation absent constitutional violation, lawful business failure, labor relations not rising to constitutional violation, taxation, rate-setting, price controls, or any matter outside the enumerated Articles.
 ⸻
 Section 3. Investigative Powers and Absolute Prohibitions (Lock-Protected)
 (a) Permitted Powers
-Subject to judicial warrant where required, the Directorate may: 1. conduct forensic accounting, financial analysis, and pattern-based investigations; 2. issue subpoenas for records, testimony, and data; 3. compel production of documents, transactional histories, and control relationships; 4. investigate successor entities, affiliates, shells, proxies, and control structures; 5. assemble evidentiary records for referral to prosecution.
+Subject to judicial warrant where required, the Directorate may: 1. conduct forensic accounting, financial analysis, and pattern-based investigations; 2. issue subpoenas for records, testimony, and data; 3. compel production of documents, transactional histories, and control relationships; 4. investigate successor entities, affiliates, shells, proxies, and control structures; 5. aggregate beneficial ownership and concerted conduct across affiliates, shells, proxies, and control structures, and treat substance as controlling over form where reasonably supported by evidence; 6. assemble evidentiary records for referral to prosecution.
 (b) Absolute Prohibitions
 The Directorate shall have no authority to: 1. issue regulations, guidance, interpretive rules, or policy directives; 2. define lawful or unlawful economic conduct beyond constitutional text; 3. impose fines, penalties, sanctions, or remedies; 4. negotiate settlements, grant immunity, safe harbors, or exemptions absent court approval; 5. suspend enforcement for policy, political, economic, or emergency reasons; 6. act as an independent prosecutor; all cases must be referred to the CJC or authorized courts.
 Any such prohibited act is void and constitutes a grave constitutional offense.
@@ -25,10 +35,11 @@ Investigations may be initiated only by: (a) referral from the Constitutional 
 The Directorate shall not self-initiate investigations absent CJC authorization.
 Investigations shall be declined where motivated by political animus, ideological bias, lawful wealth accumulation, unpopular speech, or sectoral dislike.
 All initiations shall be documented and subject to judicial review, with redaction permitted only for active investigative necessity.
+Whistleblower Submissions and Protections. The Directorate shall maintain a secure whistleblower submission channel and protective procedures as provided by law. Implementing law may authorize rewards funded only from recoveries obtained through judicial remedy and may not exceed thirty percent (30%) of such recoveries. Retaliation against whistleblowers is prohibited and actionable.
 ⸻
 Section 5. Prosecution and Judicial Remedies
 The Directorate may refer cases only to the Constitutional Review Court or courts of general jurisdiction for prosecution.
-All remedies shall be imposed by courts only and may include: • injunctive relief; • restitution and disgorgement; • clawback of unconstitutional gains; • dissolution or restructuring of offending entities; • prohibition on successor reconstitution; • referral for criminal prosecution where warranted.
+All remedies shall be imposed by courts only and may include: • injunctive relief; • restitution and disgorgement; • clawback of unconstitutional gains; • dissolution or restructuring of offending entities; • prohibition on successor reconstitution; • for digital or networked platforms, mandatory interoperability, open standards, data portability, or nondiscriminatory access rules where necessary to remedy structural harm and restore competitive conditions (cross-reference: Article VIII-E); • referral for criminal prosecution where warranted.
 The Directorate shall not decline prosecution based on entity size, economic importance, employment impact, market position, or claimed indispensability.
 “No entity is too big to comply.”
 ⸻
@@ -53,3 +64,4 @@ Section 9. Construction and Lock Protection
 This Article shall be construed strictly to enable enforcement of existing constitutional economic safeguards without creating new regulatory authority, investigative sprawl, or policy power.
 Ambiguities shall be resolved against expansion.
 Judicial subordination, strict jurisdictional limits, prohibitions on rulemaking and punishment, transparency obligations, and anti-capture safeguards are structurally locked pursuant to Article XV and may not be repealed, suspended, diluted, or reinterpreted except through the highest procedural threshold defined therein. 
+

@@ -31,9 +31,9 @@ d. Prohibition on Federal Control of Outcomes
 
 Neither Congress nor the Executive may dictate election outcomes, manipulate vote counting, interfere with lawful State administration, or delay elections except as constitutionally authorized.
 
-e. Election Oversight Tribunal
-
-A permanent, independent Election Oversight Tribunal shall:
+e. Election Oversight Tribunal (EOT)
+The EOT’s jurisdiction includes campaign finance, contribution limits, disclosure compliance, and unlawful election-influence expenditures under Article XVI-C.
+A permanent, independent EOT shall:
 	•	audit compliance with this Article;
 	•	hear procedural challenges;
 	•	certify national election integrity;
@@ -202,35 +202,75 @@ c. Prohibition on Permanent National Parties
 Permanent national or multi-jurisdictional super-parties are forbidden.
 
 d. Funding and Transparency
+Political funding and election-influence expenditures shall be governed by Article XVI-C (Campaign Integrity and Democratic Legitimacy).
 
-Political funding shall:
-	•	be limited to individual Civic Citizen contributions;
-	•	remain local or State-based;
-	•	be disclosed in real time.
+At minimum:
+	•	permitted political contributions shall be limited to individual Civic Citizen contributions as defined in Article XVI-C;
+	•	all permitted political contributions and expenditures shall be disclosed in real time; and
+	•	corporate, foreign, union, and anonymous political money is prohibited.
 
-Corporate, foreign, union, and anonymous donations are prohibited.
-
+Any construction that permits circumvention through intermediaries, parallel committees, “independent expenditures,” or functional equivalents is forbidden.
 e. Interpretation
 
 Factions may compete and coordinate temporarily. They may not entrench permanent dominance.
 
 Section 7. Election Security and Integrity
 
-a. Foreign Interference
+	•	Foreign Interference
 
 Foreign involvement in elections constitutes an attack on sovereignty.
 
-b. Cybersecurity
+	•	Cybersecurity
 
 Election infrastructure must be domestically owned, auditable, and hardened.
 
-c. Intelligence Neutrality
+	•	Intelligence Neutrality
 
 Intelligence agencies may not influence domestic political outcomes.
 
-d. Interpretation
+	•	Interpretation
 
 The Republic protects debate; it does not tolerate manipulation.
+
+Section 7A. Forfeit-to-Run for National Executive Office
+
+	•	Purpose.
+
+This Section prevents divided loyalties, neglected duties, and retaliatory leverage that may arise when an incumbent officeholder seeks the National Executive while retaining an office that can shape budgets, investigations, confirmations, or coercive governance.
+
+	•	Covered Offices.
+This Section applies to any person who, at the time of qualification, holds:
+(a) any seat in the National Legislature;
+(b) any Governorship or equivalent chief executive office of a State or Province; or
+(c) any national office designated by law as an “Executive-Sensitive Office” due to direct control over force, intelligence, revenue enforcement, prosecutions, or emergency powers.
+
+	•	Trigger: Qualified Candidacy.
+A “Qualified Candidacy” begins upon the earliest of the following:
+(a) official certification for the general-election ballot for President or Vice President by the competent body designated under the Election Code and supervised by the Election Oversight Tribunal (EOT); or
+(b) formal nomination, endorsement, or selection as the Presidential or Vice-Presidential candidate of a recognized political party under the Election Code; or
+(c) satisfaction of objective viability thresholds defined by statute, which shall include both:
+    (i) demonstrated ballot access in not fewer than ten (10) States or Provinces; and
+    (ii) demonstrated public support or fundraising above thresholds set by statute.
+No statute may define thresholds in a manner that targets named individuals or a single party, nor may a statute set thresholds so low that trivial candidacies routinely trigger forfeiture.
+
+	•	Mandatory Forfeiture.
+Upon the start of a Qualified Candidacy, the officeholder shall forfeit the covered office automatically and immediately by operation of law. The vacancy shall be filled under the ordinary vacancy rules for that office.
+
+	•	Immediate Loss of Leadership Powers Upon Declaration.
+Upon public declaration of intent to seek nomination for President or Vice President, and upon filing any required preliminary candidate paperwork, the officeholder shall:
+(a) relinquish all legislative or executive leadership posts (including chairmanships, whip roles, leadership caucus positions, and agenda control);
+(b) lose authority to initiate or control investigative subpoenas, contempt proceedings, or budgetary holds in any capacity tied to the covered office; and
+(c) enter “Campaign Leave” status as defined by statute, which shall restrict official travel, staff direction, and official communications to routine constituent services and emergency matters only.
+This subsection expires automatically if no Qualified Candidacy begins within ninety (90) days of declaration, and it may not be re-triggered more than once per election cycle for the same officeholder absent a Qualified Candidacy.
+
+	•	Anti-Circumvention.
+No officeholder may evade this Section through temporary resignation and immediate reappointment, appointment of proxies, or delegation arrangements designed to preserve effective control. Any such arrangement shall be void, and any act taken under such arrangement shall carry no legal effect.
+
+	•	Enforcement and Rapid Review.
+The Election Oversight Tribunal (EOT) shall publish determinations of Qualified Candidacy within seven (7) days of any triggering event. The EOT may require the Election Code to designate an administrative office to receive filings and compile evidence, but the EOT shall remain responsible for issuance and publication of determinations. Any affected person may seek expedited review in the Constitutional Review Court, which shall resolve the dispute within fourteen (14) days. The Court shall apply a clear-and-convincing standard for any claim that a triggering event did not occur.
+
+	•	Construction.
+This Section does not limit lawful speech, lawful criticism, or lawful oversight by any former officeholder acting as a private citizen. This Section governs officeholding and institutional powers only.
 
 Section 8. Counting, Certification, and Audit
 
@@ -284,7 +324,7 @@ Section 10. Election Crimes and Penalties
 
 a. Election Crimes
 
-Fraud, coercion, manipulation, obstruction, or certification of false results are Tier II or Tier III offenses.
+Willful evasion of campaign finance limits, disclosure requirements, or the prohibitions of Article XVI-C, when material in amount or reasonably capable of influencing an election, constitutes an election crime punishable as a Tier II offense, and escalates to a Tier III offense where the conduct involves laundering, coordinated proxy structures, organized schemes, or where investigation of any single offense reveals a pattern of materially similar violations by the same actor or coordinated group.
 
 b. Aggravated Offenses
 

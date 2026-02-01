@@ -1,18 +1,13 @@
-Article I — Principles and Nature of the Republic
+Article I — Principles of the Republic
 
 Charge
+This open-source republican Constitution is founded upon the ideals of classical liberalism, including the protection of natural rights such as freedom of speech and the right to redress grievances in government; equality under the law, including due process and the rejection of caste and elitism; and the right to expect safety and stability from government, including free and fair elections and a fair economic system.
+Natural rights are granted by Nature’s God. This Republic shall defend those rights and hold them above legislative, religious, and political whims.
+This Constitution establishes a Republic of ordered liberty devoted to fairness, openness, and accountability, with a mission to promote the evolution of technology and an ever-rising standard of living for its citizens and for mankind as a whole.
+Authority within this system is neither inherited, granted at birth, purchased, nor taken by force. Authority is earned through knowledge of the Republic’s systems, achievement, and service to the Republic.
+No institution, office, or group within the Republic may override the supremacy of this Constitution, subvert the sovereignty of the People, or abrogate any inviolable rights.
+This Article sets forth the foundational kernel of the Republic: the nature of sovereignty, the limits of power, the distinction between civil and political status, and the duties of stewardship and vigilance that bind all participants and all who wield power to serve the well-being of the Republic and the People within.
 
-The Republic is founded upon the inherent dignity, equal worth, and natural rights of all persons, which exist prior to and above government.
-
-Government is created not to grant rights, but to recognize, protect, and secure them through law, restraint, and accountable power.
-
-This Constitution establishes a Republic of ordered liberty, in which freedom is preserved by law, power is bounded by duty, and public authority exists solely to serve the People.
-
-Civic authority is not inherited, purchased, or seized, but earned through lawful participation, service, and allegiance to constitutional order.
-
-No office, institution, or majority may lawfully override the supremacy of this Constitution, the sovereignty of the People, or the inviolable rights it protects.
-
-This Article sets forth the foundational structure of the Republic: the nature of sovereignty, the limits of power, the distinction between civil and political status, and the duties of stewardship and vigilance that bind all who govern.
 Legal Text
 
 Section 1. Nature of the Republic
@@ -25,20 +20,22 @@ Government exists solely to:
 (c) provide public goods that cannot be effectively supplied by individuals or markets; and
 (d) preserve the constitutional order.
 
-Ordered liberty means liberty exercised under law, bounded by the equal rights of others, and constrained by duties of citizenship and public trust — not license, coercion, or arbitrary power.
+Ordered liberty means liberty exercised under law, bounded by the equal rights of others, and constrained by duties of citizenship and public trust. It is not a license for coercion or arbitrarily wielding power.
 
 No authority may redefine “justice,” “evidence,” “morality,” or “public good” to negate, diminish, or subordinate the rights secured by this Constitution.
+
 (cross-reference Article 0; Article II; Article XXVI)
+
 
 Section 2. Supremacy of the Constitution
 
-This Constitution is the supreme law of the Republic and binds all branches, officers, agencies, courts, subdivisions, and instrumentalities of government.
+This Constitution is the supreme law of the Republic and binds all branches, officers, agencies, courts, subdivisions, instrumentalities, and all persons acting under color of law within the Republic.
 
 Any statute, treaty, decree, regulation, ordinance, executive action, judicial doctrine, or administrative practice inconsistent with this Constitution is void and without legal force.
 
-No emergency, necessity, international obligation, or claimed sovereign immunity shall excuse noncompliance.
+No emergency, necessity, international obligation, or assertion of immunity shall be invoked to justify noncompliance with this Constitution. This Constitution grants no excuse for dereliction of any duty, limitation, or prohibition set forth herein.
 
-All public officials owe primary allegiance to this Constitution and are personally accountable for acts taken in violation of it.
+All public officials owe primary allegiance to this Constitution and are personally accountable for acts taken, directly or indirectly, in violation of it, including acts taken in reliance upon agency guidance, contractor direction, expert advice, custom, policy, or superior orders.
 
 Section 3. Separation of Powers
 
@@ -61,39 +58,48 @@ Section 4. Moral and Civilizational Foundation
 
 The Republic affirms that liberty cannot be sustained without respect for human dignity, historical continuity, and ethical restraint.
 
-This Constitution is informed by the accumulated moral, legal, and philosophical traditions of human civilization, including principles of justice, mercy, truth, accountability, and stewardship.
+This Constitution draws upon the accumulated moral, legal, and philosophical traditions of human civilization, including principles of justice, mercy, truth, accountability, and stewardship.
 
-Moral principles may guide law, but no moral, religious, cultural, or ideological doctrine shall be imposed by the state as a condition of legal status, civil rights, or political participation.
+Moral principles may guide law, but the State shall impose no moral, religious, cultural, or ideological doctrine as a condition of legal status, civil rights, or political participation.
 
-No religion, creed, philosophy, or belief system shall be established, endorsed, or enforced by government, nor shall belief or conscience be coerced.
+No religion, creed, philosophy, or belief system shall be established, endorsed, or enforced by government, and government shall not coerce belief or conscience.
 
-No provision of this Section shall be construed to authorize:
+This system acknowledges that many of the Republic’s inherited moral foundations were shaped by religious traditions, including those associated with Christian and Jewish ancestors. This Constitution imposes no requirement of faith. It recognizes the historical influence of religious moral thought on the development of classical liberalism and affirms that a higher moral order exists beyond the State, so that human dignity and natural rights cannot be overridden or overwritten by government.
+
+No provision of this Section authorizes:
 (a) establishment of religion;
 (b) preference for one faith, culture, or worldview over another;
-(c) civil hierarchy based on belief; or
-(d) coercion of conscience or identity.
+(c) any civil hierarchy based on belief;
+(d) coercion of conscience, identity, or worship.
 
-Courts shall construe this Section to preserve moral grounding without permitting theocracy, ideological enforcement, or cultural supremacy.
+Courts shall construe this Section to preserve moral grounding while prohibiting theocracy, ideological enforcement, and cultural supremacy.
 
 (cross-reference Article XXXII; Article II §1(a))
 
-Section 5. Civic Status and Non-Civic Citizens
+(1) Civil Standing.
+All lawful residents as defined by Article 0 possess full and equal civil standing under this Constitution.
 
-Non-civic citizens include:
-(a) persons born within the territory of the Republic;
-(b) persons born abroad to citizens of the Republic; and
+(2) Included Persons.
+Lawful residents include, at minimum:
+(a) persons born within the territory of the Republic to at least one lawful resident;
+(b) persons born abroad to a qualifying parent, as defined in Article III, and recognized as lawful residents for purposes of entry and documentation; and
 (c) all persons lawfully admitted for permanent residence.
 
-All non-civic citizens retain the full and equal protection of the Constitution, including all rights enumerated in the Bill of Rights, such as freedom of speech, religion, conscience, movement, enterprise, property, due process, and access to the courts.
-(cross-reference Article II; Article 0)
+(3) Equal Protection and Civil Rights.
+All lawful residents retain the full and equal protection of this Constitution and all rights enumerated in the Charter of Inviolable Rights, including but not limited to freedom of speech, religion, conscience, movement, enterprise, property, due process, and access to the courts.
+(cross-reference Article II; Article 0; Article III)
 
-Non-civic citizens may participate fully in civil society, culture, education, labor, association, and public discourse.
+(4) Civil Participation.
+Lawful residents may participate fully in civil society, culture, education, labor, association, and public discourse.
 
-Political authority — including the right to vote, hold public office, or exercise control over government institutions — shall be exercised only by Civic Citizens who have satisfied the service, qualification, and loyalty requirements of Article III.
+(5) Political Authority Reserved to Civic Citizens.
+Political authority—including the right to vote, hold public office, or exercise control over government institutions—shall be exercised only by Civic Citizens who have satisfied the requirements of Article III.
 
+(6) No Caste.
 Civic status is a qualification for governance, not a classification of human worth. No civil right, legal protection, or human dignity shall depend upon civic status.
 
-No person shall be deprived of civil rights, property, liberty, or legal standing on the basis of non-civic status, nor may any authority redefine or manipulate civic classifications to evade constitutional protections.
+(7) No Limbo Status; No Administrative Evasion.
+No lawful resident shall be deprived of civil rights, property, liberty, legal standing, identity documentation sufficient to prove lawful status, or access to the courts on the basis of non-civic status. Civil rights attach upon lawful residence, not upon possession of documents. No authority may redefine, narrow, expand, delay, or condition classifications of lawful residence or civic status to evade constitutional protections. Any denial, suspension, or revocation of lawful resident status shall require due process, written findings, and prompt judicial review as provided by Article II.
 
 Section 6. Rights of Unlawful Entrants
 
@@ -105,16 +111,16 @@ Persons who enter or reside unlawfully retain the right to:
 
 Unlawful entrants shall not possess political rights, shall not be counted for purposes of representation or apportionment, and shall not acquire lawful status or civic standing through executive, administrative, or political discretion alone.
 
-Any grant, denial, or regularization of status shall occur only through procedures established by law, subject to judicial review and consistent with this Constitution.
+Any grant, denial, or regularization of status shall occur only through procedures established by law, subject to Constitutional Judicial Commission and judicial review and consistent with this Constitution.
 
 Section 7. Mechanisms of Rectification
 
-A lawful and limited pathway of rectification may exist for:
+A lawful and limited pathway of rectification may be established by law for:
 (a) persons brought into the Republic as minors through no fault of their own; or
 (b) persons who demonstrate exceptional, verifiable contributions to the public welfare, national security, or civic life of the Republic.
 
 Rectification shall be:
-(a) administered by independent, non-partisan bodies;
+(a) administered through individualized determinations by independent, non-partisan bodies;
 (b) governed by objective, transparent, and measurable criteria;
 (c) subject to judicial review; and
 (d) limited in scale so as not to permit demographic engineering, political manipulation, or mass regularization.
@@ -139,10 +145,9 @@ No oath, immunity, rank, or position shall shield any person from accountability
 
 Section 9. Duty of Stewardship
 
-All citizens and all holders of public office owe a constitutional duty of stewardship over land, resources, institutions, and the public trust.
+All citizens and all holders of public office owe a constitutional duty of stewardship over land, resources, institutions, and the public trust, as defined in Article 0.
 
-Stewardship means the fiduciary obligation to preserve, maintain, and improve the long-term welfare, resilience, and continuity of the Republic for present and future generations.
-(as defined in Article 0)
+Holders of public office and any person acting under color of law additionally owe public stewardship as defined in Article 0.
 
 Neglect, waste, looting, short-term exploitation, or predatory conduct that materially weakens the Republic, degrades its resources, or undermines its institutions constitutes a breach of constitutional duty.
 

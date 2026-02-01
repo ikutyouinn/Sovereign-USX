@@ -1,4 +1,4 @@
-Article II — Rights, Liberties, And Personal Sovereignty
+Article II — Rights, Liberties, And Sovereignty
 
 Charge
 This Article defines the legal status, duties, and protections of citizenship and allegiance within the Republic. Citizenship shall constitute a binding legal relationship governed by reciprocal rights and obligations. Allegiance to the Republic shall be exclusive, voluntary, and enforceable as provided by law. All statutes and administrative actions under this Article shall be construed to preserve national sovereignty, civic responsibility, and equal application of the law.
@@ -37,7 +37,7 @@ Economic convenience, administrative efficiency, political expedience, public op
 
 (e) Anti-Evasion Rule
 
-No authority may evade the protections of this Article by reclassification, relabeling, indirect structuring, delegation, outsourcing, privatization, or Pretextual Coercion (as defined in Article 0), including but not limited to characterizing restraints as civil, administrative, medical, regulatory, protective, preventive, or non-punitive where their effect burdens liberty, bodily autonomy, movement, conscience, speech, association, or due process.
+No authority may evade the protections of this Article by reclassification, relabelling, indirect structuring, delegation, outsourcing, privatization, or Pretextual Coercion (as defined in Article 0), including but not limited to characterizing restraints as civil, administrative, medical, regulatory, protective, preventive, or non-punitive where their effect burdens liberty, bodily autonomy, movement, conscience, speech, association, or due process.
 
 Private actors acting under color of law, contract, license, delegation, algorithmic enforcement, or regulatory compulsion shall be treated as state actors for purposes of this Article.
 
@@ -165,9 +165,7 @@ Illegally obtained evidence is admissible only for heinous crimes, including mur
 Officers who unlawfully obtain such evidence shall be prosecuted separately.
 No derivative evidence, intelligence, or investigative lead obtained through unlawful access may be admitted, used, or retained, except under the heinous-crime exception of this Section.
 (b) Proportionality
-
 Intrusions must be narrowly tailored, evidence-based, and proportionate to the threat posed, and shall never be used for political, ideological, or personal retribution.
-
 (c) Lesser Offenses
 For non-heinous crimes, unlawfully obtained evidence shall be excluded.
 (d) Evidentiary Classification Lock
@@ -175,16 +173,12 @@ The classification of an offense as heinous or non-heinous for purposes of admis
 No court may expand, contract, or analogize such classification beyond the express constitutional text.
 No secret court, classified tribunal, or special national security body may alter or override this classification.
 
-
 Section 2A. Limits on Detention and Apprehension
-
 (a) Presumption of Liberty
 All persons are presumed free. Any detention, apprehension, confinement, or restraint of movement constitutes a deprivation of liberty and shall be treated as such regardless of label or asserted purpose.
-
 (b) Judicial Authorization Required
 No person may be detained or apprehended absent a judicial warrant or order supported by sworn evidence establishing individualized probable cause of a crime or, where expressly permitted, imminent and specific risk of serious harm.
 Detention may not be justified solely by immigration status, material-witness designation, risk of flight, or administrative convenience.
-
 (c) Temporary Emergency Holds
 	•	Temporary, non-consensual holds ... may occur only where: 
 	•	an Imminent and Specific Risk of serious harm (as defined in Article 0) is present; 

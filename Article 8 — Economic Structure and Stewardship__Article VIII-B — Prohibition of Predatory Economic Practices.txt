@@ -26,7 +26,7 @@ Predatory economic practices include, but are not limited to:
 	3.	Recruitment-Driven Compensation — compensation derived primarily from recruiting participants rather than from bona fide goods or services sold to end users;
 	4.	Asymmetric Entry and Exit — arrangements facilitating easy entry while imposing disproportionate penalties, forfeitures, lock-ins, or barriers to exit;
 	5.	Psychological Exploitation as a Business Model — systematic reliance on cognitive, emotional, or informational asymmetry to induce transactions adverse to participants.
-6.  Highly leveraged acquisitions — Highly leveraged acquisitions that encumber an operating enterprise with debt exceeding a constitutionally reasonable proportion of acquisition value, where such debt materially impairs productive operation, worker compensation, or long-term viability, shall be presumptively predatory.
+	6.	Highly leveraged acquisitions — Highly leveraged acquisitions that encumber an operating enterprise with debt exceeding a constitutionally reasonable proportion of acquisition value, where such debt materially impairs productive operation, worker compensation, or long-term viability, shall be presumptively predatory.
 
 ⸻
 
@@ -48,7 +48,26 @@ Substance shall control over form.
 
 ⸻
 
-Section 6. Mandatory Cooling-Off Period for High-Risk Transactions
+Section 6. Medical, Therapeutic, and Pharmacological Claims; Scientific Disclosure
+
+(a) Competent Evidence Required.
+No person or entity shall market, label, or advertise any good or service with a medical, therapeutic, preventive, or pharmacological claim unless the claim is supported by competent and reliable evidence, as defined by law.
+
+(b) Debunked or Unsupported Claims; Mandatory Disclaimer or Prohibition.
+Where competent evidence has cleanly debunked a medical claim, or where a claim lacks competent and reliable evidence, any marketing, labeling, or advertising that asserts or implies such medical effect is prohibited, or shall, at minimum, include a clear and conspicuous disclaimer, in the standardized form required by law, stating that the claim is not backed by scientific studies.
+
+(c) Homeopathic and Analogous Products.
+Products marketed as “homeopathic,” ultra-diluted, energetically imprinted, or by materially equivalent theory shall not be deemed to possess a Substantial Medicinal Purpose by claim alone. Any medical claim concerning such products shall be subject to subsections (a) and (b), and shall not be marketed to vulnerable persons in a manner that exploits dependency, desperation, or illness.
+
+(d) No Evasion by Form.
+Disclaimers, fine print, testimonials, influencer marketing, indirect suggestion, “structure/function” phrasing, or other indirection shall not be used to evade this Section where the practical effect is to induce reliance on a medical claim.
+
+(e) Construction; Relationship to Protected Expression.
+This Section regulates market conduct, consumer protection, and transactional architecture, not protected expression. Where doubt exists, the construction that most restrains exploitation and most preserves informed consent shall control.
+
+⸻
+
+Section 7. Mandatory Cooling-Off Period for High-Risk Transactions
 
 For any transaction designated by law as high-risk, including but not limited to:
 	•	timeshare interests;
@@ -64,9 +83,9 @@ a mandatory cooling-off period shall apply.
 
 ⸻
 
-Section 7. Bright-Line Presumptions
+Section 8. Bright-Line Presumptions
 
-Transactions subject to Section 6 are presumptively predatory where:
+Transactions subject to Section 7 are presumptively predatory where:
 	1.	material risks, costs, or failure rates are not disclosed prominently and in plain language;
 	2.	compensation is primarily derived from recruitment rather than end-user value; or
 	3.	exit requires forfeiture, penalty, or continued payment disproportionate to any bona fide service rendered.
@@ -75,7 +94,7 @@ Such presumptions may be rebutted only by clear and convincing evidence.
 
 ⸻
 
-Section 8. Enforcement and Remedies
+Section 9. Enforcement and Remedies
 
 Violations of this Article are actionable through:
 	•	civil enforcement;
@@ -85,12 +104,14 @@ Violations of this Article are actionable through:
 	•	prohibition on reconstitution under successor names or structures;
 	•	criminal referral where warranted.
 
+Violations of Section 6 constitute predatory economic practices per se.
+
 Arbitration clauses, choice-of-law provisions, forum selection clauses, or class-action waivers shall not bar enforcement.
 Where an enterprise enters insolvency within a defined period following extraordinary distributions to executives or controlling investors, such distributions shall be subject to mandatory clawback.
 
 ⸻
 
-Section 9. Escalation and Severity
+Section 10. Escalation and Severity
 
 Where predatory economic practices are willful, systematic, concealed, or result in widespread harm, such conduct constitutes parasitic wealth extraction and qualifies as a grave offense under Article 0.
 
@@ -100,7 +121,7 @@ No property right shall vest in proceeds derived from predatory conduct.
 
 ⸻
 
-Section 10. Interpretation
+Section 11. Interpretation
 
 This Article regulates conduct, not protected expression.
 

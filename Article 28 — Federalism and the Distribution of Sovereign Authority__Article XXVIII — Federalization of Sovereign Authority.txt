@@ -66,6 +66,32 @@ Coercive funding conditions, administrative mandates, or indirect enforcement me
 No federal funding program may be structured, conditioned, or administered in a manner that creates fiscal dependency or economic pressure so severe as to effectively coerce state compliance with federal policy.
 The mechanisms, procedures, and remedies for State interposition and nullification are governed exclusively by Article XXVIII-A.
 Voluntary participation shall be genuine, reversible, and free from punitive consequence.
+Section 6A. Agricultural Liberty and the Non-Prohibition Rule
+
+(a) Presumption of Agricultural Liberty.
+Cultivation and commerce in Crops are presumptively lawful. The Republic shall treat Crops as ordinary articles of agriculture and commerce unless and until the Republic proves otherwise under this Section.
+
+(b) Ban on Blanket Crop Prohibitions.
+No Blanket Crop Prohibition shall be enacted, enforced, or maintained by the federal government unless Congress proves, by clear and convincing evidence, all of the following:
+
+  (1) Significant Harm.
+  The Crop, by its ordinary cultivation or ordinary commercial handling, creates a genuine, direct, and material risk of serious harm to persons, public health, or cross-border stability, and the harm is not speculative.
+
+  (2) No Substantial Lawful Purpose.
+  The Crop serves no Substantial Medicinal Purpose and no Substantial Commercial Purpose.
+
+  (3) Least Restrictive Means.
+  No narrower regulatory approach can materially mitigate the proven harm, including regulation of contaminants, labeling, concentration, age restrictions, licensing of high-risk processing, impaired operation rules, anti-diversion controls, taxation parity, or targeted enforcement against specific harmful conduct.
+
+(c) No Agency-Created Crop Bans.
+No agency, court, or executive actor may create or expand a Blanket Crop Prohibition by interpretation, guidance, scheduling, classification, or enforcement practice absent a statute that satisfies subsection (b). This subsection supplements Section 4 and Section 6 of this Article.
+
+(d) Sunset and Re-Proof.
+Any federal restriction that amounts to a Blanket Crop Prohibition shall sunset automatically after five (5) years unless reauthorized by statute and re-proven under subsection (b) based on current evidence.
+
+(e) Construction.
+This Section shall be construed broadly in favor of cultivation, agricultural experimentation, and lawful commerce, and narrowly against prohibition by moral panic, political fashion, or administrative convenience.
+
 
 Section 7. Transparency of Federal–State Interaction
 

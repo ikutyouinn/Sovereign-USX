@@ -1,0 +1,58 @@
+Article XVI-D — National Executive Election Two-Stage Qualifier and Final
+
+Section 1. Offices Elected.
+The President and Vice President (collectively, the National Executive) shall be elected by the people through a two-stage national election consisting of a Qualifying Election and a Final Election, as set forth in this Article.
+
+Section 2. No Primaries; Temporary Coalitions Permitted.
+(a) The system shall not employ party primaries.
+(b) Political parties may exist, but the election of the National Executive shall operate on a candidate basis.
+(c) Temporary Coalitions may form solely for the purpose of nominating, endorsing, and supporting candidates for the National Executive, subject to the transparency and anti-circumvention rules of this Article and the Election Code.
+(d) No Temporary Coalition may exercise continuing governmental power, receive special legal privileges beyond ballot access and campaign activity, or persist beyond the term limits set by law for election administration.
+
+Section 3. Qualifying Election.
+(a) Timing. The Qualifying Election shall occur on a national date set by the Election Code, sufficiently prior to the Final Election to permit certification, debate administration, and ballot printing.
+(b) Ballot. The Qualifying Election ballot shall list all candidates for President who satisfy uniform access requirements under the Election Code.
+(c) Voting Method. The Qualifying Election shall use a single-mark plurality vote unless the Election Code adopts a ranked method for the Qualifying Election. The Qualifying Election exists to identify the top finalists, not to determine the winner.
+(d) Advancement. The Election Administrator shall certify the top four (4) Presidential candidates by total national vote as Finalists for the Final Election. The Election Code may set the number of Finalists at three (3) or five (5), but shall not set it at fewer than three (3) nor more than five (5).
+(e) Ties. Ties for advancement shall be resolved by a uniform, pre-published tiebreak procedure defined by law, which shall prioritize (i) wider geographic support across States/Provinces and (ii) higher small-donor participation, before any random method.
+
+Section 4. Final Election.
+(a) Timing. The Final Election shall occur on a national date set by the Election Code.
+(b) Ballot. The Final Election ballot shall list the certified Finalists for President and their designated Vice Presidential running mates, as permitted under Section 6.
+(c) Voting Method. The Final Election shall be decided by ranked-choice voting (instant runoff) among the Finalists, unless the Constitution elsewhere provides a different uniform method. A majority of continuing ballots shall elect the President.
+(d) Certification. The Election Administrator shall certify the winner and publish full tabulation data and audit materials pursuant to the transparency and audit provisions of this Constitution.
+
+Section 5. Major-Candidate Status and Forfeit-to-Run Trigger.
+(a) Major-Candidate Status. A person becomes a Major Candidate for purposes of officeholding restrictions upon certification as a Finalist under Section 3(d).
+(b) Forfeit-to-Run Governance. Forfeit-to-Run requirements, covered offices, anti-circumvention, and enforcement shall be governed by Article XVI, Section 7A.
+(c) Harmonization Rule. If any provision of this Article conflicts with Article XVI, Section 7A regarding forfeiture mechanics, Article XVI, Section 7A controls.
+
+Section 6. Vice President Designation; Ticket Formation; Unity Tickets.
+(a) Initial Filing. Candidates for President may file with or without a named Vice Presidential running mate for the Qualifying Election, as set by the Election Code.
+(b) Finalist Requirement. Each Finalist must designate a Vice Presidential running mate no later than a deadline set by the Election Code after certification of Finalists and before the Final Election ballot is finalized.
+(c) Unity Tickets and Mergers. Between the Qualifying Election and the Final Election, Finalists may form unity tickets through voluntary merger or endorsement arrangements, subject to the following:
+    (i) A Finalist may withdraw and endorse another Finalist.
+    (ii) A withdrawing Finalist may be named as Vice Presidential running mate for another Finalist only if permitted by eligibility rules and only by a public, filed instrument.
+    (iii) No merger may occur after the ballot finalization deadline except by withdrawal without ballot alteration.
+(d) Transparency. All unity arrangements, endorsement conditions, and coalition agreements intended to influence governance shall be published in full within forty-eight (48) hours of execution, except for narrowly defined personal security details approved by a court under strict standards.
+
+Section 7. Debates and Equal Process.
+(a) Debate Access. The Election Administrator shall host official debates for Finalists and may host debates for Qualifying candidates under uniform criteria.
+(b) Neutral Administration. Debate criteria, ballot access rules, and deadlines shall be uniform and shall not target named individuals, particular regions, or a single coalition.
+
+Section 8. Anti-Gaming and Anti-Circumvention.
+(a) No Trivial-Trigger Forfeiture. No law may cause Forfeit-to-Run by mere filing, exploratory committees, or minor candidacies. Only Finalist certification may trigger Major-Candidate Status under this Article.
+(b) Proxy Control Prohibited. No person subject to forfeiture may retain effective control of the forfeited office through appointment of proxies, conditional resignations, immediate reappointments, delegation schemes, or any arrangement designed to preserve de facto control. Such arrangements are void.
+(c) Rapid Review. Any dispute regarding finalist certification, forfeiture applicability, or deadline enforcement shall receive expedited review by the Constitutional Review Court on a strict timeline set by the Election Code.
+
+Section 9. Implementation.
+The Legislature shall enact an Election Code consistent with this Article, including ballot access, auditing, recount standards, tabulation publication, campaign transparency, coalition registration, and tiebreak procedures. No Election Code may contradict the finalist-trigger rule in Section 5(a).
+
+Section 9. Implementation.
+(a) Election Administrator. The Election Code shall establish an Election Administrator to conduct certifications, administer ballots, and host official debates under this Article, subject to audit and challenge before the Election Oversight Tribunal and expedited review in the Constitutional Review Court as provided by the Election Code.
+
+(b) Election Code Requirements. The Legislature shall enact an Election Code consistent with this Article, including ballot access, auditing, recount standards, tabulation publication, campaign transparency, coalition registration, and tiebreak procedures.
+
+(c) Non-Contradiction. No Election Code may contradict the finalist-trigger rule in Section 5(a).
+Section 10. Construction.
+This Article shall be construed to promote (i) a competitive field without spoiler collapse, (ii) transparent coalition formation, (iii) swift and auditable outcomes, and (iv) prevention of institutional sabotage through dual-role incentives, while preserving robust political speech and lawful oversight.

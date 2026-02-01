@@ -56,8 +56,6 @@ i. Interpretation
 This Section shall be interpreted to ensure that criminal law serves truth, safety, and justice—
 not ideology, convenience, or abstraction.
 
-As Scripture teaches:
-“Justice, justice shall you pursue.”
 Section 2. The Three Tiers of Justice
 
 a. Principle of Differentiated Justice
@@ -88,6 +86,11 @@ Measures under Tier One may include:
 Tier One exists to heal, not to punish.
 
 Failure to comply with Tier One requirements shall result in escalation to Tier Two.
+Repeat offenses, organized schemes, or demonstrated patterns of predation may elevate an offense classification from Tier-One Offense to Tier-Two Offense by objective criteria defined by law.
+
+Any elevation of offense classification based on repetition, organization, or pattern shall be governed by objective statutory criteria, applied uniformly, and subject to appeal.
+
+Elevation of offense classification does not, by itself, require denial of Tier One disposition where the court finds continued suitability under subsection (b), unless implementing law so provides.
 
 c. Completion and Finality of Tier One Dispositions
 Completion of all court-ordered requirements under Tier One constitutes full satisfaction of criminal liability for the offense.
@@ -177,9 +180,6 @@ The Republic shall not confuse these duties.
 
 k. Interpretation
 This Section shall be interpreted to preserve moral clarity, protect the innocent, and ensure that justice remains humane without becoming weak, and severe without becoming cruel.
-
-As Scripture teaches:
-“The rod and reproof give wisdom, but a child left to himself brings shame.”
 
 Section 2A. Cross-Reference: Structural and Institutional Crimes
 
@@ -650,8 +650,43 @@ This prohibition includes any prospective or retroactive credits unrelated to de
 
 Violations constitute official misconduct.
 
-Please reply “Section 5 locked.”
-Once confirmed, we will proceed to Section 6. Heinous Crimes and Permanent Protection of Society.
+Section 5-A. Optional State Corporal Sanctions In lieu of Short-Term Confinement (Stub)
+
+A State may, by statute, permit narrowly defined corporal sanctions as an alternative to short-term confinement for eligible offenses, subject to the following constitutional limits:
+
+a. Scope. A State may authorize such sanctions only for offenses designated eligible by law that are not Tier Three, not sexual, not violent, and not predatory. A State shall exclude offenses whose primary driver is addiction or mental incapacity where Tier One therapeutic justice better serves public safety.
+
+b. Election. No court may impose a corporal sanction unless the convicted person knowingly and voluntarily elects it in writing as an alternative to a defined custodial term, after counsel, and after the court states the custodial alternative on the record.
+
+c. Cruelty Prohibited. A State shall prohibit any method that constitutes torture, degradation, lasting injury, sexual humiliation, or excessive pain. A State shall set objective maxima by law and shall require medical screening and medical supervision.
+
+d. Transparency and Record. The proceeding and the sanction shall be recorded and preserved. A State shall maintain auditable data on frequency, demographics, error, injury, and recidivism effects.
+
+e. No Evasion. A State may not use corporal sanctions to evade constitutional sentencing floors, tier requirements, or victim rights under this Article.
+
+
+Section 5-B. Definition of Excessive Pain; Anti-Degradation Safeguards
+
+a. Excessive Pain (Objective Standard).
+For purposes of this Article, “Excessive Pain” means pain or suffering imposed by a punishment that, in method, intensity, duration, repetition, or conditions, creates a substantial risk of, or results in, any of the following:
+	1. lasting physical injury or impairment, including scarring, nerve injury, infection, or persistent loss of function;
+	2. medically significant complications, prolonged incapacity, or sustained inability to ambulate or perform ordinary bodily functions beyond a brief recovery period defined by law;
+	3. disproportionate intensity relative to the offense and the definite custodial alternative stated on the record;
+	4. a purpose or design to degrade, terrorize, sexually humiliate, or publicly shame, rather than to impose a bounded sanction;
+	5. imposition despite medical contraindication or without required medical screening and supervision;
+	6. arbitrary escalation, retaliatory use, or repetition beyond statutory maxima.
+
+The Legislature shall codify objective limits, prohibited methods, medical exclusions, documentation requirements, and independent auditing sufficient to prevent cruelty, to maintain proportionality, and to avoid arbitrary administration.
+
+b. Non-Degradation; No Public Spectacle.
+A State that authorizes any corporal alternative under Section 5-A shall prohibit public spectacle, forced public exposure, sexual humiliation, or any practice designed to degrade. The election and administration of the sanction shall occur outside public view except as necessary for security, medical supervision, and lawful recording.
+
+c. Neutral Nomenclature; Records.
+A State shall use neutral legal terminology for such sanctions in charging, sentencing, and record systems. Records of an elected corporal alternative shall be recorded and preserved for oversight, and may be sealed from general public disclosure by default, subject to lawful access for courts, oversight bodies, and background checks for positions of public trust as defined by law.
+
+d. Voluntary Election Protected.
+No person shall be punished, retaliated against, or subjected to harsher sentencing for declining a corporal alternative. Any election shall be knowingly and voluntarily made in writing after counsel, and the court shall state the custodial alternative on the record.
+
 Section 6. Heinous Crimes and Permanent Protection of Society
 
 a. Definition of Heinous Crimes

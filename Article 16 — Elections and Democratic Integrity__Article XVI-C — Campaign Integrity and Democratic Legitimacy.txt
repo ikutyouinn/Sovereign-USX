@@ -1,0 +1,105 @@
+Article XVI-C — Campaign Integrity and Democratic Legitimacy
+Charge
+Elections must reflect the considered judgment of individual Civic Citizens, not the relative financial power of persons, entities, or intermediaries. Democratic legitimacy requires that political influence be visible, accountable, and proportionate, and that campaign-finance rules cannot be evaded through parallel spending, laundering, proxies, or disguised electioneering.
+⸻
+Section 1. Principle of Electoral Integrity
+Elections shall reflect the considered judgment of individual Civic Citizens, not the relative financial power of persons, entities, or intermediaries. Electoral legitimacy requires that political influence be visible, accountable, and proportionate.
+⸻
+Section 2. Definitions and Scope
+(a) Authorized Campaign Committee.
+“Authorized Campaign Committee” means the sole campaign committee legally authorized by a candidate to raise and spend funds to influence that candidate’s election.
+(b) Election-Influence Expenditure.
+“Election-Influence Expenditure” means any payment for advertising, paid placement, paid distribution, paid amplification, paid targeting, paid production for public dissemination, or other thing-of-value exchange made for the purpose of influencing the outcome of an election, including any functional equivalent that a reasonable person would understand as intended to affect electoral choice. “Election-Influence Expenditure” excludes (1) Bona Fide Press Activity as defined in subsection (e), and (2) Uncompensated Individual Expression as defined in subsection (f), except to the extent implementing law defines narrow de minimis thresholds to prevent evasion.
+(c) In-Kind Contribution.
+“In-Kind Contribution” means any good, service, discount, labor subsidy, list, data, platform access, or non-cash benefit provided to a candidate or Authorized Campaign Committee that has material value and would otherwise require payment.
+(d) Coordinated Communication.
+“Coordinated Communication” means any communication, placement, or messaging produced, distributed, targeted, timed, or shaped in material part by consultation with, direction from, or substantial cooperation with a candidate, an Authorized Campaign Committee, or their agents.
+(e) Bona Fide Press Activity.
+“Bona Fide Press Activity” means continuous news gathering, reporting, commentary, and publication by an entity engaged in journalism as an ongoing enterprise not primarily organized for electioneering, provided that (1) the content is not purchased by, directed by, or coordinated with a candidate or Authorized Campaign Committee, and (2) any paid political placements are clearly labeled and attributed under Section 7. Bona Fide Press Activity does not include paid advertising or paid electioneering purchased or funded by the press entity itself.
+(f) Uncompensated Individual Expression.
+Uncompensated individual speech, volunteer activity, and personal political expression not involving Election-Influence Expenditures shall not be treated as prohibited spending. Implementing law may define narrow de minimis personal-expense thresholds for personal expression (such as personally produced signs or leaflets), which shall be low, non-aggregable, and may not be used as a mechanism for large-scale dissemination or paid amplification.
+⸻
+Section 3. Permissible Contributors
+(a) Natural Persons Only.
+Only natural persons eligible to vote in the relevant election may contribute financially to a candidate or the candidate’s Authorized Campaign Committee for that election.
+(b) Ban on Artificial-Entity Money.
+No corporation, association, partnership, union, trust, nonprofit, political committee, or other artificial entity may make contributions or Election-Influence Expenditures intended to influence any election at any level of government within the Republic.
+Reimbursement, straw-donor routing, or coordinated proxy financing constitutes an aggravated violation, regardless of formal donor identity.
+(c) Foreign and Non-Eligible Persons.
+No foreign person, non-eligible person, or intermediary may fund, route, reimburse, or launder any contribution or Election-Influence Expenditure.
+⸻
+Section 4. Individual Contribution Limits
+
+(a) Authorized Campaign Cost Schedule.
+For each election, the Republic shall publish an Authorized Campaign Cost Schedule that estimates the reasonable cost of a competitive campaign within the relevant jurisdiction, based on objective local factors including population served, geography, media-market pricing, and the defined campaign period. Congress shall provide by law for transparent methodology, periodic recalibration, and public audit of the schedule.
+
+(b) Objective Cap Formula Required.
+Individual contributions to any candidate or Authorized Campaign Committee shall be capped by law according to an objective formula tied to (1) the Authorized Campaign Cost Schedule for that election, (2) the population served, and (3) the duration of the campaign period.
+
+(c) Maximum Fraction Cap.
+No law may permit any individual to contribute more than one percent (1%) of the Authorized Campaign Cost Schedule to a single candidate or the candidate’s Authorized Campaign Committee for a single election; Congress may set a lower limit, and may set a higher limit up to two percent (2%) only upon public findings, supported by evidence and subject to audit, that such increase is necessary to preserve competitiveness without enabling disproportionate influence.
+
+(d) Anti-Disproportion Rule.
+No law may permit any individual to contribute an amount sufficient to exercise disproportionate influence over electoral outcomes, whether by bundling, timing concentration, reimbursement, split transactions, or coordinated routing through intermediaries.
+
+(e) Anti-Evasion.
+Implementing law shall prohibit bundling, reimbursement, straw-donor schemes, split-transaction schemes, disguised in-kind contributions, coordinated proxy financing, or materially equivalent mechanisms that circumvent this Section.⸻
+Section 5. Prohibition of Third-Party Election-Influence Spending
+(a) Candidate/Committee Exclusivity.
+No person or entity other than the candidate or the candidate’s Authorized Campaign Committee may make Election-Influence Expenditures to influence the outcome of an election.
+(b) Included Conduct.
+This prohibition includes, but is not limited to:
+  (1) so-called independent expenditures;
+  (2) paid issue advocacy intended to influence elections during defined campaign periods;
+  (3) coordinated or uncoordinated parallel paid messaging;
+  (4) paid political “education,” “voter guides,” or “get-out-the-vote” operations that function to influence electoral outcomes; and
+  (5) any functional equivalent thereof.
+(c) No Proxy Exception.
+Spending routed through vendors, consultants, nonprofits, committees, coalitions, media buys, influencer networks, shell entities, or other intermediaries remains prohibited where it functions as an Election-Influence Expenditure.
+(d) Press and Uncompensated Speech Not Converted into Prohibited Spending.
+Bona Fide Press Activity and Uncompensated Individual Expression are not prohibited by this Section. This subsection does not authorize any person or entity to purchase paid electioneering, paid amplification, or paid placement outside the candidate’s Authorized Campaign Committee.
+⸻
+Section 6. Elimination of Super PACs and Analogous Structures
+Political action committees, Super PACs, and any successor or analogous structures designed to aggregate or expend funds to influence elections are prohibited.
+Congress shall not authorize, recognize, or permit any mechanism whose primary purpose or practical effect is to circumvent contribution limits, attribution requirements, or the prohibitions of Section 5.
+⸻
+Section 7. Transparency and Attribution
+(a) Real-Time Public Disclosure.
+All permitted political contributions and all campaign expenditures by Authorized Campaign Committees shall be disclosed publicly in real time, in a standardized and machine-readable format.
+(b) Ban on Anonymous Political Spending.
+Anonymous political spending is prohibited.
+(c) Clear Attribution on Paid Communications.
+All paid political communications intended to influence elections shall clearly identify the responsible candidate or Authorized Campaign Committee, and shall disclose the payer and the platform or channel used, in the standardized form required by law.
+(d) Beneficial Ownership and Control Disclosure.
+Where an entity lawfully participates in election-adjacent activity requiring disclosure, implementing law shall require disclosure of beneficial ownership and material controllers sufficient to prevent laundering through shells or proxies.
+⸻
+Section 8. Optional Public Campaign Funding
+
+(a) Authorization.
+Congress and the States may establish public funding systems for campaigns, including matching systems, grants, vouchers, or other neutral mechanisms.
+No public funding system may be used to authorize private contributions or Election-Influence Expenditures otherwise prohibited by this Article.
+
+(b) Neutrality and Equity.
+Any public funding system shall distribute funds by neutral criteria that do not favor or disfavor candidates based on ideology, party affiliation, viewpoint, religion, or protected political expression. Distribution rules shall be equitable across similarly situated candidates.
+
+(c) Auditability and Transparency.
+Public funding eligibility, disbursement, and compliance shall be auditable, with standardized reporting and public disclosure sufficient to detect bias, fraud, or selective enforcement.
+
+(d) No Replacement of Contribution Limits.
+Public funding shall not be used to justify increasing private contribution limits beyond those permitted by this Article.
+⸻
+Section 9. Rejection of Financial Speech Equivalence
+Financial expenditure shall not be construed as speech for purposes of electoral regulation.
+Regulation of campaign finance consistent with this Article and Article XVI shall not be deemed a violation of expressive freedom.
+⸻
+Section 10. Enforcement and Penalties
+(a) Remedies.
+Violations of this Article shall be subject to: (1) forfeiture of improperly expended or received funds; (2) civil and criminal penalties proportionate to the scale, intent, concealment, and coordination of the violation; and (3) disqualification from office or candidacy where appropriate.
+(b) Aggravated Evasion.
+Intentional evasion through intermediaries, shell entities, laundering mechanisms, split transactions, straw donors, disguised in-kind contributions, or materially equivalent schemes constitutes aggravated violations. Where investigation of any single offense reveals a pattern of materially similar violations by the same actor or coordinated group, the offense shall be treated as aggravated for charging and tiering purposes under Article XVI.
+(c) Jurisdiction.
+Enforcement and adjudication shall proceed through the Election Oversight Tribunal and the courts as provided in Article XVI, with referral for prosecution where warranted.
+⸻
+Section 11. Legislative Implementation; Non-Derogation
+Congress shall enact laws to implement this Article faithfully and without material dilution.
+No statute, regulation, or judicial doctrine may nullify, evade, or substantially weaken the constraints imposed herein.

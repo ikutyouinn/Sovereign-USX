@@ -127,6 +127,7 @@ Speculative ownership shall be defined as the acquisition or retention of land o
 (c) Ownership Transparency
 All land ownership shall be transparent. Beneficial ownership must be publicly disclosed. Anonymous or nominee ownership is prohibited. Failure to disclose constitutes grounds for forfeiture.
 Any attempt to circumvent these limits through proxies, trusts, shell companies, or pretextual coercion (as defined in Article 0) is void ab initio.
+Concentrations of land ownership that function as Rent-Seeking or Shadow Government may be investigated under Article VIII-D and remedied under Article VIII-E, consistent with due process.
 (d) Interpretation
 This Section shall be interpreted to ensure that land serves families, workers, farmers, and communities before financiers and absentee interests.
 
@@ -278,7 +279,6 @@ Section 12. Article IX — Definitions and Construction
 	•	Rules of constitutional interpretation applicable to this Article are governed by Article XIX.
 	•	This Article supplements Article VIII. Where provisions overlap, the stricter stewardship, anti-monopoly, or anti-abuse rule shall govern unless explicitly stated otherwise.
 Section 13. Lock Designation
-
 Pursuant to Article XV, this Article is hereby designated as LOCK-PROTECTED. No amendment, statute, executive action, judicial doctrine, or emergency declaration may dilute, suspend, reinterpret, or circumvent the stewardship obligations, anti-speculation provisions, homesteading rights, agricultural protections, or evidentiary standards herein except through the highest procedural threshold and certification of non-diminishment.
 
 

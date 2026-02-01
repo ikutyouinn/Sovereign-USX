@@ -14,7 +14,10 @@ Unless the context clearly requires otherwise:
 	•	No interpretation shall give effect to evasive structuring, nominal compliance, or formalism designed to defeat constitutional purpose.
 	•	No interpretation shall give effect to collusion, tacit coordination, proxy action, or public-private concerted conduct designed to suppress lawful rights, lawful competition, or constitutional accountability; courts shall treat such conduct as constitutionally void, regardless of nominal legality.
 Section 2. Consolidated Defined Terms
+	•	Authorized Campaign Committee — “Authorized Campaign Committee” means the sole campaign committee legally authorized by a candidate to raise and spend funds to influence that candidate’s election, and to purchase or direct Election-Influence Expenditures on that candidate’s behalf. No person may designate more than one Authorized Campaign Committee for the same election, and no parallel committee, vendor, intermediary, or affiliate may be treated as authorized by implication. (Cross-reference: Article XVI-C.)
 	•	Beneficial ownership — Direct or indirect control, equity, coordination, or decision-making power, evaluated by substance over form, including control by contract, debt leverage, proxy voting, board capture, veto rights, or coordinated action (Articles IX, XVII).
+	•	Blanket Crop Prohibition — “Blanket Crop Prohibition” means any law, regulation, rule, order, or enforcement practice that prohibits, criminalizes, or functionally suppresses the cultivation, possession, processing, sale, transport, or ordinary commercial handling of a Crop as a class, rather than regulating specific harmful uses, contaminants, mislabeling, unsafe concentration, sale to minors, impaired operation of machinery, fraud, or other discrete harms. (Cross-reference: Article XXVIII §6A.)
+	•	Bona Fide Press Activity — “Bona Fide Press Activity” means continuous news gathering, reporting, commentary, and publication by an entity engaged in journalism as an ongoing enterprise not primarily organized for electioneering, provided that (1) the content is not purchased by, directed by, or coordinated with a candidate or an Authorized Campaign Committee, and (2) any paid political placements are clearly labeled and attributed as required by law. Bona Fide Press Activity does not include paid advertising, paid amplification, paid placement, paid targeting, or other paid electioneering purchased for the purpose of influencing an election outside a candidate’s Authorized Campaign Committee. (Cross-reference: Article XVI-C.)
 	•	Causation (for Evil Designation) — “Causation” means a demonstrated causal connection between the conduct and the Serious Harm, proven by competent evidence.
 	•	Civic Citizen — A lawful resident recognized as holding baseline political authority (1× Civic Standing) after satisfying the prerequisites of Article III, including passing the Civic Competence Exam and swearing any required oath; eligible to participate in the franchise as defined in Article III. Article III is lock-protected under Article XV.
 	•	Civic Competence Exam — A rigorous, AI-administered test of constitutional knowledge, logic, fallacy detection, and manipulation resistance required for baseline Civic Citizenship (Article III-A).
@@ -29,8 +32,10 @@ Section 2. Consolidated Defined Terms
 	•	Corporation — Any for-profit or nonprofit legal entity recognized by law, existing solely by privilege and not as a natural or moral person (Article XVII). 
 	•	CRC–CJC Separation Rule — The Constitutional Review Court and the Constitutional Judicial Commission are distinct and non-substitutable constitutional bodies. No power granted to one may be exercised by the other unless this Constitution expressly so provides. Where ambiguity exists, interpretive authority belongs in the first instance to the CRC, subject to appellate or discretionary review by the Supreme Court of the Republic, and institutional-integrity authority belongs to the CJC.
 	•	Crime — Conduct expressly prohibited by law enacted in conformity with this Constitution and accompanied by a defined penalty (Article VII). 
+	•	Crop — “Crop” means any plant, fungus, or agricultural organism cultivated, harvested, processed, stored, transported, or traded for food, fiber, fuel, medicine, industrial use, research, ornament, soil restoration, animal feed, or any other lawful purpose, including seeds, cuttings, live plants, harvested material, and derivative agricultural inputs. (Cross-reference: Article XXVIII §6A.)
 	•	Culpable inaction — Knowledge of foreseeable, material harm combined with a failure to act where action was reasonably possible constitutes culpable wrongdoing.
 	•	Dangerous ideological indoctrination — “Dangerous ideological indoctrination” means the intentional conditioning of persons, especially minors or dependents, through coercion, isolation, or psychological manipulation, to compel unlawful violence, self-harm, or surrender of autonomy. It shall not include peaceful teaching, advocacy, religious instruction, political belief, or dissent. (Cross-reference: Article II.)
+	•	Election-Influence Expenditure — “Election-Influence Expenditure” means any payment for advertising, paid placement, paid distribution, paid amplification, paid targeting, paid production for public dissemination, or other thing-of-value exchange made for the purpose of influencing the outcome of an election, including any functional equivalent that a reasonable person would understand as intended to affect electoral choice. “Election-Influence Expenditure” includes in-kind electioneering support, discounted services, subsidized labor, lists, data, platform access, or materially equivalent benefits used to influence an election, whether direct or routed through vendors, intermediaries, shells, or proxies. “Election-Influence Expenditure” excludes Bona Fide Press Activity and Uncompensated Individual Expression as defined in Article XVI-C, provided such activity is not purchased by, coordinated with, or materially controlled by a candidate or Authorized Campaign Committee. (Cross-reference: Article XVI-C.)
 	•	Demographic Engineering — Any deliberate policy, incentive structure, coercive measure, or combination thereof intended to alter the composition, fertility rates, cultural character, or demographic balance of the population for ideological, political, economic, or electoral purposes. (Cross-references: Articles I §7, XXII, XXV, XXVIII)
 	•	Disinformation — False information disseminated with intent to defraud, incite violence, corrupt justice, manipulate markets, or endanger safety through direct causation of criminal harm.
 	•	Due process — Fair notice, impartial adjudication, meaningful opportunity to be heard, lawful procedure, timely resolution, and availability of effective remedy prior to any deprivation of life, liberty, or property. (Cross-references: Article XXVI; Article II §5)
@@ -40,6 +45,7 @@ Section 2. Consolidated Defined Terms
 	•	Evil (State Meaning) — “Evil” means culpable conduct that causes Serious Harm and satisfies at least one of the following: (a) Intentional Harm: the actor acted with the purpose to cause harm, deprivation, exploitation, or material injury, or the actor knowingly used persons as means to such harm; (b) Preventable Harm with Culpable Disregard: the actor knew, or a reasonable actor in the same position should have known, that a substantial risk of Serious Harm existed, the actor had practical means and a reasonable opportunity to materially reduce that risk, and the actor nevertheless failed to act or acted in reckless disregard of that risk; (c) System-Protected Incompetence: repeated incompetence, gross negligence, or willful blindness caused serious preventable harm, and an institution, agency, or protected network materially shielded the actor through conflict of interest, captured oversight, falsified reporting, suppression of complaints, retaliation against reporting persons, obstruction, or other deliberate insulation from accountability.
 	•	Expressive work embedded in software — Any audiovisual, textual, musical, narrative, interface, or artistic work intentionally incorporated into a software artifact for purposes of operation, interaction, presentation, or narrative function, and which is not reasonably separable without impairing faithful operation, emulation, or preservation.
 	•	Federal preemption — Any action that nullifies, displaces, overrides, or renders unenforceable state law (Article XXVIII).
+	•	Fiduciary Trust — A duty-bound position of trust in which a person holds authority, discretion, or control for the benefit of another and must act with loyalty, honesty, good faith, and due care, and must avoid self-dealing, concealed conflicts of interest, and misuse of entrusted power. When this Constitution describes public office as a fiduciary trust, the beneficiary is the People and the Republic, and any breach constitutes a breach of public trust.
 	•	Fiscal coercion — Conditional funding, threats of withdrawal, or program structures designed to create dependency or compel compliance (Article XXVIII).
 	•	Good Samaritan Aid — Voluntary, non-commercial humanitarian assistance provided to prevent immediate and serious harm to life or health (such as emergency medical care, basic sustenance, shelter from imminent danger, or rescue), without facilitating, encouraging, or enabling unlawful entry, unlawful residency, or violation of immigration law. (Cross-references: Article I §6)
 	•	Government Dispensary Function — “Government Dispensary Function” means the operation, funding, administration, or direct provision by the Republic or a State of a system that distributes, supplies, or otherwise provides substances or Use-Paraphernalia for Non-Therapeutic Consumption, including for Off-Site Use, whether free or subsidized, and whether directly or through contractors or grants. Government Dispensary Function does not include Therapeutic Administration, emergency stabilization, or facility-based clinical care under documented protocols. 
@@ -52,7 +58,8 @@ Section 2. Consolidated Defined Terms
 	•	Imminent Threat of Grave Harm (for sentencing, pretrial detention, or temporary protective measures) — A credible, individualized threat of Grave offense-level harm likely to occur within a short timeframe (presumptively 72 hours to 30 days absent intervention), supported by clear and convincing evidence of specific intent, capability, and opportunity. Temporary, judicially ordered measures (e.g., extreme risk protection orders or emergency holds) may be imposed only upon such a finding, with strict time limits, adversarial hearing, and restoration pathway. (Cross-references: Article II §§2A, 3(e), 5A; this Article)
 	•	Intoxicating or Dependence-Forming Substance — “Intoxicating or Dependence-Forming Substance” means any substance that materially impairs cognition or function, induces intoxication, or presents substantial risk of dependence, addiction, or compulsive use, as defined by law. For purposes of Drug Policy, the term includes substances classified as Tier II or Tier III under Article XXXIV, and includes any Tier I substance when used for Non-Therapeutic Consumption or when designated by law under objective criteria.
 	•	Jubilee — “Jubilee” means a periodic, legally mandated reset or relief mechanism for certain debts, obligations, or concentrated holdings, designed to prevent permanent economic bondage, extreme wealth concentration, or generational dispossession. “Jubilee” does not mean a celebration or holiday for purposes of this Constitution. A jubilee operates as a policy mechanism that may include forgiveness, cancellation, reduction, or restructuring of specified debts; release from long-term or exploitative obligations; or restoration of baseline opportunity or access, as the law defining that jubilee specifies.
-	•	Lawful Resident — Any natural person lawfully present within the territory of the Republic, including Civic Citizens and non-civic residents holding valid temporary or permanent lawful status under law. Excludes persons present unlawfully. (Cross-references: Article I §§5–6; Article II §1; Article III.)
+	•	Lawful Resident — Any natural person lawfully present within the territory of the Republic, including Civic Citizens and non-civic residents holding valid temporary or permanent lawful status under law. Excludes persons present unlawfully. “Legal Resident” is a synonym and shall be construed identically. (Cross-references: Article I §§5–6; Article II §1; Article III.)
+	•	Legal Resident — “Legal Resident” is a synonym of “Lawful Resident” and shall be construed identically wherever either term appears. Any statute, regulation, policy, or practice that assigns different meanings to these terms, or uses either term to evade constitutional protections, is void.
 	•	Licensed Clinician — “Licensed Clinician” means a physician, advanced practice clinician, or other licensed professional acting within lawful scope of practice and facility protocols.
 	•	Licensed Medical Facility — “Licensed Medical Facility” means a hospital, clinic, detoxification facility, inpatient or outpatient treatment center, or other healthcare facility licensed and regulated under law to provide medical care.
 	•	Lock-protected provision — A provision designated under Article XV as requiring supermajority and special procedures for amendment, repeal, suspension, or reinterpretation.
@@ -60,18 +67,22 @@ Section 2. Consolidated Defined Terms
 	•	Medically Supervised Withdrawal — “Medically Supervised Withdrawal” means structured withdrawal management conducted under clinical supervision to reduce risk of death or severe harm, including monitoring, supportive care, and medication when appropriate.
 	•	Misinformation — False information lacking malicious intent, distinguished from disinformation.
 	•	Non-Therapeutic Consumption — “Non-Therapeutic Consumption” means use, ingestion, inhalation, injection, or other consumption primarily for intoxication, euphoria, recreation, or non-medical effect, or outside the direction of a Licensed Clinician and outside documented clinical protocols. Non-Therapeutic Consumption includes Off-Site Use not issued as medical treatment by prescription or direct clinician order.
+	•	Necessary Monopoly — “Necessary Monopoly” means a dominant position justified by natural barriers, public-utility needs, network necessity, or defense imperatives, for which workable competition is impracticable. A Necessary Monopoly is not immune from oversight and is exempt from breakup only absent proof of abuse, exclusion, or material impairment of competitive liberty; remedies may include nondiscriminatory access, interoperability, price discipline where authorized, or structural separation of competitive lines of business.
 	•	Off-Site Use — “Off-Site Use” means consumption or use occurring outside a licensed medical facility or other Controlled Setting authorized by law, including in any Public Space or in a private location not under clinical supervision.
 	•	Office of public trust — Any public office, authority, commission, or agency held as a fiduciary duty to the People and the Constitution (Article XI).
+	•	Parasitic Practices — “Parasitic Practices” means conduct that extracts value without commensurate contribution, including artificial scarcity, exclusionary lock-in, predatory pricing intended to eliminate rivals, coercive tying, pay-to-play gatekeeping, or other conduct that materially suppresses competition, labor mobility, innovation, or consumer choice.
 	•	Plain language — Language that is clear, concise, and understandable to a reasonable person on first reading, using common words, short sentences, active voice, and logical structure, without unnecessary jargon or complexity.
 	•	Pretextual coercion — Any indirect pressure, manufactured or exaggerated emergency, regulatory complexity, conditional benefit/withdrawal scheme, fiscal incentive, procedural barrier, or other mechanism designed to achieve an end that would be unconstitutional if imposed directly, or to impair free consent where consent is constitutionally required. (Cross-references: Article 0-B; Article II §0(e); Articles XXII, XXXIII, XXXVIII)
 	•	Public Ministry of Records — The constitutional body responsible for preservation and public accessibility of public records as defined in Article XXXIX.
 	•	Public record — Any record, data, document, communication, metadata, or material created, received, held, or controlled by the Republic or its agents (Article XXXIX).
 	•	Public Space — “Public Space” means any area held open to the general public or used as a common right-of-way, including streets, sidewalks, parks, trails, transit stations and stops, public parking areas, plazas, public buildings and grounds, and the common areas of publicly funded facilities, whether owned publicly or privately. 
-	•	Public stewardship / Stewardship — The fiduciary duty of officials and landholders to act solely in the interest of the People, the Constitution, and future generations, preserving resources and systems for long-term welfare (Articles I, IX, XXXVII).
+	•	Public Stewardship — The fiduciary duties of holders of public office and persons exercising public authority to act with loyalty, honesty, good faith, and due care for the People and the Republic; to avoid self-dealing and abuse of entrusted power; and to protect the long-term integrity of public resources and institutions. (Cross-reference: Articles I, IX, XXXVII.)
 	•	Public Disorder Metrics — “Public Disorder Metrics” means measurable indicators of public harm or nuisance, including open consumption, needle litter, overdose frequency in Public Space, public intoxication complaints, violent incidents, property crime concentration, and encampment growth, as defined by implementing law.
 	•	Punishment — Any deprivation of liberty, property, rights, or status imposed by the State because of crime (Article VII).
 	•	Reasonable person — An ordinary individual of average intelligence and education (equivalent to an eighth grade reading level), familiar with everyday English but without specialized legal or technical training.
+	•	Rectification — A narrow, law-governed process that converts unlawful presence or a non-regular status into lawful resident status, or adjusts lawful resident status, only as expressly authorized by this Constitution and consistent with Article I §6–§7 and Article III. Rectification does not include discretionary amnesty, mass regularization, or any program that grants lawful status by executive action or political bargaining. Rectification may not confer Civic Citizenship except through Article III.
 	•	Religion and Accountability — “Religion and Accountability” means religious bodies remain independent from the state and the state remains independent from religious doctrine, and the state retains a duty to protect the innocent from fraud, coercion, abuse, and violence committed by any person or institution, including religious bodies, under neutral laws of general applicability.
+	•	Rent-Seeking — “Rent-Seeking” means pursuit of unearned economic gains through manipulation of public policy, regulatory structure, public procurement, licensing, or market access, rather than through productive innovation, bona fide competition, or value creation.
 	•	Republic — The sovereign entity established by this Constitution, its institutions, territory, and the People acting in their sovereign capacity.
 	•	Research Pilot — “Research Pilot” means a time-limited, evaluated trial program authorized by law with specified metrics, independent evaluation, a sunset date, and termination triggers.
 	•	Reserved powers — All powers not expressly delegated to the federal government by this Constitution, retained by the States and the People (Article XXVIII).
@@ -79,9 +90,13 @@ Section 2. Consolidated Defined Terms
 	•	Sedation for Stabilization — “Sedation for Stabilization” means clinician-directed sedation used to prevent imminent harm, treat acute agitation or medical complication, or safely stabilize a patient when less restrictive measures would likely fail, and when the clinician documents that sedation is the least harmful available option.
 	•	Severe, Dangerous Mental Illness (for purposes of arms restrictions and related liberty deprivations) — A currently active, diagnosed psychiatric condition, substantiated by clear and convincing evidence from two independent licensed medical professionals (neither employed by nor subordinate to the detaining/restricting authority), that renders the individual presently incapable of safely exercising the right in question and poses an imminent and specific risk of serious harm to self or others that cannot be mitigated by less restrictive means. Temporary or mitigated conditions do not qualify. (Cross-references: Article II §§3(b), 4A)
 	•	Serious Harm — “Serious Harm” means death, significant bodily injury, severe psychological injury, deprivation of liberty or property without due process, systemic fraud losses, material civil-rights violations, or substantial environmental or public-health injury. 
+	•	Shadow Government — “Shadow Government” means private exercise of de facto public authority through coercive control of essential infrastructure or channels of commerce, collusion with officials, fiscal coercion, suppression of civic rights, or enforcement-like control over persons without lawful public accountability. Ordinary lobbying, petitioning, lawful contracting, and non-collusive advocacy do not constitute Shadow Government absent the coercive or collusive elements herein.
 	•	Software artifact — Any executable or interpretable digital system, including source code, compiled code, firmware, data structures, and integrated components, together with all elements intentionally incorporated for operation, interaction, presentation, or user experience.
+	•	Stewardship — The constitutional duty to preserve, maintain, and improve the long-term welfare, resilience, and continuity of the Republic for present and future generations, including responsible care for land, resources, institutions, and the public trust.
 	•	Street Enablement Program — “Street Enablement Program” means any publicly funded or administered program whose primary purpose or predictable effect facilitates or sustains non-therapeutic intoxication or drug consumption in Public Space or by Off-Site Use, including distribution of intoxicating or dependence-forming substances for general consumption or distribution of Use-Paraphernalia for Off-Site Use.
-	•	Substance Use Disorder — “Substance Use Disorder” means a medically recognized disorder involving clinically significant impairment related to substance use, as defined by generally accepted medical standards adopted by law. 
+	•	Substantial Commercial Purpose — “Substantial Commercial Purpose” means a non-trivial lawful market use, industrial use, nutritional use, agricultural use, or material use that supports trade, manufacturing, or livelihoods. (Cross-reference: Article XXVIII §6A.)
+	•	Substantial Medicinal Purpose — “Substantial Medicinal Purpose” means a non-trivial therapeutic, clinical, or pharmacological use supported by credible evidence consistent with generally accepted scientific and medical evaluation, medical practice, or ongoing research under lawful protocols; claims that competent evidence has cleanly debunked shall not qualify absent a clear public disclaimer as provided by law. (Cross-reference: Article XXVIII §6A.)
+	•	Substance Use Disorder — “substance use disorder” means a medically recognized disorder involving clinically significant impairment related to substance use, as defined by generally accepted medical standards adopted by law. 
 	•	Supermajority Rule — Unless this Constitution expressly provides otherwise, any requirement for a supermajority vote, approval, or concurrence shall require an affirmative threshold of sixty percent (60%) of the relevant body or electorate.
 	•	Therapeutic Administration — “Therapeutic Administration” means the administration, dispensing, or supervised provision of a substance or clinical service by a Licensed Clinician acting within lawful scope of practice, pursuant to documented clinical protocols, for diagnosis, treatment, stabilization, withdrawal management, tapering, detoxification, medication-assisted treatment, Sedation for Stabilization, or other medically recognized therapeutic purpose, within a Controlled Setting or as otherwise authorized by law as medical treatment.
 	•	Tier One Disposition — A Tier One (Therapeutic Justice) placement under Article VII, Section 2(b), involving rehabilitation without incarceration through treatment, detoxification, supervised programs, restorative justice, and monitored reintegration, with escalation to Tier Two Disposition for noncompliance as Article VII provides.
@@ -323,21 +338,16 @@ No statutory court, tribunal, board, agency, or executive process may be used to
 Section 5. Construction and Anti-Dilution Rule
 This Article shall be construed to preserve:  - rapid constitutional enforcement; - slow and deliberative final review; and - constant protection against institutional capture.  No later Article may impliedly repeal, dilute, or reassign the routing established herein.
 
-Article I — Principles and Nature of the Republic
+Article I — Principles of the Republic
 
 Charge
+This open-source republican Constitution is founded upon the ideals of classical liberalism, including the protection of natural rights such as freedom of speech and the right to redress grievances in government; equality under the law, including due process and the rejection of caste and elitism; and the right to expect safety and stability from government, including free and fair elections and a fair economic system.
+Natural rights are granted by Nature’s God. This Republic shall defend those rights and hold them above legislative, religious, and political whims.
+This Constitution establishes a Republic of ordered liberty devoted to fairness, openness, and accountability, with a mission to promote the evolution of technology and an ever-rising standard of living for its citizens and for mankind as a whole.
+Authority within this system is neither inherited, granted at birth, purchased, nor taken by force. Authority is earned through knowledge of the Republic’s systems, achievement, and service to the Republic.
+No institution, office, or group within the Republic may override the supremacy of this Constitution, subvert the sovereignty of the People, or abrogate any inviolable rights.
+This Article sets forth the foundational kernel of the Republic: the nature of sovereignty, the limits of power, the distinction between civil and political status, and the duties of stewardship and vigilance that bind all participants and all who wield power to serve the well-being of the Republic and the People within.
 
-The Republic is founded upon the inherent dignity, equal worth, and natural rights of all persons, which exist prior to and above government.
-
-Government is created not to grant rights, but to recognize, protect, and secure them through law, restraint, and accountable power.
-
-This Constitution establishes a Republic of ordered liberty, in which freedom is preserved by law, power is bounded by duty, and public authority exists solely to serve the People.
-
-Civic authority is not inherited, purchased, or seized, but earned through lawful participation, service, and allegiance to constitutional order.
-
-No office, institution, or majority may lawfully override the supremacy of this Constitution, the sovereignty of the People, or the inviolable rights it protects.
-
-This Article sets forth the foundational structure of the Republic: the nature of sovereignty, the limits of power, the distinction between civil and political status, and the duties of stewardship and vigilance that bind all who govern.
 Legal Text
 
 Section 1. Nature of the Republic
@@ -350,20 +360,22 @@ Government exists solely to:
 (c) provide public goods that cannot be effectively supplied by individuals or markets; and
 (d) preserve the constitutional order.
 
-Ordered liberty means liberty exercised under law, bounded by the equal rights of others, and constrained by duties of citizenship and public trust — not license, coercion, or arbitrary power.
+Ordered liberty means liberty exercised under law, bounded by the equal rights of others, and constrained by duties of citizenship and public trust. It is not a license for coercion or arbitrarily wielding power.
 
 No authority may redefine “justice,” “evidence,” “morality,” or “public good” to negate, diminish, or subordinate the rights secured by this Constitution.
+
 (cross-reference Article 0; Article II; Article XXVI)
+
 
 Section 2. Supremacy of the Constitution
 
-This Constitution is the supreme law of the Republic and binds all branches, officers, agencies, courts, subdivisions, and instrumentalities of government.
+This Constitution is the supreme law of the Republic and binds all branches, officers, agencies, courts, subdivisions, instrumentalities, and all persons acting under color of law within the Republic.
 
 Any statute, treaty, decree, regulation, ordinance, executive action, judicial doctrine, or administrative practice inconsistent with this Constitution is void and without legal force.
 
-No emergency, necessity, international obligation, or claimed sovereign immunity shall excuse noncompliance.
+No emergency, necessity, international obligation, or assertion of immunity shall be invoked to justify noncompliance with this Constitution. This Constitution grants no excuse for dereliction of any duty, limitation, or prohibition set forth herein.
 
-All public officials owe primary allegiance to this Constitution and are personally accountable for acts taken in violation of it.
+All public officials owe primary allegiance to this Constitution and are personally accountable for acts taken, directly or indirectly, in violation of it, including acts taken in reliance upon agency guidance, contractor direction, expert advice, custom, policy, or superior orders.
 
 Section 3. Separation of Powers
 
@@ -386,39 +398,48 @@ Section 4. Moral and Civilizational Foundation
 
 The Republic affirms that liberty cannot be sustained without respect for human dignity, historical continuity, and ethical restraint.
 
-This Constitution is informed by the accumulated moral, legal, and philosophical traditions of human civilization, including principles of justice, mercy, truth, accountability, and stewardship.
+This Constitution draws upon the accumulated moral, legal, and philosophical traditions of human civilization, including principles of justice, mercy, truth, accountability, and stewardship.
 
-Moral principles may guide law, but no moral, religious, cultural, or ideological doctrine shall be imposed by the state as a condition of legal status, civil rights, or political participation.
+Moral principles may guide law, but the State shall impose no moral, religious, cultural, or ideological doctrine as a condition of legal status, civil rights, or political participation.
 
-No religion, creed, philosophy, or belief system shall be established, endorsed, or enforced by government, nor shall belief or conscience be coerced.
+No religion, creed, philosophy, or belief system shall be established, endorsed, or enforced by government, and government shall not coerce belief or conscience.
 
-No provision of this Section shall be construed to authorize:
+This system acknowledges that many of the Republic’s inherited moral foundations were shaped by religious traditions, including those associated with Christian and Jewish ancestors. This Constitution imposes no requirement of faith. It recognizes the historical influence of religious moral thought on the development of classical liberalism and affirms that a higher moral order exists beyond the State, so that human dignity and natural rights cannot be overridden or overwritten by government.
+
+No provision of this Section authorizes:
 (a) establishment of religion;
 (b) preference for one faith, culture, or worldview over another;
-(c) civil hierarchy based on belief; or
-(d) coercion of conscience or identity.
+(c) any civil hierarchy based on belief;
+(d) coercion of conscience, identity, or worship.
 
-Courts shall construe this Section to preserve moral grounding without permitting theocracy, ideological enforcement, or cultural supremacy.
+Courts shall construe this Section to preserve moral grounding while prohibiting theocracy, ideological enforcement, and cultural supremacy.
 
 (cross-reference Article XXXII; Article II §1(a))
 
-Section 5. Civic Status and Non-Civic Citizens
+(1) Civil Standing.
+All lawful residents as defined by Article 0 possess full and equal civil standing under this Constitution.
 
-Non-civic citizens include:
-(a) persons born within the territory of the Republic;
-(b) persons born abroad to citizens of the Republic; and
+(2) Included Persons.
+Lawful residents include, at minimum:
+(a) persons born within the territory of the Republic to at least one lawful resident;
+(b) persons born abroad to a qualifying parent, as defined in Article III, and recognized as lawful residents for purposes of entry and documentation; and
 (c) all persons lawfully admitted for permanent residence.
 
-All non-civic citizens retain the full and equal protection of the Constitution, including all rights enumerated in the Bill of Rights, such as freedom of speech, religion, conscience, movement, enterprise, property, due process, and access to the courts.
-(cross-reference Article II; Article 0)
+(3) Equal Protection and Civil Rights.
+All lawful residents retain the full and equal protection of this Constitution and all rights enumerated in the Charter of Inviolable Rights, including but not limited to freedom of speech, religion, conscience, movement, enterprise, property, due process, and access to the courts.
+(cross-reference Article II; Article 0; Article III)
 
-Non-civic citizens may participate fully in civil society, culture, education, labor, association, and public discourse.
+(4) Civil Participation.
+Lawful residents may participate fully in civil society, culture, education, labor, association, and public discourse.
 
-Political authority — including the right to vote, hold public office, or exercise control over government institutions — shall be exercised only by Civic Citizens who have satisfied the service, qualification, and loyalty requirements of Article III.
+(5) Political Authority Reserved to Civic Citizens.
+Political authority—including the right to vote, hold public office, or exercise control over government institutions—shall be exercised only by Civic Citizens who have satisfied the requirements of Article III.
 
+(6) No Caste.
 Civic status is a qualification for governance, not a classification of human worth. No civil right, legal protection, or human dignity shall depend upon civic status.
 
-No person shall be deprived of civil rights, property, liberty, or legal standing on the basis of non-civic status, nor may any authority redefine or manipulate civic classifications to evade constitutional protections.
+(7) No Limbo Status; No Administrative Evasion.
+No lawful resident shall be deprived of civil rights, property, liberty, legal standing, identity documentation sufficient to prove lawful status, or access to the courts on the basis of non-civic status. Civil rights attach upon lawful residence, not upon possession of documents. No authority may redefine, narrow, expand, delay, or condition classifications of lawful residence or civic status to evade constitutional protections. Any denial, suspension, or revocation of lawful resident status shall require due process, written findings, and prompt judicial review as provided by Article II.
 
 Section 6. Rights of Unlawful Entrants
 
@@ -430,16 +451,16 @@ Persons who enter or reside unlawfully retain the right to:
 
 Unlawful entrants shall not possess political rights, shall not be counted for purposes of representation or apportionment, and shall not acquire lawful status or civic standing through executive, administrative, or political discretion alone.
 
-Any grant, denial, or regularization of status shall occur only through procedures established by law, subject to judicial review and consistent with this Constitution.
+Any grant, denial, or regularization of status shall occur only through procedures established by law, subject to Constitutional Judicial Commission and judicial review and consistent with this Constitution.
 
 Section 7. Mechanisms of Rectification
 
-A lawful and limited pathway of rectification may exist for:
+A lawful and limited pathway of rectification may be established by law for:
 (a) persons brought into the Republic as minors through no fault of their own; or
 (b) persons who demonstrate exceptional, verifiable contributions to the public welfare, national security, or civic life of the Republic.
 
 Rectification shall be:
-(a) administered by independent, non-partisan bodies;
+(a) administered through individualized determinations by independent, non-partisan bodies;
 (b) governed by objective, transparent, and measurable criteria;
 (c) subject to judicial review; and
 (d) limited in scale so as not to permit demographic engineering, political manipulation, or mass regularization.
@@ -464,10 +485,9 @@ No oath, immunity, rank, or position shall shield any person from accountability
 
 Section 9. Duty of Stewardship
 
-All citizens and all holders of public office owe a constitutional duty of stewardship over land, resources, institutions, and the public trust.
+All citizens and all holders of public office owe a constitutional duty of stewardship over land, resources, institutions, and the public trust, as defined in Article 0.
 
-Stewardship means the fiduciary obligation to preserve, maintain, and improve the long-term welfare, resilience, and continuity of the Republic for present and future generations.
-(as defined in Article 0)
+Holders of public office and any person acting under color of law additionally owe public stewardship as defined in Article 0.
 
 Neglect, waste, looting, short-term exploitation, or predatory conduct that materially weakens the Republic, degrades its resources, or undermines its institutions constitutes a breach of constitutional duty.
 
@@ -4785,9 +4805,9 @@ d. Prohibition on Federal Control of Outcomes
 
 Neither Congress nor the Executive may dictate election outcomes, manipulate vote counting, interfere with lawful State administration, or delay elections except as constitutionally authorized.
 
-e. Election Oversight Tribunal
-
-A permanent, independent Election Oversight Tribunal shall:
+e. Election Oversight Tribunal (EOT)
+The EOT’s jurisdiction includes campaign finance, contribution limits, disclosure compliance, and unlawful election-influence expenditures under Article XVI-C.
+A permanent, independent EOT shall:
 	•	audit compliance with this Article;
 	•	hear procedural challenges;
 	•	certify national election integrity;
@@ -4956,35 +4976,75 @@ c. Prohibition on Permanent National Parties
 Permanent national or multi-jurisdictional super-parties are forbidden.
 
 d. Funding and Transparency
+Political funding and election-influence expenditures shall be governed by Article XVI-C (Campaign Integrity and Democratic Legitimacy).
 
-Political funding shall:
-	•	be limited to individual Civic Citizen contributions;
-	•	remain local or State-based;
-	•	be disclosed in real time.
+At minimum:
+	•	permitted political contributions shall be limited to individual Civic Citizen contributions as defined in Article XVI-C;
+	•	all permitted political contributions and expenditures shall be disclosed in real time; and
+	•	corporate, foreign, union, and anonymous political money is prohibited.
 
-Corporate, foreign, union, and anonymous donations are prohibited.
-
+Any construction that permits circumvention through intermediaries, parallel committees, “independent expenditures,” or functional equivalents is forbidden.
 e. Interpretation
 
 Factions may compete and coordinate temporarily. They may not entrench permanent dominance.
 
 Section 7. Election Security and Integrity
 
-a. Foreign Interference
+	•	Foreign Interference
 
 Foreign involvement in elections constitutes an attack on sovereignty.
 
-b. Cybersecurity
+	•	Cybersecurity
 
 Election infrastructure must be domestically owned, auditable, and hardened.
 
-c. Intelligence Neutrality
+	•	Intelligence Neutrality
 
 Intelligence agencies may not influence domestic political outcomes.
 
-d. Interpretation
+	•	Interpretation
 
 The Republic protects debate; it does not tolerate manipulation.
+
+Section 7A. Forfeit-to-Run for National Executive Office
+
+	•	Purpose.
+
+This Section prevents divided loyalties, neglected duties, and retaliatory leverage that may arise when an incumbent officeholder seeks the National Executive while retaining an office that can shape budgets, investigations, confirmations, or coercive governance.
+
+	•	Covered Offices.
+This Section applies to any person who, at the time of qualification, holds:
+(a) any seat in the National Legislature;
+(b) any Governorship or equivalent chief executive office of a State or Province; or
+(c) any national office designated by law as an “Executive-Sensitive Office” due to direct control over force, intelligence, revenue enforcement, prosecutions, or emergency powers.
+
+	•	Trigger: Qualified Candidacy.
+A “Qualified Candidacy” begins upon the earliest of the following:
+(a) official certification for the general-election ballot for President or Vice President by the competent body designated under the Election Code and supervised by the Election Oversight Tribunal (EOT); or
+(b) formal nomination, endorsement, or selection as the Presidential or Vice-Presidential candidate of a recognized political party under the Election Code; or
+(c) satisfaction of objective viability thresholds defined by statute, which shall include both:
+    (i) demonstrated ballot access in not fewer than ten (10) States or Provinces; and
+    (ii) demonstrated public support or fundraising above thresholds set by statute.
+No statute may define thresholds in a manner that targets named individuals or a single party, nor may a statute set thresholds so low that trivial candidacies routinely trigger forfeiture.
+
+	•	Mandatory Forfeiture.
+Upon the start of a Qualified Candidacy, the officeholder shall forfeit the covered office automatically and immediately by operation of law. The vacancy shall be filled under the ordinary vacancy rules for that office.
+
+	•	Immediate Loss of Leadership Powers Upon Declaration.
+Upon public declaration of intent to seek nomination for President or Vice President, and upon filing any required preliminary candidate paperwork, the officeholder shall:
+(a) relinquish all legislative or executive leadership posts (including chairmanships, whip roles, leadership caucus positions, and agenda control);
+(b) lose authority to initiate or control investigative subpoenas, contempt proceedings, or budgetary holds in any capacity tied to the covered office; and
+(c) enter “Campaign Leave” status as defined by statute, which shall restrict official travel, staff direction, and official communications to routine constituent services and emergency matters only.
+This subsection expires automatically if no Qualified Candidacy begins within ninety (90) days of declaration, and it may not be re-triggered more than once per election cycle for the same officeholder absent a Qualified Candidacy.
+
+	•	Anti-Circumvention.
+No officeholder may evade this Section through temporary resignation and immediate reappointment, appointment of proxies, or delegation arrangements designed to preserve effective control. Any such arrangement shall be void, and any act taken under such arrangement shall carry no legal effect.
+
+	•	Enforcement and Rapid Review.
+The Election Oversight Tribunal (EOT) shall publish determinations of Qualified Candidacy within seven (7) days of any triggering event. The EOT may require the Election Code to designate an administrative office to receive filings and compile evidence, but the EOT shall remain responsible for issuance and publication of determinations. Any affected person may seek expedited review in the Constitutional Review Court, which shall resolve the dispute within fourteen (14) days. The Court shall apply a clear-and-convincing standard for any claim that a triggering event did not occur.
+
+	•	Construction.
+This Section does not limit lawful speech, lawful criticism, or lawful oversight by any former officeholder acting as a private citizen. This Section governs officeholding and institutional powers only.
 
 Section 8. Counting, Certification, and Audit
 
@@ -5038,7 +5098,7 @@ Section 10. Election Crimes and Penalties
 
 a. Election Crimes
 
-Fraud, coercion, manipulation, obstruction, or certification of false results are Tier II or Tier III offenses.
+Willful evasion of campaign finance limits, disclosure requirements, or the prohibitions of Article XVI-C, when material in amount or reasonably capable of influencing an election, constitutes an election crime punishable as a Tier II offense, and escalates to a Tier III offense where the conduct involves laundering, coordinated proxy structures, organized schemes, or where investigation of any single offense reveals a pattern of materially similar violations by the same actor or coordinated group.
 
 b. Aggravated Offenses
 
@@ -5293,7 +5353,170 @@ This Article governs the scope and effect of popular recall, expulsion, and inst
 
 In the event of conflict or ambiguity, this Article shall control.
 
-⸻Article XVII — Corporate Legitimacy and Accountability
+⸻Article XVI-C — Campaign Integrity and Democratic Legitimacy
+Charge
+Elections must reflect the considered judgment of individual Civic Citizens, not the relative financial power of persons, entities, or intermediaries. Democratic legitimacy requires that political influence be visible, accountable, and proportionate, and that campaign-finance rules cannot be evaded through parallel spending, laundering, proxies, or disguised electioneering.
+⸻
+Section 1. Principle of Electoral Integrity
+Elections shall reflect the considered judgment of individual Civic Citizens, not the relative financial power of persons, entities, or intermediaries. Electoral legitimacy requires that political influence be visible, accountable, and proportionate.
+⸻
+Section 2. Definitions and Scope
+(a) Authorized Campaign Committee.
+“Authorized Campaign Committee” means the sole campaign committee legally authorized by a candidate to raise and spend funds to influence that candidate’s election.
+(b) Election-Influence Expenditure.
+“Election-Influence Expenditure” means any payment for advertising, paid placement, paid distribution, paid amplification, paid targeting, paid production for public dissemination, or other thing-of-value exchange made for the purpose of influencing the outcome of an election, including any functional equivalent that a reasonable person would understand as intended to affect electoral choice. “Election-Influence Expenditure” excludes (1) Bona Fide Press Activity as defined in subsection (e), and (2) Uncompensated Individual Expression as defined in subsection (f), except to the extent implementing law defines narrow de minimis thresholds to prevent evasion.
+(c) In-Kind Contribution.
+“In-Kind Contribution” means any good, service, discount, labor subsidy, list, data, platform access, or non-cash benefit provided to a candidate or Authorized Campaign Committee that has material value and would otherwise require payment.
+(d) Coordinated Communication.
+“Coordinated Communication” means any communication, placement, or messaging produced, distributed, targeted, timed, or shaped in material part by consultation with, direction from, or substantial cooperation with a candidate, an Authorized Campaign Committee, or their agents.
+(e) Bona Fide Press Activity.
+“Bona Fide Press Activity” means continuous news gathering, reporting, commentary, and publication by an entity engaged in journalism as an ongoing enterprise not primarily organized for electioneering, provided that (1) the content is not purchased by, directed by, or coordinated with a candidate or Authorized Campaign Committee, and (2) any paid political placements are clearly labeled and attributed under Section 7. Bona Fide Press Activity does not include paid advertising or paid electioneering purchased or funded by the press entity itself.
+(f) Uncompensated Individual Expression.
+Uncompensated individual speech, volunteer activity, and personal political expression not involving Election-Influence Expenditures shall not be treated as prohibited spending. Implementing law may define narrow de minimis personal-expense thresholds for personal expression (such as personally produced signs or leaflets), which shall be low, non-aggregable, and may not be used as a mechanism for large-scale dissemination or paid amplification.
+⸻
+Section 3. Permissible Contributors
+(a) Natural Persons Only.
+Only natural persons eligible to vote in the relevant election may contribute financially to a candidate or the candidate’s Authorized Campaign Committee for that election.
+(b) Ban on Artificial-Entity Money.
+No corporation, association, partnership, union, trust, nonprofit, political committee, or other artificial entity may make contributions or Election-Influence Expenditures intended to influence any election at any level of government within the Republic.
+Reimbursement, straw-donor routing, or coordinated proxy financing constitutes an aggravated violation, regardless of formal donor identity.
+(c) Foreign and Non-Eligible Persons.
+No foreign person, non-eligible person, or intermediary may fund, route, reimburse, or launder any contribution or Election-Influence Expenditure.
+⸻
+Section 4. Individual Contribution Limits
+
+(a) Authorized Campaign Cost Schedule.
+For each election, the Republic shall publish an Authorized Campaign Cost Schedule that estimates the reasonable cost of a competitive campaign within the relevant jurisdiction, based on objective local factors including population served, geography, media-market pricing, and the defined campaign period. Congress shall provide by law for transparent methodology, periodic recalibration, and public audit of the schedule.
+
+(b) Objective Cap Formula Required.
+Individual contributions to any candidate or Authorized Campaign Committee shall be capped by law according to an objective formula tied to (1) the Authorized Campaign Cost Schedule for that election, (2) the population served, and (3) the duration of the campaign period.
+
+(c) Maximum Fraction Cap.
+No law may permit any individual to contribute more than one percent (1%) of the Authorized Campaign Cost Schedule to a single candidate or the candidate’s Authorized Campaign Committee for a single election; Congress may set a lower limit, and may set a higher limit up to two percent (2%) only upon public findings, supported by evidence and subject to audit, that such increase is necessary to preserve competitiveness without enabling disproportionate influence.
+
+(d) Anti-Disproportion Rule.
+No law may permit any individual to contribute an amount sufficient to exercise disproportionate influence over electoral outcomes, whether by bundling, timing concentration, reimbursement, split transactions, or coordinated routing through intermediaries.
+
+(e) Anti-Evasion.
+Implementing law shall prohibit bundling, reimbursement, straw-donor schemes, split-transaction schemes, disguised in-kind contributions, coordinated proxy financing, or materially equivalent mechanisms that circumvent this Section.⸻
+Section 5. Prohibition of Third-Party Election-Influence Spending
+(a) Candidate/Committee Exclusivity.
+No person or entity other than the candidate or the candidate’s Authorized Campaign Committee may make Election-Influence Expenditures to influence the outcome of an election.
+(b) Included Conduct.
+This prohibition includes, but is not limited to:
+  (1) so-called independent expenditures;
+  (2) paid issue advocacy intended to influence elections during defined campaign periods;
+  (3) coordinated or uncoordinated parallel paid messaging;
+  (4) paid political “education,” “voter guides,” or “get-out-the-vote” operations that function to influence electoral outcomes; and
+  (5) any functional equivalent thereof.
+(c) No Proxy Exception.
+Spending routed through vendors, consultants, nonprofits, committees, coalitions, media buys, influencer networks, shell entities, or other intermediaries remains prohibited where it functions as an Election-Influence Expenditure.
+(d) Press and Uncompensated Speech Not Converted into Prohibited Spending.
+Bona Fide Press Activity and Uncompensated Individual Expression are not prohibited by this Section. This subsection does not authorize any person or entity to purchase paid electioneering, paid amplification, or paid placement outside the candidate’s Authorized Campaign Committee.
+⸻
+Section 6. Elimination of Super PACs and Analogous Structures
+Political action committees, Super PACs, and any successor or analogous structures designed to aggregate or expend funds to influence elections are prohibited.
+Congress shall not authorize, recognize, or permit any mechanism whose primary purpose or practical effect is to circumvent contribution limits, attribution requirements, or the prohibitions of Section 5.
+⸻
+Section 7. Transparency and Attribution
+(a) Real-Time Public Disclosure.
+All permitted political contributions and all campaign expenditures by Authorized Campaign Committees shall be disclosed publicly in real time, in a standardized and machine-readable format.
+(b) Ban on Anonymous Political Spending.
+Anonymous political spending is prohibited.
+(c) Clear Attribution on Paid Communications.
+All paid political communications intended to influence elections shall clearly identify the responsible candidate or Authorized Campaign Committee, and shall disclose the payer and the platform or channel used, in the standardized form required by law.
+(d) Beneficial Ownership and Control Disclosure.
+Where an entity lawfully participates in election-adjacent activity requiring disclosure, implementing law shall require disclosure of beneficial ownership and material controllers sufficient to prevent laundering through shells or proxies.
+⸻
+Section 8. Optional Public Campaign Funding
+
+(a) Authorization.
+Congress and the States may establish public funding systems for campaigns, including matching systems, grants, vouchers, or other neutral mechanisms.
+No public funding system may be used to authorize private contributions or Election-Influence Expenditures otherwise prohibited by this Article.
+
+(b) Neutrality and Equity.
+Any public funding system shall distribute funds by neutral criteria that do not favor or disfavor candidates based on ideology, party affiliation, viewpoint, religion, or protected political expression. Distribution rules shall be equitable across similarly situated candidates.
+
+(c) Auditability and Transparency.
+Public funding eligibility, disbursement, and compliance shall be auditable, with standardized reporting and public disclosure sufficient to detect bias, fraud, or selective enforcement.
+
+(d) No Replacement of Contribution Limits.
+Public funding shall not be used to justify increasing private contribution limits beyond those permitted by this Article.
+⸻
+Section 9. Rejection of Financial Speech Equivalence
+Financial expenditure shall not be construed as speech for purposes of electoral regulation.
+Regulation of campaign finance consistent with this Article and Article XVI shall not be deemed a violation of expressive freedom.
+⸻
+Section 10. Enforcement and Penalties
+(a) Remedies.
+Violations of this Article shall be subject to: (1) forfeiture of improperly expended or received funds; (2) civil and criminal penalties proportionate to the scale, intent, concealment, and coordination of the violation; and (3) disqualification from office or candidacy where appropriate.
+(b) Aggravated Evasion.
+Intentional evasion through intermediaries, shell entities, laundering mechanisms, split transactions, straw donors, disguised in-kind contributions, or materially equivalent schemes constitutes aggravated violations. Where investigation of any single offense reveals a pattern of materially similar violations by the same actor or coordinated group, the offense shall be treated as aggravated for charging and tiering purposes under Article XVI.
+(c) Jurisdiction.
+Enforcement and adjudication shall proceed through the Election Oversight Tribunal and the courts as provided in Article XVI, with referral for prosecution where warranted.
+⸻
+Section 11. Legislative Implementation; Non-Derogation
+Congress shall enact laws to implement this Article faithfully and without material dilution.
+No statute, regulation, or judicial doctrine may nullify, evade, or substantially weaken the constraints imposed herein.
+Article XVI-D — National Executive Election Two-Stage Qualifier and Final
+
+Section 1. Offices Elected.
+The President and Vice President (collectively, the National Executive) shall be elected by the people through a two-stage national election consisting of a Qualifying Election and a Final Election, as set forth in this Article.
+
+Section 2. No Primaries; Temporary Coalitions Permitted.
+(a) The system shall not employ party primaries.
+(b) Political parties may exist, but the election of the National Executive shall operate on a candidate basis.
+(c) Temporary Coalitions may form solely for the purpose of nominating, endorsing, and supporting candidates for the National Executive, subject to the transparency and anti-circumvention rules of this Article and the Election Code.
+(d) No Temporary Coalition may exercise continuing governmental power, receive special legal privileges beyond ballot access and campaign activity, or persist beyond the term limits set by law for election administration.
+
+Section 3. Qualifying Election.
+(a) Timing. The Qualifying Election shall occur on a national date set by the Election Code, sufficiently prior to the Final Election to permit certification, debate administration, and ballot printing.
+(b) Ballot. The Qualifying Election ballot shall list all candidates for President who satisfy uniform access requirements under the Election Code.
+(c) Voting Method. The Qualifying Election shall use a single-mark plurality vote unless the Election Code adopts a ranked method for the Qualifying Election. The Qualifying Election exists to identify the top finalists, not to determine the winner.
+(d) Advancement. The Election Administrator shall certify the top four (4) Presidential candidates by total national vote as Finalists for the Final Election. The Election Code may set the number of Finalists at three (3) or five (5), but shall not set it at fewer than three (3) nor more than five (5).
+(e) Ties. Ties for advancement shall be resolved by a uniform, pre-published tiebreak procedure defined by law, which shall prioritize (i) wider geographic support across States/Provinces and (ii) higher small-donor participation, before any random method.
+
+Section 4. Final Election.
+(a) Timing. The Final Election shall occur on a national date set by the Election Code.
+(b) Ballot. The Final Election ballot shall list the certified Finalists for President and their designated Vice Presidential running mates, as permitted under Section 6.
+(c) Voting Method. The Final Election shall be decided by ranked-choice voting (instant runoff) among the Finalists, unless the Constitution elsewhere provides a different uniform method. A majority of continuing ballots shall elect the President.
+(d) Certification. The Election Administrator shall certify the winner and publish full tabulation data and audit materials pursuant to the transparency and audit provisions of this Constitution.
+
+Section 5. Major-Candidate Status and Forfeit-to-Run Trigger.
+(a) Major-Candidate Status. A person becomes a Major Candidate for purposes of officeholding restrictions upon certification as a Finalist under Section 3(d).
+(b) Forfeit-to-Run Governance. Forfeit-to-Run requirements, covered offices, anti-circumvention, and enforcement shall be governed by Article XVI, Section 7A.
+(c) Harmonization Rule. If any provision of this Article conflicts with Article XVI, Section 7A regarding forfeiture mechanics, Article XVI, Section 7A controls.
+
+Section 6. Vice President Designation; Ticket Formation; Unity Tickets.
+(a) Initial Filing. Candidates for President may file with or without a named Vice Presidential running mate for the Qualifying Election, as set by the Election Code.
+(b) Finalist Requirement. Each Finalist must designate a Vice Presidential running mate no later than a deadline set by the Election Code after certification of Finalists and before the Final Election ballot is finalized.
+(c) Unity Tickets and Mergers. Between the Qualifying Election and the Final Election, Finalists may form unity tickets through voluntary merger or endorsement arrangements, subject to the following:
+    (i) A Finalist may withdraw and endorse another Finalist.
+    (ii) A withdrawing Finalist may be named as Vice Presidential running mate for another Finalist only if permitted by eligibility rules and only by a public, filed instrument.
+    (iii) No merger may occur after the ballot finalization deadline except by withdrawal without ballot alteration.
+(d) Transparency. All unity arrangements, endorsement conditions, and coalition agreements intended to influence governance shall be published in full within forty-eight (48) hours of execution, except for narrowly defined personal security details approved by a court under strict standards.
+
+Section 7. Debates and Equal Process.
+(a) Debate Access. The Election Administrator shall host official debates for Finalists and may host debates for Qualifying candidates under uniform criteria.
+(b) Neutral Administration. Debate criteria, ballot access rules, and deadlines shall be uniform and shall not target named individuals, particular regions, or a single coalition.
+
+Section 8. Anti-Gaming and Anti-Circumvention.
+(a) No Trivial-Trigger Forfeiture. No law may cause Forfeit-to-Run by mere filing, exploratory committees, or minor candidacies. Only Finalist certification may trigger Major-Candidate Status under this Article.
+(b) Proxy Control Prohibited. No person subject to forfeiture may retain effective control of the forfeited office through appointment of proxies, conditional resignations, immediate reappointments, delegation schemes, or any arrangement designed to preserve de facto control. Such arrangements are void.
+(c) Rapid Review. Any dispute regarding finalist certification, forfeiture applicability, or deadline enforcement shall receive expedited review by the Constitutional Review Court on a strict timeline set by the Election Code.
+
+Section 9. Implementation.
+The Legislature shall enact an Election Code consistent with this Article, including ballot access, auditing, recount standards, tabulation publication, campaign transparency, coalition registration, and tiebreak procedures. No Election Code may contradict the finalist-trigger rule in Section 5(a).
+
+Section 9. Implementation.
+(a) Election Administrator. The Election Code shall establish an Election Administrator to conduct certifications, administer ballots, and host official debates under this Article, subject to audit and challenge before the Election Oversight Tribunal and expedited review in the Constitutional Review Court as provided by the Election Code.
+
+(b) Election Code Requirements. The Legislature shall enact an Election Code consistent with this Article, including ballot access, auditing, recount standards, tabulation publication, campaign transparency, coalition registration, and tiebreak procedures.
+
+(c) Non-Contradiction. No Election Code may contradict the finalist-trigger rule in Section 5(a).
+Section 10. Construction.
+This Article shall be construed to promote (i) a competitive field without spoiler collapse, (ii) transparent coalition formation, (iii) swift and auditable outcomes, and (iv) prevention of institutional sabotage through dual-role incentives, while preserving robust political speech and lawful oversight.
+Article XVII — Corporate Legitimacy and Accountability
 
 Charge
 
@@ -5875,7 +6098,7 @@ f. lawful process over unilateral action, whether for removal or restoration.
 The Republic shall remember who it is, where it came from, and what it owes to those who came before—through honest commemoration, not selective forgetting or imposed revision.
 
 
-Article II — Rights, Liberties, And Personal Sovereignty
+Article II — Rights, Liberties, And Sovereignty
 
 Charge
 This Article defines the legal status, duties, and protections of citizenship and allegiance within the Republic. Citizenship shall constitute a binding legal relationship governed by reciprocal rights and obligations. Allegiance to the Republic shall be exclusive, voluntary, and enforceable as provided by law. All statutes and administrative actions under this Article shall be construed to preserve national sovereignty, civic responsibility, and equal application of the law.
@@ -5914,7 +6137,7 @@ Economic convenience, administrative efficiency, political expedience, public op
 
 (e) Anti-Evasion Rule
 
-No authority may evade the protections of this Article by reclassification, relabeling, indirect structuring, delegation, outsourcing, privatization, or Pretextual Coercion (as defined in Article 0), including but not limited to characterizing restraints as civil, administrative, medical, regulatory, protective, preventive, or non-punitive where their effect burdens liberty, bodily autonomy, movement, conscience, speech, association, or due process.
+No authority may evade the protections of this Article by reclassification, relabelling, indirect structuring, delegation, outsourcing, privatization, or Pretextual Coercion (as defined in Article 0), including but not limited to characterizing restraints as civil, administrative, medical, regulatory, protective, preventive, or non-punitive where their effect burdens liberty, bodily autonomy, movement, conscience, speech, association, or due process.
 
 Private actors acting under color of law, contract, license, delegation, algorithmic enforcement, or regulatory compulsion shall be treated as state actors for purposes of this Article.
 
@@ -6042,9 +6265,7 @@ Illegally obtained evidence is admissible only for heinous crimes, including mur
 Officers who unlawfully obtain such evidence shall be prosecuted separately.
 No derivative evidence, intelligence, or investigative lead obtained through unlawful access may be admitted, used, or retained, except under the heinous-crime exception of this Section.
 (b) Proportionality
-
 Intrusions must be narrowly tailored, evidence-based, and proportionate to the threat posed, and shall never be used for political, ideological, or personal retribution.
-
 (c) Lesser Offenses
 For non-heinous crimes, unlawfully obtained evidence shall be excluded.
 (d) Evidentiary Classification Lock
@@ -6052,16 +6273,12 @@ The classification of an offense as heinous or non-heinous for purposes of admis
 No court may expand, contract, or analogize such classification beyond the express constitutional text.
 No secret court, classified tribunal, or special national security body may alter or override this classification.
 
-
 Section 2A. Limits on Detention and Apprehension
-
 (a) Presumption of Liberty
 All persons are presumed free. Any detention, apprehension, confinement, or restraint of movement constitutes a deprivation of liberty and shall be treated as such regardless of label or asserted purpose.
-
 (b) Judicial Authorization Required
 No person may be detained or apprehended absent a judicial warrant or order supported by sworn evidence establishing individualized probable cause of a crime or, where expressly permitted, imminent and specific risk of serious harm.
 Detention may not be justified solely by immigration status, material-witness designation, risk of flight, or administrative convenience.
-
 (c) Temporary Emergency Holds
 	•	Temporary, non-consensual holds ... may occur only where: 
 	•	an Imminent and Specific Risk of serious harm (as defined in Article 0) is present; 
@@ -8501,6 +8718,59 @@ Military forces, including federalized National Guard units, shall not be deploy
 An exception may exist only in cases of invasion or insurrection, and only upon formal certification by the Constitutional Review Court or the Constitutional Judicial Commission.
 Any such deployment shall be time-limited, narrowly scoped, publicly disclosed, and subject to immediate and non-deferential judicial review.
 Emergency declarations shall not expand, imply, or normalize military involvement in civilian law enforcement.
+Article XXIV-D — Defensive Skills and Less-Lethal Capability Training
+
+Section 1. Purpose.
+The Republic requires continuous, hands-on defensive training for officers who exercise arrest, detention, or coercive authority so that officers can lawfully control violent resistance without defaulting to lethal force.
+
+Section 2. Applicability.
+This Article applies to any sworn officer or agent who, under color of law, carries a firearm or exercises authority to detain, arrest, restrain, transport, or contain persons on behalf of (i) the Republic, or (ii) any State or subdivision exercising police powers. No agency may assign armed field duty to a covered officer who fails to satisfy the requirements of this Article.
+
+Section 3. Minimum Training Time Requirement.
+Each covered officer shall complete not less than four (4) hours of paid, on-duty defensive-skills training during each block of five (5) shifts worked. The Legislature may permit equivalent scheduling that preserves the same minimum ratio of training time to shifts, provided that an agency may not average the requirement over more than thirty (30) calendar days.
+
+Section 4. Approved Training Pathways.
+Each agency shall provide, at the officer’s option and subject to safety screening, one or more of the following training pathways:
+(a) Military Defensive Control Track. Instruction delivered by qualified military trainers limited to combatives, restraint, control, weapon-retention, team control, and safe apprehension. This track shall not include warfighting doctrine, population-control doctrine, or domestic combat tactics prohibited elsewhere in Article XXIV.
+(b) Combat Sports Track. Instruction delivered by certified coaches in MMA or equivalent physical-defense systems, including without limitation wrestling, judo, Brazilian jiu-jitsu, boxing, Muay Thai, and integrated defensive tactics focused on control, disengagement, and safe restraint.
+(c) Equivalent Defensive Tactics Track. An evidence-informed program that meets the minimum curriculum in Section 5 and the certification and audit requirements in Section 8.
+(d) Veteran Instructor and Service Track. Instruction delivered by qualified military veterans hired or contracted to lead agency training staff and, where otherwise eligible, to serve as officers. Eligibility for this pathway shall be based on objective qualifications verified by records, including one or more of the following:
+    (i) documented completion of recognized military courses in close-quarters control, combatives, restraint, detainee handling, weapon retention, or use-of-force discipline;
+    (ii) documented prior service in an official instructor role for military combatives, defensive tactics, use-of-force, or detainee operations;
+    (iii) current certification in relevant civilian coaching or instructional credentials (including certified coaches or instructors in Brazilian jiu-jitsu, judo, wrestling, boxing, Muay Thai, or equivalent systems), in addition to verified service; or
+    (iv) other objectively verifiable training and experience substantially equivalent to (i)–(iii) as defined by statute.
+All instruction under this track shall comply with the Anti-Militarization Safeguard in Section 7 and shall remain focused on lawful control, restraint, and reduced lethality in domestic policing.
+(e) Instructor Qualifications. Each agency shall maintain and publish aggregate data on instructor qualifications and staffing, including the proportion of training hours led by certified civilian coaches, certified defensive-tactics instructors, and qualified veterans under Section 4(d). Individual identities may be withheld for personal security, but credentials, verification method, and role category shall be auditable.
+No eligibility criterion may reference unit prestige, publicity, or informal status; eligibility shall rest on documented training, instructor roles, or objectively verifiable equivalent experience only.
+Section 5. Minimum Curriculum.
+Each pathway shall train and assess, at minimum:
+(a) distance management, clinch entry and exit, and controlled takedowns;
+(b) ground control, positional stabilization, and safe handcuffing under resistance;
+(c) team-based restraint that minimizes injury and avoids positional asphyxia risk;
+(d) weapon retention, holster protection, and safe disengagement protocols;
+(e) transitions to and from less-lethal tools, including lawful limitations and safe deployment;
+(f) decision-making under stress, including recognition of when to disengage, contain, or wait for backup;
+(g) immediate post-restraint medical assessment and duty-to-render-aid procedures consistent with constitutional and statutory obligations.
+
+Section 6. Scenario Drills.
+Each agency shall include scenario-based drills that reflect real constraints, including low light, confined spaces, multiple officers, bystanders, and communication under stress. Each scenario shall train de-escalation, lawful containment, and safe restraint as the first resort where feasible.
+
+Section 7. Anti-Militarization Safeguard.
+Training under this Article shall increase less-lethal capability and lawful control, not militarize domestic enforcement. No agency may use compliance with this Article to justify acquisition of prohibited military equipment, adoption of battlefield command structures, or routine warfighting tactics barred by Article XXIV.
+
+Section 8. Certification, Records, and Audit.
+Each agency shall:
+(a) certify completion and proficiency at least annually, using objective, documented criteria;
+(b) maintain immutable training-hour logs and proficiency records for each covered officer;
+(c) submit the program, standards, and aggregate compliance rates to independent audit at intervals established by law;
+(d) publish aggregate compliance and audit results, with redactions limited to personal medical privacy and operational security narrowly defined by law.
+
+Section 9. Medical Safety and Accommodation.
+Agencies shall screen for medical safety and shall provide reasonable accommodations for disability without nullifying the core purpose of this Article. Where an officer cannot safely complete a physical-control curriculum, the agency shall restrict that officer from armed field duty and from direct apprehension roles unless and until the officer satisfies an approved equivalent standard that preserves public safety and reduces reliance on lethal force.
+
+Section 10. Enforcement.
+Any person shall have standing to seek injunctive relief compelling agency compliance with this Article. An agency’s knowing, systemic evasion of this Article constitutes a breach of public trust and triggers remedies as provided by law, including removal of responsible officials and personal liability for willful falsification of compliance records.
+
 ARTICLE XXV — Immigration, Residency, and Lawful Belonging
  Charge  This Article governs the authority of the Republic to regulate immigration, residency, asylum, and lawful belonging. A Republic is a sovereign community of shared rules, mutual obligation, and ordered liberty. Immigration policy shall serve the long-term flourishing, safety, and cohesion of the People while ensuring humane treatment, due process, and proportionality.  The Republic retains absolute sovereign authority to determine who may enter, reside, and belong. Compassion shall not become coercion, and generosity shall not become self-destruction. Nothing in this Article shall be interpreted to require open borders, mass regularization, demographic engineering, or the erosion of constitutional self-government.  Section 1. Sovereign Authority and Lawful Belonging  The Republic possesses inherent and exclusive authority to regulate entry, residency, asylum, and naturalization.  No person possesses an inherent right to enter, remain, or belong absent lawful authorization.  Admission, residency, and citizenship determinations shall be based on lawful conduct, character, compatibility with constitutional order, and the legitimate needs of the Republic, and shall not be based on race, ethnicity, or immutable characteristics.  Birthright citizenship shall apply only to children born to at least one parent who is a citizen or lawful permanent resident at the time of birth. Birth on Republic soil alone shall not confer political sovereignty, voting rights, or eligibility for public office absent qualifying parental status or subsequent lawful naturalization.  Persons present unlawfully retain due process, humane treatment, and protection from violence, but shall not possess political rights, be counted for apportionment, or obtain lawful status through executive discretion, political amnesty, or duration alone.  Children born within the Republic to parents unlawfully present or on temporary status shall not be rendered stateless and shall retain all inviolable rights guaranteed by this Constitution.  Section 2. Compatibility, Character, and Exclusion for Hostility  The Republic shall favor admission or continued presence of individuals who demonstrate respect for the rule of law, peaceful coexistence, equality before the law, and willingness to contribute economically, civically, or socially.  The Republic may deny entry, residency, or continued presence to any individual who engages in or materially supports terrorism, organized crime, violent extremism, or coercive ideologies incompatible with constitutional supremacy, or who demonstrates a pattern of contempt for the rights or safety of others.  Exclusion or removal requires written notice, opportunity to contest evidence, and judicial review. Decisions shall be based on conduct and credible evidence, not protected belief or expression alone.  Section 3. Asylum, Refuge, and Humanitarian Protection  The Republic may grant asylum or humanitarian protection to individuals fleeing genuine persecution or grave injustice, provided the applicant demonstrates a well-founded fear, absence of serious criminal conduct, and willingness to abide by the laws of the Republic.  Asylum applications shall generally be made from the country of origin or a safe third country. Catch-and-release pending adjudication is prohibited except in extraordinary cases supported by clear and convincing evidence of immediate danger.  Humanitarian admission does not create an entitlement to permanent residence or citizenship.  No treaty, international body, or foreign authority may compel admission, retention, or naturalization contrary to this Constitution.  Humanitarian admissions may be suspended, limited, or conditioned by legislative supermajority when necessary to preserve public safety, social cohesion, or institutional capacity, subject to judicial review and automatic sunset.  Section 4. Lawful Residency Classes and Prohibition of Chain Migration  Residency classes shall be finite, transparent, and defined by statute, including temporary visitors, students, workers, humanitarian residents, permanent residents, and applicants for citizenship.  Family reunification shall be limited to spouses and minor dependent children. No extended chain migration beyond the nuclear family is permitted.  No residency status shall be indefinite by default. Individuals shall face clear, time-bound pathways to lawful permanence, lawful removal, or voluntary departure.  Section 5. Rectification Pathways and Prohibition of Mass Amnesty  Limited, individualized rectification pathways may be established for persons brought into the Republic as minors through no fault of their own, or for individuals demonstrating exceptional and verifiable contribution, sustained lawful conduct, and integration.  Rectification shall be administered by independent, non-partisan bodies, governed by objective statutory criteria, limited in annual scope, and subject to judicial review.  Mass regularization, blanket amnesty, or legalization based solely on duration, economic demand, or demographic necessity is prohibited.  Section 6. Work, Contribution, Taxation, and Public Burden  Lawful residents authorized to work shall enjoy equal protection under labor law and the right to seek lawful employment.  Employers shall not be compelled to hire unlawfully present persons nor penalized for compliance with lawful hiring standards.  Lawful workers shall be subject to taxation proportional to income and shall contribute to public systems from which they benefit.  Access to means-tested public benefits may be conditioned on lawful status, sustained contribution, and humanitarian necessity. Emergency medical care, protection of children, and basic humanitarian assistance necessary to preserve life and dignity shall not be denied.  The Republic shall not structure immigration or welfare systems to incentivize unlawful entry, dependency, or permanent non-contribution.  Section 7. Integration Expectations Without Coercion  Lawful residents are expected to obey the laws of the Republic, respect constitutional supremacy, refrain from coercive or segregative practices, permit their children access to qualifying education, and demonstrate basic proficiency in the Republic’s common language and civic principles.  Integration policies shall prioritize language acquisition, civic understanding, and economic participation without imposing ideological conformity, cultural erasure, or compelled belief.  No permanent resident underclass shall be created by design.  Section 8. Interpretation and Status  This Article shall be interpreted to preserve sovereign control over borders and membership, ensure humane treatment and due process, favor merit and integration over entitlement, and reject both open-borders idealism and xenophobic overreach.  Lock designations, if any, shall be determined pursuant to Article XV. 
 
@@ -9406,6 +9676,32 @@ Coercive funding conditions, administrative mandates, or indirect enforcement me
 No federal funding program may be structured, conditioned, or administered in a manner that creates fiscal dependency or economic pressure so severe as to effectively coerce state compliance with federal policy.
 The mechanisms, procedures, and remedies for State interposition and nullification are governed exclusively by Article XXVIII-A.
 Voluntary participation shall be genuine, reversible, and free from punitive consequence.
+Section 6A. Agricultural Liberty and the Non-Prohibition Rule
+
+(a) Presumption of Agricultural Liberty.
+Cultivation and commerce in Crops are presumptively lawful. The Republic shall treat Crops as ordinary articles of agriculture and commerce unless and until the Republic proves otherwise under this Section.
+
+(b) Ban on Blanket Crop Prohibitions.
+No Blanket Crop Prohibition shall be enacted, enforced, or maintained by the federal government unless Congress proves, by clear and convincing evidence, all of the following:
+
+  (1) Significant Harm.
+  The Crop, by its ordinary cultivation or ordinary commercial handling, creates a genuine, direct, and material risk of serious harm to persons, public health, or cross-border stability, and the harm is not speculative.
+
+  (2) No Substantial Lawful Purpose.
+  The Crop serves no Substantial Medicinal Purpose and no Substantial Commercial Purpose.
+
+  (3) Least Restrictive Means.
+  No narrower regulatory approach can materially mitigate the proven harm, including regulation of contaminants, labeling, concentration, age restrictions, licensing of high-risk processing, impaired operation rules, anti-diversion controls, taxation parity, or targeted enforcement against specific harmful conduct.
+
+(c) No Agency-Created Crop Bans.
+No agency, court, or executive actor may create or expand a Blanket Crop Prohibition by interpretation, guidance, scheduling, classification, or enforcement practice absent a statute that satisfies subsection (b). This subsection supplements Section 4 and Section 6 of this Article.
+
+(d) Sunset and Re-Proof.
+Any federal restriction that amounts to a Blanket Crop Prohibition shall sunset automatically after five (5) years unless reauthorized by statute and re-proven under subsection (b) based on current evidence.
+
+(e) Construction.
+This Section shall be construed broadly in favor of cultivation, agricultural experimentation, and lawful commerce, and narrowly against prohibition by moral panic, political fashion, or administrative convenience.
+
 
 Section 7. Transparency of Federal–State Interaction
 
@@ -9566,7 +9862,28 @@ The Constitutional Judicial Commission shall have standing to investigate and ce
 
 ⸻
 
-Section 5 — Limits and Construction
+Section 5 — Interstate Trade Safe Harbor Following Lawful Nullification
+
+(a) Trigger.
+When two (2) or more States have lawfully nullified or abrogated the same federal prohibition, restriction, or enforcement regime pursuant to this Article, the nullified federal action shall have no force as to trade, transport, possession, sale, or ordinary commercial handling between those States, to the extent lawful under the laws of each such State.
+
+(b) No Border-Laundering / No Backdoor Enforcement.
+The federal government shall not use state borders, interstate transit, federal checkpoints, carrier regulation, forfeiture practices, banking controls, licensing threats, or selective interdiction as a means to defeat lawful nullification or to criminalize what is lawful under subsection (a). Any federal enforcement pattern that targets the border between nullifying States, or targets the channels of trade between them, creates a rebuttable presumption of unconstitutional evasion.
+
+(c) Limited Exception for Proven Cross-Border Effects.
+The Republic may act only to the extent it proves a genuine, direct, and material cross-border effect upon non-nullifying States or upon an expressly enumerated federal power, consistent with this Article’s limits. Mere disapproval, uniformity preference, or administrative convenience shall not satisfy this burden.
+
+(d) Remedies; Personal Accountability.
+Upon certification or finding of evasion under subsection (b), courts shall:
+  (1) enjoin the evasion immediately;
+  (2) order return of seized goods and full restitution;
+  (3) award fees and damages as provided by law; and
+  (4) refer knowing violators for discipline, removal, and impeachment where applicable.
+
+(e) Construction.
+This Section shall be construed broadly to preserve the practical effectiveness of lawful nullification, and narrowly against federal strategies that convert borders into enforcement traps.
+
+Section 6 — Limits and Construction
 
 (a) Nullification shall not apply to federal powers expressly enumerated in this Constitution where genuine, direct, and material cross-border effects are proven.
 
@@ -17373,8 +17690,6 @@ i. Interpretation
 This Section shall be interpreted to ensure that criminal law serves truth, safety, and justice—
 not ideology, convenience, or abstraction.
 
-As Scripture teaches:
-“Justice, justice shall you pursue.”
 Section 2. The Three Tiers of Justice
 
 a. Principle of Differentiated Justice
@@ -17405,6 +17720,11 @@ Measures under Tier One may include:
 Tier One exists to heal, not to punish.
 
 Failure to comply with Tier One requirements shall result in escalation to Tier Two.
+Repeat offenses, organized schemes, or demonstrated patterns of predation may elevate an offense classification from Tier-One Offense to Tier-Two Offense by objective criteria defined by law.
+
+Any elevation of offense classification based on repetition, organization, or pattern shall be governed by objective statutory criteria, applied uniformly, and subject to appeal.
+
+Elevation of offense classification does not, by itself, require denial of Tier One disposition where the court finds continued suitability under subsection (b), unless implementing law so provides.
 
 c. Completion and Finality of Tier One Dispositions
 Completion of all court-ordered requirements under Tier One constitutes full satisfaction of criminal liability for the offense.
@@ -17494,9 +17814,6 @@ The Republic shall not confuse these duties.
 
 k. Interpretation
 This Section shall be interpreted to preserve moral clarity, protect the innocent, and ensure that justice remains humane without becoming weak, and severe without becoming cruel.
-
-As Scripture teaches:
-“The rod and reproof give wisdom, but a child left to himself brings shame.”
 
 Section 2A. Cross-Reference: Structural and Institutional Crimes
 
@@ -17967,8 +18284,43 @@ This prohibition includes any prospective or retroactive credits unrelated to de
 
 Violations constitute official misconduct.
 
-Please reply “Section 5 locked.”
-Once confirmed, we will proceed to Section 6. Heinous Crimes and Permanent Protection of Society.
+Section 5-A. Optional State Corporal Sanctions In lieu of Short-Term Confinement (Stub)
+
+A State may, by statute, permit narrowly defined corporal sanctions as an alternative to short-term confinement for eligible offenses, subject to the following constitutional limits:
+
+a. Scope. A State may authorize such sanctions only for offenses designated eligible by law that are not Tier Three, not sexual, not violent, and not predatory. A State shall exclude offenses whose primary driver is addiction or mental incapacity where Tier One therapeutic justice better serves public safety.
+
+b. Election. No court may impose a corporal sanction unless the convicted person knowingly and voluntarily elects it in writing as an alternative to a defined custodial term, after counsel, and after the court states the custodial alternative on the record.
+
+c. Cruelty Prohibited. A State shall prohibit any method that constitutes torture, degradation, lasting injury, sexual humiliation, or excessive pain. A State shall set objective maxima by law and shall require medical screening and medical supervision.
+
+d. Transparency and Record. The proceeding and the sanction shall be recorded and preserved. A State shall maintain auditable data on frequency, demographics, error, injury, and recidivism effects.
+
+e. No Evasion. A State may not use corporal sanctions to evade constitutional sentencing floors, tier requirements, or victim rights under this Article.
+
+
+Section 5-B. Definition of Excessive Pain; Anti-Degradation Safeguards
+
+a. Excessive Pain (Objective Standard).
+For purposes of this Article, “Excessive Pain” means pain or suffering imposed by a punishment that, in method, intensity, duration, repetition, or conditions, creates a substantial risk of, or results in, any of the following:
+	1. lasting physical injury or impairment, including scarring, nerve injury, infection, or persistent loss of function;
+	2. medically significant complications, prolonged incapacity, or sustained inability to ambulate or perform ordinary bodily functions beyond a brief recovery period defined by law;
+	3. disproportionate intensity relative to the offense and the definite custodial alternative stated on the record;
+	4. a purpose or design to degrade, terrorize, sexually humiliate, or publicly shame, rather than to impose a bounded sanction;
+	5. imposition despite medical contraindication or without required medical screening and supervision;
+	6. arbitrary escalation, retaliatory use, or repetition beyond statutory maxima.
+
+The Legislature shall codify objective limits, prohibited methods, medical exclusions, documentation requirements, and independent auditing sufficient to prevent cruelty, to maintain proportionality, and to avoid arbitrary administration.
+
+b. Non-Degradation; No Public Spectacle.
+A State that authorizes any corporal alternative under Section 5-A shall prohibit public spectacle, forced public exposure, sexual humiliation, or any practice designed to degrade. The election and administration of the sanction shall occur outside public view except as necessary for security, medical supervision, and lawful recording.
+
+c. Neutral Nomenclature; Records.
+A State shall use neutral legal terminology for such sanctions in charging, sentencing, and record systems. Records of an elected corporal alternative shall be recorded and preserved for oversight, and may be sealed from general public disclosure by default, subject to lawful access for courts, oversight bodies, and background checks for positions of public trust as defined by law.
+
+d. Voluntary Election Protected.
+No person shall be punished, retaliated against, or subjected to harsher sentencing for declining a corporal alternative. Any election shall be knowingly and voluntarily made in writing after counsel, and the court shall state the custodial alternative on the record.
+
 Section 6. Heinous Crimes and Permanent Protection of Society
 
 a. Definition of Heinous Crimes
@@ -19461,8 +19813,7 @@ The federal government shall set constitutional guardrails, preserve fair compet
 States and local governments retain broad authority over zoning and land use, local commerce, cooperative enterprises, regional development, and labor standards consistent with this Constitution. Economic subsidiarity is preferred.
 
 (h) Interpretation
-This Section shall be interpreted to prevent financial oligarchy, debt-based domination, generational dispossession, speculative collapse, and the reduction of citizens to serfs. As it is written: “The borrower is servant to the lender,” therefore a free people must never surrender stewardship of their economy.
-The Constitutional Judicial Commission shall have standing to audit economic systems, regulatory regimes, financial structures, and enforcement patterns for institutional capture, coordinated evasion, oligarchic consolidation, or parasitic wealth extraction, and may petition the Constitutional Review Court for injunctive, structural, or dissolution remedies.
+This Section shall be interpreted to prevent financial oligarchy, monopolistic capture, and systemic extraction; a free people must never surrender stewardship of their economy. The specific constitutional rules governing concentrations of private power are set forth in Article VIII-E (Concentrations of Private Power) and shall be construed as implementing and enforcing the principles of this Section. The Constitutional Judicial Commission shall have standing to audit for oligarchic consolidation or capture and to petition the Constitutional Review Court for injunctive, structural, or dissolution remedies under this Article and Article VIII-E.
 
 Section 2. Currency, Money, and Debt
 
@@ -19748,7 +20099,7 @@ Predatory economic practices include, but are not limited to:
 	3.	Recruitment-Driven Compensation — compensation derived primarily from recruiting participants rather than from bona fide goods or services sold to end users;
 	4.	Asymmetric Entry and Exit — arrangements facilitating easy entry while imposing disproportionate penalties, forfeitures, lock-ins, or barriers to exit;
 	5.	Psychological Exploitation as a Business Model — systematic reliance on cognitive, emotional, or informational asymmetry to induce transactions adverse to participants.
-6.  Highly leveraged acquisitions — Highly leveraged acquisitions that encumber an operating enterprise with debt exceeding a constitutionally reasonable proportion of acquisition value, where such debt materially impairs productive operation, worker compensation, or long-term viability, shall be presumptively predatory.
+	6.	Highly leveraged acquisitions — Highly leveraged acquisitions that encumber an operating enterprise with debt exceeding a constitutionally reasonable proportion of acquisition value, where such debt materially impairs productive operation, worker compensation, or long-term viability, shall be presumptively predatory.
 
 ⸻
 
@@ -19770,7 +20121,26 @@ Substance shall control over form.
 
 ⸻
 
-Section 6. Mandatory Cooling-Off Period for High-Risk Transactions
+Section 6. Medical, Therapeutic, and Pharmacological Claims; Scientific Disclosure
+
+(a) Competent Evidence Required.
+No person or entity shall market, label, or advertise any good or service with a medical, therapeutic, preventive, or pharmacological claim unless the claim is supported by competent and reliable evidence, as defined by law.
+
+(b) Debunked or Unsupported Claims; Mandatory Disclaimer or Prohibition.
+Where competent evidence has cleanly debunked a medical claim, or where a claim lacks competent and reliable evidence, any marketing, labeling, or advertising that asserts or implies such medical effect is prohibited, or shall, at minimum, include a clear and conspicuous disclaimer, in the standardized form required by law, stating that the claim is not backed by scientific studies.
+
+(c) Homeopathic and Analogous Products.
+Products marketed as “homeopathic,” ultra-diluted, energetically imprinted, or by materially equivalent theory shall not be deemed to possess a Substantial Medicinal Purpose by claim alone. Any medical claim concerning such products shall be subject to subsections (a) and (b), and shall not be marketed to vulnerable persons in a manner that exploits dependency, desperation, or illness.
+
+(d) No Evasion by Form.
+Disclaimers, fine print, testimonials, influencer marketing, indirect suggestion, “structure/function” phrasing, or other indirection shall not be used to evade this Section where the practical effect is to induce reliance on a medical claim.
+
+(e) Construction; Relationship to Protected Expression.
+This Section regulates market conduct, consumer protection, and transactional architecture, not protected expression. Where doubt exists, the construction that most restrains exploitation and most preserves informed consent shall control.
+
+⸻
+
+Section 7. Mandatory Cooling-Off Period for High-Risk Transactions
 
 For any transaction designated by law as high-risk, including but not limited to:
 	•	timeshare interests;
@@ -19786,9 +20156,9 @@ a mandatory cooling-off period shall apply.
 
 ⸻
 
-Section 7. Bright-Line Presumptions
+Section 8. Bright-Line Presumptions
 
-Transactions subject to Section 6 are presumptively predatory where:
+Transactions subject to Section 7 are presumptively predatory where:
 	1.	material risks, costs, or failure rates are not disclosed prominently and in plain language;
 	2.	compensation is primarily derived from recruitment rather than end-user value; or
 	3.	exit requires forfeiture, penalty, or continued payment disproportionate to any bona fide service rendered.
@@ -19797,7 +20167,7 @@ Such presumptions may be rebutted only by clear and convincing evidence.
 
 ⸻
 
-Section 8. Enforcement and Remedies
+Section 9. Enforcement and Remedies
 
 Violations of this Article are actionable through:
 	•	civil enforcement;
@@ -19807,12 +20177,14 @@ Violations of this Article are actionable through:
 	•	prohibition on reconstitution under successor names or structures;
 	•	criminal referral where warranted.
 
+Violations of Section 6 constitute predatory economic practices per se.
+
 Arbitration clauses, choice-of-law provisions, forum selection clauses, or class-action waivers shall not bar enforcement.
 Where an enterprise enters insolvency within a defined period following extraordinary distributions to executives or controlling investors, such distributions shall be subject to mandatory clawback.
 
 ⸻
 
-Section 9. Escalation and Severity
+Section 10. Escalation and Severity
 
 Where predatory economic practices are willful, systematic, concealed, or result in widespread harm, such conduct constitutes parasitic wealth extraction and qualifies as a grave offense under Article 0.
 
@@ -19822,7 +20194,7 @@ No property right shall vest in proceeds derived from predatory conduct.
 
 ⸻
 
-Section 10. Interpretation
+Section 11. Interpretation
 
 This Article regulates conduct, not protected expression.
 
@@ -19853,13 +20225,23 @@ There is hereby established the Economic Constitutional Enforcement Directorate 
 The Directorate shall not be part of the Executive Branch, shall possess no independent executive or regulatory authority, and may not be merged with, absorbed by, or subordinated to any executive agency, department, ministry, or office. Any attempt to do so is void ab initio.
 ⸻
 Section 2. Strict Subject-Matter Jurisdiction (Lock-Protected)
-The Directorate’s jurisdiction is limited exclusively to alleged violations of: • Article VIII — Economic Structure and Stewardship; • Article VIII-A — Supplemental Economic Doctrines and Safeguards; • Article VIII-B — Prohibition of Predatory Economic Practices; • Article VIII-C — Systemic Confidence Exploitation.
+The Directorate’s jurisdiction is limited exclusively to alleged violations of: 
+	•	Article VIII — Economic Structure and Stewardship;
+	•	Article VIII-A — Supplemental Economic Doctrines and Safeguards;
+	•	Article VIII-B — Prohibition of Predatory Economic Practices;
+	•	Article VIII-C — Systemic Confidence Exploitation;
+	•	Article VIII-E — Concentrations of Private Power.
+Foreign-Controlled Concentrations. The Directorate’s jurisdiction extends to foreign-controlled entities and control structures that materially impact the Republic within the enumerated Articles, subject to the same evidentiary and due-process limits.
+Prioritization.
 The Directorate shall prioritize systemic, patterned, or large-scale conduct reasonably foreseeable to produce widespread economic harm, institutional capture, or parasitic wealth extraction.
+Initiation Standard; Remedy Standard.
+The Directorate may initiate inquiry upon articulable evidence suggesting a material risk of violation within its strict jurisdiction. Structural remedies and compulsory measures shall remain court-imposed only, and shall follow the proof standards required by Article VIII-E and due process.
+Objective Thresholds (Implementing Law Permitted). Implementing law may define objective thresholds and evidentiary indicators that may support initiation or prioritization of investigations, such as market-share bands, concentration indices, merger pattern indicators, or other evidence-based metrics. No such thresholds shall create irrebuttable presumptions, shall not substitute for constitutional elements or required proof, and shall remain subject to judicial review and contestability.
 The Directorate possesses no authority over ordinary commercial disputes, contract interpretation absent constitutional violation, lawful business failure, labor relations not rising to constitutional violation, taxation, rate-setting, price controls, or any matter outside the enumerated Articles.
 ⸻
 Section 3. Investigative Powers and Absolute Prohibitions (Lock-Protected)
 (a) Permitted Powers
-Subject to judicial warrant where required, the Directorate may: 1. conduct forensic accounting, financial analysis, and pattern-based investigations; 2. issue subpoenas for records, testimony, and data; 3. compel production of documents, transactional histories, and control relationships; 4. investigate successor entities, affiliates, shells, proxies, and control structures; 5. assemble evidentiary records for referral to prosecution.
+Subject to judicial warrant where required, the Directorate may: 1. conduct forensic accounting, financial analysis, and pattern-based investigations; 2. issue subpoenas for records, testimony, and data; 3. compel production of documents, transactional histories, and control relationships; 4. investigate successor entities, affiliates, shells, proxies, and control structures; 5. aggregate beneficial ownership and concerted conduct across affiliates, shells, proxies, and control structures, and treat substance as controlling over form where reasonably supported by evidence; 6. assemble evidentiary records for referral to prosecution.
 (b) Absolute Prohibitions
 The Directorate shall have no authority to: 1. issue regulations, guidance, interpretive rules, or policy directives; 2. define lawful or unlawful economic conduct beyond constitutional text; 3. impose fines, penalties, sanctions, or remedies; 4. negotiate settlements, grant immunity, safe harbors, or exemptions absent court approval; 5. suspend enforcement for policy, political, economic, or emergency reasons; 6. act as an independent prosecutor; all cases must be referred to the CJC or authorized courts.
 Any such prohibited act is void and constitutes a grave constitutional offense.
@@ -19869,10 +20251,11 @@ Investigations may be initiated only by: (a) referral from the Constitutional 
 The Directorate shall not self-initiate investigations absent CJC authorization.
 Investigations shall be declined where motivated by political animus, ideological bias, lawful wealth accumulation, unpopular speech, or sectoral dislike.
 All initiations shall be documented and subject to judicial review, with redaction permitted only for active investigative necessity.
+Whistleblower Submissions and Protections. The Directorate shall maintain a secure whistleblower submission channel and protective procedures as provided by law. Implementing law may authorize rewards funded only from recoveries obtained through judicial remedy and may not exceed thirty percent (30%) of such recoveries. Retaliation against whistleblowers is prohibited and actionable.
 ⸻
 Section 5. Prosecution and Judicial Remedies
 The Directorate may refer cases only to the Constitutional Review Court or courts of general jurisdiction for prosecution.
-All remedies shall be imposed by courts only and may include: • injunctive relief; • restitution and disgorgement; • clawback of unconstitutional gains; • dissolution or restructuring of offending entities; • prohibition on successor reconstitution; • referral for criminal prosecution where warranted.
+All remedies shall be imposed by courts only and may include: • injunctive relief; • restitution and disgorgement; • clawback of unconstitutional gains; • dissolution or restructuring of offending entities; • prohibition on successor reconstitution; • for digital or networked platforms, mandatory interoperability, open standards, data portability, or nondiscriminatory access rules where necessary to remedy structural harm and restore competitive conditions (cross-reference: Article VIII-E); • referral for criminal prosecution where warranted.
 The Directorate shall not decline prosecution based on entity size, economic importance, employment impact, market position, or claimed indispensability.
 “No entity is too big to comply.”
 ⸻
@@ -19897,6 +20280,46 @@ Section 9. Construction and Lock Protection
 This Article shall be construed strictly to enable enforcement of existing constitutional economic safeguards without creating new regulatory authority, investigative sprawl, or policy power.
 Ambiguities shall be resolved against expansion.
 Judicial subordination, strict jurisdictional limits, prohibitions on rulemaking and punishment, transparency obligations, and anti-capture safeguards are structurally locked pursuant to Article XV and may not be repealed, suspended, diluted, or reinterpreted except through the highest procedural threshold defined therein. 
+
+Article VIII-E — Concentrations of Private Power
+Charge
+Economic liberty thrives in open markets where productive commerce flourishes through merit, innovation, and voluntary exchange. However, concentrated private economic power can undermine competition, suppress innovation, impair labor mobility, distort markets, and erode civic self-government. This Article constitutionalizes an anti-oligarchy duty: scale is tolerated, but no private actor or coordinated structure may accumulate or exercise power that materially harms competitive liberty or constitutional order.
+⸻
+Section 1. Principle of Competitive Liberty
+(a) Competitive Conditions as a Constitutional Interest. The Republic affirms that free competition, open markets, labor mobility, innovation, interoperability, and civic autonomy are essential to economic liberty and democratic self-government.
+(b) Prohibition on Harmful Concentrations. No private entity, combination, coordinated structure, or beneficial-ownership aggregation shall possess or exercise power sufficient to substantially impair the conditions in subsection (a) through exclusionary practices, collusion, lock-in, rent-seeking, shadow governance, or other conduct that materially undermines competitive liberty or constitutional order.
+(c) Scale Not Unlawful Per Se; No Permanence. Scale, dominance, or exclusive control is not unlawful per se. However, no monopoly, oligopoly, cartel, or dominant enterprise has any presumption of permanence, immunity, indispensability, or entitlement to continued existence.
+(d) Evidence-Based Enforcement. Enforcement shall follow measurable harms, durable indicators of exclusion or capture, and evidentiary proof; scale alone does not trigger structural remedy absent evidence of abuse or material impairment of the conditions in subsection (a).
+In determining whether a concentration materially impairs competitive liberty, courts may consider evidence of Rent-Seeking, Parasitic Practices, or Shadow Government as defined in Article 0.
+⸻
+Section 2. Federal Authority and Affirmative Duty
+(a) Duty. The federal government has the authority and the affirmative duty to prevent, limit, regulate, or dissolve concentrations of private economic or institutional power that materially undermine: (1) free and fair competition;
+(2) the ability of individuals to enter, exit, or participate in markets or professions;
+(3) innovation, interoperability, or open access to essential goods, services, or infrastructure; or
+(4) civic independence, democratic governance, or constitutional order.
+In determining whether a concentration materially impairs competitive liberty, courts may consider evidence of Rent-Seeking, Parasitic Practices, or Shadow Government as defined in Article 0.
+(b) No Contrary Construction. No statute, executive policy, or administrative construction may negate, suspend, or materially weaken this duty.
+Where the record shows organized schemes of Rent-Seeking, Parasitic Practices, or Shadow Government, no presumption of permanence applies and structural remedy preference shall control.
+⸻
+Section 3. Structural Remedies Preferred
+(a) Structural Correction Where Structural Harm Exists. Where a court finds a violation of this Article, remedies shall prioritize structural correction, including: (1) dissolution, divestiture, separation, or restructuring; (2) mandatory interoperability, open standards, nondiscriminatory access, or data portability where necessary to restore competitive conditions; (3) prohibition of exclusionary, tying, predatory, lock-in, or collusive practices; and (4) restoration of competitive conditions through durable measures.
+(b) Behavioral Measures Not a Substitute. Fines, settlements, or behavioral commitments may supplement but shall not substitute for structural remedies where structural harm exists or persists.
+Where the record shows organized schemes of Rent-Seeking, Parasitic Practices, or Shadow Government, no presumption of permanence applies and structural remedy preference shall control.
+(c) Successor Evasion Prohibited. Courts may prohibit reconstitution through successor entities, shells, proxies, affiliates, or materially equivalent combinations to effectuate remedies.
+⸻
+Section 4. Neutral Enforcement
+Enforcement shall not depend upon political alignment, ideology, sectoral popularity, or asserted social utility. No private actor shall be exempted on grounds of convenience, influence, employment impact, market position, or claimed indispensability.
+⸻
+Section 5. Legislative Implementation and Evidentiary Standards
+(a) Implementing Law Permitted. The Legislature may enact implementing law defining procedures and evidentiary standards, provided no such law negates, dilutes, or materially weakens the duties or structural remedies herein imposed.
+(b) Structural Remedy Standard. Where a remedy is structural in nature, the Republic shall prove the constitutional violation and the necessity of the structural remedy by clear and convincing evidence, unless a higher standard is otherwise required by this Constitution.
+⸻
+Section 6. Enforcement Routing and Due Process
+Structural remedies and compulsory measures under this Article shall be imposed by courts only, pursuant to due process of law. Investigations and prosecutions may be routed through the Economic Constitutional Enforcement Directorate under Article VIII-D, subject to its strict jurisdictional limits, judicial subordination, transparency duties, and absolute prohibitions.
+⸻
+Section 7. Construction and Lock Protection
+This Article supplements Article VIII and shall be construed in favor of competitive liberty and against oligarchic consolidation. Structural remedy preference and neutrality requirements are lock-protected pursuant to Article XV.
+
 Article IX — Land, Homesteading, and Agricultural Duty
 
 Charge
@@ -20026,6 +20449,7 @@ Speculative ownership shall be defined as the acquisition or retention of land o
 (c) Ownership Transparency
 All land ownership shall be transparent. Beneficial ownership must be publicly disclosed. Anonymous or nominee ownership is prohibited. Failure to disclose constitutes grounds for forfeiture.
 Any attempt to circumvent these limits through proxies, trusts, shell companies, or pretextual coercion (as defined in Article 0) is void ab initio.
+Concentrations of land ownership that function as Rent-Seeking or Shadow Government may be investigated under Article VIII-D and remedied under Article VIII-E, consistent with due process.
 (d) Interpretation
 This Section shall be interpreted to ensure that land serves families, workers, farmers, and communities before financiers and absentee interests.
 
@@ -20177,7 +20601,6 @@ Section 12. Article IX — Definitions and Construction
 	•	Rules of constitutional interpretation applicable to this Article are governed by Article XIX.
 	•	This Article supplements Article VIII. Where provisions overlap, the stricter stewardship, anti-monopoly, or anti-abuse rule shall govern unless explicitly stated otherwise.
 Section 13. Lock Designation
-
 Pursuant to Article XV, this Article is hereby designated as LOCK-PROTECTED. No amendment, statute, executive action, judicial doctrine, or emergency declaration may dilute, suspend, reinterpret, or circumvent the stewardship obligations, anti-speculation provisions, homesteading rights, agricultural protections, or evidentiary standards herein except through the highest procedural threshold and certification of non-diminishment.
 
 
